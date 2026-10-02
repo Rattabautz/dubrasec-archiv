@@ -1,0 +1,351 @@
+[
+  {
+    "id": "daily-example-2026-10-02",
+    "type": "day",
+    "date": "2026-10-02",
+    "start": "2026-09-28",
+    "end": "2026-10-02",
+    "title": "Dubra GPT Security Tagesbericht",
+    "subtitle": "Beispielausgabe vom 2. Oktober 2026",
+    "example": true,
+    "file": "Dubra_GPT_Security_Tagesbericht_Beispiel.docx",
+    "tags": [
+      "Physical Security",
+      "Energie",
+      "Drohnen",
+      "Schifffahrt",
+      "Großbritannien",
+      "Ukraine",
+      "Hormus"
+    ],
+    "summary": "Gestaltungsbeispiel mit Meldungen zu RAF Fairford, Angriffen auf ukrainische Energieanlagen und einem Tankerbrand in der Straße von Hormus.",
+    "paragraphs": [
+      {
+        "text": "Dubra GPT Security Tagesbericht",
+        "heading": false
+      },
+      {
+        "text": "powered by DubraSec",
+        "heading": false
+      },
+      {
+        "text": "02 OKTOBER 2026   /   PHYSICAL SECURITY   /   BEISPIELAUSGABE",
+        "heading": false
+      },
+      {
+        "text": "Lage auf einen Blick",
+        "heading": true
+      },
+      {
+        "text": "Angriffe auf Energieversorgung und maritime Transporte stehen im Mittelpunkt dieser Auswahl. Die Meldungen zeigen mögliche Folgen für Betriebsfähigkeit, Versorgung und Personenschutz. Aus ihnen ergibt sich keine konkrete Warnung für einen bestimmten deutschen Standort.",
+        "heading": false
+      },
+      {
+        "text": "Designvorschau mit bereits recherchierten Meldungen vom 28. September bis 2. Oktober 2026. Diese Ausgabe demonstriert die Gestaltung eines Tagesberichts; sie ist kein neu recherchiertes Tageslagebild. Weltweite Auswahl mit europäischem Bezug.",
+        "heading": false
+      },
+      {
+        "text": "Europäische Sicherheitslage",
+        "heading": true
+      },
+      {
+        "text": "01  /  GROSSBRITANNIEN",
+        "heading": false
+      },
+      {
+        "text": "Ermittlungen nahe RAF Fairford",
+        "heading": true
+      },
+      {
+        "text": "Update 29. September 2026 · Behördenmeldung",
+        "heading": false
+      },
+      {
+        "text": "Die britische Counter Terrorism Policing bestätigte, dass bei der Untersuchung verdächtiger Fahrzeuge keine improvisierten Sprengsätze gefunden wurden; Benzin wurde sichergestellt. Fünf Männer wurden am 28. September unter strengen Auflagen freigelassen. Die Ermittlungen dauern an.",
+        "heading": false
+      },
+      {
+        "text": "Quellenlage  Ein nachgewiesener Anschlag oder eine staatliche Verantwortlichkeit ist damit nicht festgestellt. Der ursprüngliche Vorfall ereignete sich am 27. September; betrachtet wird die Aktualisierung dieser Woche.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz  Für geschützte Standorte sind klare Meldewege für auffällige Fahrzeuge und abgestimmte Reaktionen mit Einsatzkräften relevant.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: Counter Terrorism Policing",
+        "heading": false
+      },
+      {
+        "text": "Infrastruktur und Transport",
+        "heading": true
+      },
+      {
+        "text": "02  /  UKRAINE",
+        "heading": false
+      },
+      {
+        "text": "Energieanlagen unter Beschuss",
+        "heading": true
+      },
+      {
+        "text": "Ereignis 29. bis 30. September 2026 · Behördenangaben über Medien",
+        "heading": false
+      },
+      {
+        "text": "RBC-Ukraine berichtet unter Berufung auf Präsident Selenskyj über Drohnen- und Raketenangriffe auf Energieinfrastruktur in Kyjiw und der Region. Nach ukrainischen Angaben wurden Strom- und Wasserversorgung beeinträchtigt.",
+        "heading": false
+      },
+      {
+        "text": "Quellenlage  Der Angriff und seine Auswirkungen sind öffentlich berichtet; das vollständige Schadensbild wurde für diese Ausgabe nicht unabhängig überprüft.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz  Ersatzstrom und Abhängigkeiten zwischen Energie, Wasser, Kommunikation und Zugangssystemen gemeinsam prüfen.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: RBC-Ukraine",
+        "heading": false
+      },
+      {
+        "text": "03  /  GOLFREGION",
+        "heading": false
+      },
+      {
+        "text": "Tankerbrand in der Straße von Hormus",
+        "heading": true
+      },
+      {
+        "text": "Ereignis 1. Oktober 2026 · Bericht vom 2. Oktober",
+        "heading": false
+      },
+      {
+        "text": "Seatrade Maritime berichtet über eine UKMTO-Drittmeldung: Ein Tanker sei von einem unbekannten Projektil getroffen worden und habe Feuer gefangen. Die Besatzung wurde als sicher gemeldet; mögliche Umweltschäden waren unbekannt.",
+        "heading": false
+      },
+      {
+        "text": "Quellenlage  Die jüngste Meldung beruht auf einem Drittbericht. Schiffsidentität und konkrete Täterschaft sind hier nicht unabhängig bestätigt.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz  Aktuelle maritime Sicherheitsmeldungen bei Transport- und Reiseentscheidungen berücksichtigen.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: Seatrade Maritime",
+        "heading": false
+      },
+      {
+        "text": "Prüfpunkte für den Betrieb",
+        "heading": true
+      },
+      {
+        "text": "Versorgungsabhängigkeiten und Ersatzstrom prüfen. Auffälligkeiten am Standort über etablierte Meldewege melden. Transporte durch betroffene Regionen anhand aktueller Sicherheitsinformationen bewerten. Diese Punkte sind analytische Ableitungen, keine behördlichen Anweisungen.",
+        "heading": false
+      }
+    ],
+    "sources": [
+      "https://www.counterterrorism.police.uk/news/update-on-raf-fairford-investigation-1600-28-september-2026/",
+      "https://newsukraine.rbc.ua/news/russia-targets-kyiv-s-energy-infrastructure-1790769166.html",
+      "https://www.seatrade-maritime.com/security/tanker-catches-fire-after-first-hormuz-attack-in-october"
+    ]
+  },
+  {
+    "id": "weekly-2026-40",
+    "type": "week",
+    "date": "2026-10-02",
+    "start": "2026-09-28",
+    "end": "2026-10-02",
+    "title": "Physical Security Wochenbericht",
+    "subtitle": "Kalenderwoche 40 · Zwischenstand",
+    "example": false,
+    "file": "Physical_Security_Wochenbericht_KW40_2026.docx",
+    "tags": [
+      "Physical Security",
+      "Energie",
+      "Sabotageverdacht",
+      "Drohnen",
+      "Schifffahrt",
+      "Großbritannien",
+      "Ukraine",
+      "Syrien",
+      "Russland",
+      "Hormus"
+    ],
+    "summary": "Fünf ausgewählte Ereignisse und Ermittlungsentwicklungen rund um geschützte Standorte, Energieanlagen, Pipelines und maritime Transporte.",
+    "paragraphs": [
+      {
+        "text": "Physical Security Wochenbericht",
+        "heading": false
+      },
+      {
+        "text": "Testausgabe für die Kalenderwoche 40",
+        "heading": false
+      },
+      {
+        "text": "Berichtszeitraum 28. September bis 2. Oktober 2026 · Stand 2. Oktober 2026 · Sprache Deutsch",
+        "heading": false
+      },
+      {
+        "text": "Diese Auswahl fasst öffentlich berichtete physische Bedrohungen für Energieanlagen, Verkehr und geschützte Standorte zusammen. Die betrachteten Meldungen zeigen insbesondere Risiken durch Angriffe aus der Luft, Brände an Versorgungsanlagen und sicherheitsrelevante Aktivitäten im Umfeld geschützter Einrichtungen. Eine direkte Gefährdung eines bestimmten deutschen Standorts lässt sich daraus nicht ableiten.",
+        "heading": false
+      },
+      {
+        "text": "Umfang: weltweit, mit europäischem Bezug. Die laufende Woche ist noch nicht abgeschlossen. Es handelt sich um eine ausgewählte OSINT-Zusammenfassung, keine vollständige Ereignisliste. Reine Cybervorfälle sind ausgeschlossen. Angaben von Konfliktparteien und Drittberichte werden ausdrücklich zugeordnet.",
+        "heading": false
+      },
+      {
+        "text": "Ereignisse und Entwicklungen",
+        "heading": true
+      },
+      {
+        "text": "1 Ermittlungen im Umfeld von RAF Fairford",
+        "heading": true
+      },
+      {
+        "text": "Großbritannien · Vorfall 27. September · neue Behördeninformationen 28. und 29. September",
+        "heading": false
+      },
+      {
+        "text": "Die britische Counter Terrorism Policing teilte mit, dass fünf festgenommene Männer am 28. September unter strengen Auflagen freigelassen wurden; die Ermittlungen laufen weiter. Bei der Untersuchung der Fahrzeuge wurden keine improvisierten Sprengsätze gefunden, jedoch Benzin. Eine Beteiligung eines fremden Staates wird untersucht, ist aber nicht festgestellt. Der ursprüngliche Vorfall liegt vor dem Berichtszeitraum; aufgenommen sind die Aktualisierungen dieser Woche. [1]",
+        "heading": false
+      },
+      {
+        "text": "Einordnung: bestätigte Ermittlungsentwicklung, kein nachgewiesener Anschlag. Relevanz für Physical Security: Meldung auffälliger Fahrzeuge, abgestimmte Alarmierung und verhältnismäßige Absperrungen im Umfeld geschützter Standorte.",
+        "heading": false
+      },
+      {
+        "text": "2 Angriffe auf Energieinfrastruktur in der Ukraine",
+        "heading": true
+      },
+      {
+        "text": "Ukraine · Nacht vom 29. auf den 30. September",
+        "heading": false
+      },
+      {
+        "text": "RBC-Ukraine berichtet unter Berufung auf Präsident Selenskyj über einen kombinierten Drohnen- und Raketenangriff mit Schwerpunkt auf Energieanlagen in Kyjiw und der umliegenden Region. Strom- und Wasserversorgung wurden laut ukrainischen Angaben beeinträchtigt; auch weitere Regionen meldeten Treffer auf kritische Infrastruktur. Die Regierung forderte die Prüfung von Ersatzstromsystemen für kritische Einrichtungen. [2]",
+        "heading": false
+      },
+      {
+        "text": "Einordnung: berichteter Angriff mit zugeordneten ukrainischen Behördenangaben; das vollständige Schadensbild ist hier nicht unabhängig geprüft. Relevanz: Ausfälle der Energieversorgung können Wasser, Kommunikation, Gebäudesicherheit und Betriebsfähigkeit gleichzeitig beeinträchtigen.",
+        "heading": false
+      },
+      {
+        "text": "Weitere Infrastrukturereignisse",
+        "heading": true
+      },
+      {
+        "text": "3 Pipelinebrand nach Explosion in Syrien",
+        "heading": true
+      },
+      {
+        "text": "Syrien · 28. September · Bericht vom 29. September",
+        "heading": false
+      },
+      {
+        "text": "Rudaw berichtet unter Berufung auf die staatliche Nachrichtenagentur SANA über eine Explosion an einem Ventil einer Gasleitung zwischen al-Shula und Deir ez-Zor. Der folgende Brand unterbrach nach Angaben der Syrian Petroleum Company den Gastransport vom al-Jibsa-Werk zu Kraftwerken. Einsatzkräfte isolierten den betroffenen Leitungsabschnitt. Tote oder Verletzte wurden im Bericht nicht gemeldet. [3]",
+        "heading": false
+      },
+      {
+        "text": "Einordnung: Brand und Versorgungsunterbrechung sind berichtet; die Bezeichnung als Sabotage stammt aus syrischen Staatsmedien. Täter und Ursache sind in der geprüften Quelle nicht unabhängig belegt. Relevanz: einzelne Leitungsabschnitte können über die Brennstoffversorgung nachgelagerte Kraftwerke beeinträchtigen.",
+        "heading": false
+      },
+      {
+        "text": "4 Angriffe auf Handelsschiffe in der Straße von Hormus",
+        "heading": true
+      },
+      {
+        "text": "Golfregion · 28. und 29. September sowie 1. Oktober · Bericht vom 2. Oktober",
+        "heading": false
+      },
+      {
+        "text": "Seatrade Maritime berichtet über vier Tankervorfälle am 28. und 29. September. Für den 1. Oktober meldete UKMTO dem Artikel zufolge einen Drittbericht über einen Tanker, der von einem unbekannten Projektil getroffen worden sei und Feuer gefangen habe. Die Besatzung wurde als sicher gemeldet; Umweltauswirkungen waren unbekannt. Ein Sicherheitsdienst identifizierte das Schiff als Kazimah III. [4]",
+        "heading": false
+      },
+      {
+        "text": "Einordnung: maritime Sicherheitsmeldungen, darunter ein ausdrücklich als Drittbericht gekennzeichneter Vorfall. Schiffsidentität und konkrete Täterschaft sind für den jüngsten Vorfall hier nicht unabhängig bestätigt. Relevanz: Schutz von Besatzungen, sichere Routen und mögliche Lieferkettenunterbrechungen.",
+        "heading": false
+      },
+      {
+        "text": "5 Gemeldete Drohnenangriffe auf Anlagen in Russland",
+        "heading": true
+      },
+      {
+        "text": "Russland · 28. September",
+        "heading": false
+      },
+      {
+        "text": "The Kyiv Independent berichtet unter Berufung auf Selenskyj über ukrainische Angriffe auf Rüstungsbetriebe und Ölanlagen. Zusätzlich wurde ein Brand am mutmaßlichen Öldepot Pavlovskaya in Krasnodar gemeldet. Die Redaktion konnte das Bildmaterial und die Identifizierung dieses Depots nicht unabhängig verifizieren. [5]",
+        "heading": false
+      },
+      {
+        "text": "Einordnung: Angaben einer Konfliktpartei und unbestätigte lokale Berichte. Relevanz: Brandfolgen an Energie- und Industrieanlagen sowie Ausfallrisiken für abhängige Betriebe. Eine Übertragung der konkreten Kriegsbedrohung auf Deutschland wäre unbegründet.",
+        "heading": false
+      },
+      {
+        "text": "Ableitungen für Sicherheitsverantwortliche",
+        "heading": true
+      },
+      {
+        "text": "Die folgenden Punkte sind analytische Ableitungen aus dieser Auswahl, keine behördlichen Warnungen oder Feststellungen zu einzelnen Unternehmen.",
+        "heading": false
+      },
+      {
+        "text": "Versorgungsabhängigkeiten prüfen: Ersatzstrom, Wasser, Kommunikation und Zugangssysteme gemeinsam betrachten; Funktionsfähigkeit unter realistischen Ausfallbedingungen prüfen.",
+        "heading": false
+      },
+      {
+        "text": "Standortmeldungen handhabbar machen: Wachpersonal und Mitarbeitende benötigen klare Meldewege für auffällige Fahrzeuge, unerlaubten Zutritt oder Drohnensichtungen und abgestimmte Kontakte zu Polizei und Einsatzkräften.",
+        "heading": false
+      },
+      {
+        "text": "Brandfolgen begrenzen: Alarmierung, Evakuierungsabläufe und Wiederanlaufpläne für energieabhängige Anlagen regelmäßig überprüfen.",
+        "heading": false
+      },
+      {
+        "text": "Reise- und Transportentscheidungen aktualisieren: Für Konfliktregionen und die Golfroute aktuelle behördliche und maritime Sicherheitsinformationen einholen.",
+        "heading": false
+      },
+      {
+        "text": "Unsicherheit erhalten: Verdacht, Verantwortungszuordnung und bestätigten Schaden getrennt dokumentieren; unbestätigte Meldungen nicht als gesichertes Lagebild weitergeben.",
+        "heading": false
+      },
+      {
+        "text": "Quellen und Nachvollziehbarkeit",
+        "heading": true
+      },
+      {
+        "text": "Alle Quellen wurden am 2. Oktober 2026 geprüft. Eckdaten beziehen sich auf den jeweils genannten Veröffentlichungsstand. Die Bewertung beruht auf der Quellenlage, nicht auf eigener Vor-Ort-Verifikation.",
+        "heading": false
+      },
+      {
+        "text": "[1] Counter Terrorism Policing · Update 29. September 2026",
+        "heading": false
+      },
+      {
+        "text": "[2] RBC-Ukraine · Angriff auf Energieinfrastruktur · 30. September 2026",
+        "heading": false
+      },
+      {
+        "text": "[3] Rudaw · Pipelinebrand in Syrien · 29. September 2026",
+        "heading": false
+      },
+      {
+        "text": "[4] Seatrade Maritime · Tankerbrand in der Straße von Hormus · 2. Oktober 2026",
+        "heading": false
+      },
+      {
+        "text": "[5] The Kyiv Independent · Angriffe auf Anlagen in Russland · 28. September 2026",
+        "heading": false
+      }
+    ],
+    "sources": [
+      "https://www.counterterrorism.police.uk/news/update-on-raf-fairford-investigation-1600-28-september-2026/",
+      "https://newsukraine.rbc.ua/news/russia-targets-kyiv-s-energy-infrastructure-1790769166.html",
+      "https://beta.rudaw.net/english/categories/syria/1079502",
+      "https://www.seatrade-maritime.com/security/tanker-catches-fire-after-first-hormuz-attack-in-october",
+      "https://kyivindependent.com/fire-reported-at-oil-depot-in-russias-krasnodar-krai-amid-drone-attack/"
+    ]
+  }
+]
