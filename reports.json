@@ -347,5 +347,71 @@
       "https://www.seatrade-maritime.com/security/tanker-catches-fire-after-first-hormuz-attack-in-october",
       "https://kyivindependent.com/fire-reported-at-oil-depot-in-russias-krasnodar-krai-amid-drone-attack/"
     ]
+  },
+  {
+    "id": "daily-test-2026-10-22",
+    "type": "day",
+    "date": "2026-10-22",
+    "start": "2026-10-21",
+    "end": "2026-10-22",
+    "title": "DubraSec Security Intelligence Tagesbericht",
+    "subtitle": "Testausgabe 22. Oktober 2026",
+    "example": true,
+    "file": "Tagesberichte/2026-10-22_TEST.md",
+    "tags": [
+      "Physical Security",
+      "Sabotage",
+      "Cyberangriff",
+      "AXA",
+      "Kritische Infrastruktur"
+    ],
+    "summary": "Testausgabe: Sabotagebedrohung in Deutschland, Cyberangriff auf TAKKT und AXA-Kontextmeldung; begrenzte Recherche.",
+    "paragraphs": [
+      {
+        "text": "DubraSec Security Intelligence – Tagesbericht 22.10.2026 (TEST)",
+        "heading": true
+      },
+      {
+        "text": "Status: Testausgabe; begrenzte Recherche, keine vollständige 24-Stunden-Lageauswertung. Die Word- und PDF-Versionen wurden im Chat erstellt, sind aber noch nicht in GitHub gespeichert.",
+        "heading": false
+      },
+      {
+        "text": "Lagebild",
+        "heading": true
+      },
+      {
+        "text": "- Sabotagebedrohung Deutschland (21.10.2026): Medien berichten über erhöhte militärische Sabotagewarnungen. Quelle: https://www.reuters.com/business/aerospace-defense/germanys-military-warns-significant-russian-sabotage-threat-2026-10-21/",
+        "heading": false
+      },
+      {
+        "text": "- TAKKT AG Cyberangriff (21.10.2026): Laut Unternehmensmitteilung Betriebsunterbrechungen durch Cyberangriff; nicht als bestätigter KRITIS-Vorfall eingestuft. Quelle: https://www.investegate.co.uk/announcement/eqs/takkt-ag--0gc8/eqs-adhoc-takkt-ag-cyber-attack-at-takkt-ag/9834935",
+        "heading": false
+      },
+      {
+        "text": "- AXA (Kontextmeldung 19.10.2026): Branchenberichterstattung über Risiko für Bancassurance-Kooperation mit Monte dei Paschi. Außerhalb des 24-Stunden-Fensters. Quelle: https://versicherungswirtschaft-heute.de/tag/axa/",
+        "heading": false
+      },
+      {
+        "text": "Gezieltes Monitoring",
+        "heading": true
+      },
+      {
+        "text": "Für Yncoris, DLR, Infraserv Hürth, Chemiepark Hürth und AXA-Vorstandsmitglieder wurden in der begrenzten Testrecherche keine belastbaren neuen Negativmeldungen dokumentiert. Dies ist kein Nachweis, dass keine Ereignisse stattgefunden haben.",
+        "heading": false
+      },
+      {
+        "text": "Bewertung",
+        "heading": true
+      },
+      {
+        "text": "Sabotage-/Drohnenlage: erhöhte Aufmerksamkeit; IT-Resilienz und Lieferkettenrisiken: relevante Querschnittsthemen. Alle Angaben sind anhand der Originalquellen zu verifizieren.",
+        "heading": false
+      }
+    ],
+    "sources": [
+      "https://www.reuters.com/business/aerospace-defense/germanys-military-warns-significant-russian-sabotage-threat-2026-10-21/",
+      "https://www.investegate.co.uk/announcement/eqs/takkt-ag--0gc8/eqs-adhoc-takkt-ag-cyber-attack-at-takkt-ag/9834935",
+      "https://versicherungswirtschaft-heute.de/tag/axa/"
+    ]
   }
 ]
