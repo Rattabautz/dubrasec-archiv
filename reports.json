@@ -413,5 +413,40 @@
       "https://www.investegate.co.uk/announcement/eqs/takkt-ag--0gc8/eqs-adhoc-takkt-ag-cyber-attack-at-takkt-ag/9834935",
       "https://versicherungswirtschaft-heute.de/tag/axa/"
     ]
+  },
+  {
+    "id": "daily-2026-10-01-to-2026-10-22",
+    "type": "day",
+    "date": "2026-10-22",
+    "start": "2026-10-01",
+    "end": "2026-10-22",
+    "title": "DuBraSec Security Intelligence Lagebericht",
+    "subtitle": "01.–22. Oktober 2026 · Selektive Lageauswertung",
+    "example": false,
+    "file": "Tagesberichte/2026-10-01_bis_2026-10-22.md",
+    "tags": [
+      "Physical Security",
+      "KRITIS",
+      "AXA",
+      "Chemiepark Knapsack",
+      "Perimeter"
+    ],
+    "summary": "Sieben ausgewählte OSINT-Lageeinträge zu Energieversorgung, Flughafensicherheit, Knapsack, AXA und Wirtschaftsschutz; Word/PDF per E-Mail versendet.",
+    "paragraphs": [
+      {
+        "text": "DuBraSec Security Intelligence – 01.–22. Oktober 2026",
+        "heading": true
+      },
+      {
+        "text": "Ausgewählte öffentlich belegte Lageeinträge. Vollständige Word-/PDF-Ausgabe wurde per E-Mail versendet.",
+        "heading": false
+      }
+    ],
+    "sources": [
+      "https://www.presseportal.de/blaulicht/pm/74165/6373290",
+      "https://www.chemiepark-knapsack.de/news",
+      "https://versicherungswirtschaft-heute.de/tag/axa/",
+      "https://www.reuters.com/world/suspected-russia-spy-arrested-germany-bild-says-2026-10-22/"
+    ]
   }
 ]
