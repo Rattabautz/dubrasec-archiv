@@ -505,5 +505,105 @@
       "https://www.reuters.com/world/romania-speed-up-development-black-sea-capabilities-after-cargo-ship-attacks-2026-10-22/",
       "https://www.reuters.com/business/aerospace-defense/europe-weighs-giving-utilities-infrastructure-companies-more-powers-bring-down-2026-10-21/"
     ]
+  },
+  {
+    "id": "daily-security-intelligence-2026-10-24",
+    "type": "day",
+    "date": "2026-10-24",
+    "start": "2026-10-23",
+    "end": "2026-10-24",
+    "title": "DubraSec Security Intelligence Tagesbericht",
+    "subtitle": "24. Oktober 2026 · 24-Stunden-Lagebild",
+    "example": false,
+    "file": "Tagesberichte/2026-10-24_Security_Intelligence.md",
+    "tags": [
+      "Physical Security",
+      "KRITIS",
+      "Ukraine",
+      "Energie",
+      "Schifffahrt",
+      "Rechenzentren",
+      "AXA",
+      "DLR",
+      "Chemiepark Knapsack",
+      "BCM"
+    ],
+    "summary": "Fünf belegte Veröffentlichungen vom 23. Oktober zu maritimen Angriffen, Rechenzentren, Energie und Infrastrukturausfällen; gezieltes Monitoring von AXA, DLR und Chemiepark.",
+    "paragraphs": [
+      {
+        "text": "Lage auf einen Blick",
+        "heading": true
+      },
+      {
+        "text": "Berichtszeitraum: 23.10.2026, 00:10 bis 24.10.2026, 00:10 Uhr MESZ. Fünf Veröffentlichungen vom 23.10.2026; Ereignis- und Veröffentlichungsdatum werden getrennt.",
+        "heading": false
+      },
+      {
+        "text": "Angriffe auf Handelsschiffe in der Straße von Hormus",
+        "heading": true
+      },
+      {
+        "text": "Reuters berichtete am 23.10. anhand von Vorfallregistern über 28 bestätigte und gemeldete Angriffe im Oktober. Faktenstatus: Reuters-Auswertung, Einzelereignisse teils älter. Relevanz: hoch. Risiko: hoch regional, mittel für deutsche Lieferketten. Empfehlung: Transportrouten, Versicherungen und UKMTO-Hinweise prüfen.",
+        "heading": false
+      },
+      {
+        "text": "Ukraine meldet Angriffe auf digitale Infrastruktur",
+        "heading": true
+      },
+      {
+        "text": "Reuters veröffentlichte am 23.10. ukrainische Regierungsangaben über zehn im September getroffene Rechenzentren in Kyjiw. Schadensumfang nicht unabhängig vor Ort bestätigt. Relevanz: hoch. Risiko: hoch regional, mittel als deutsches Resilienz-Szenario. Empfehlung: Redundanz, Notstrom, Zutritt und BCM prüfen.",
+        "heading": false
+      },
+      {
+        "text": "Saudi-Arabien: Angriffe auf Energieanlagen und Ölpreisreaktion",
+        "heading": true
+      },
+      {
+        "text": "Reuters berichtete am 23.10. über Huthi-Angriffe und einen Brent-Schlusskurs von 116,72 USD. Die Einzelangriffe sind nicht alle auf den 23.10. datiert. Relevanz: hoch. Risiko: hoch regional, mittel indirekt. Empfehlung: Energie- und Treibstoffabhängigkeiten bewerten.",
+        "heading": false
+      },
+      {
+        "text": "Sturm Austen beeinträchtigt Strom- und Verkehrsinfrastruktur",
+        "heading": true
+      },
+      {
+        "text": "Am 23.10. meldete Reuters zeitweise fast 300.000 Haushalte ohne Strom in Frankreich und etwa 12.000 in Großbritannien. Kein Angriff, sondern Naturereignis. Relevanz: mittel. Risiko: hoch lokal. Empfehlung: Kaskaden aus Strom-, Verkehrs- und Kommunikationsausfällen testen.",
+        "heading": false
+      },
+      {
+        "text": "Abyei: neue Erkenntnisse zum Drohnenangriff auf Treibstofflogistik",
+        "heading": true
+      },
+      {
+        "text": "Reuters berichtete am 23.10. über einen früher in der Woche erfolgten Angriff auf den Markt Amiet. Verantwortlichkeit nicht geklärt. Relevanz: mittel. Risiko: hoch lokal, niedrig für Deutschland. Empfehlung: Regionale Lageinformationen und Schutz von Treibstofflagern beachten.",
+        "heading": false
+      },
+      {
+        "text": "AXA, DLR, Yncoris und Chemiepark: Monitoring",
+        "heading": true
+      },
+      {
+        "text": "Keine belegte neue negative Sicherheitsmeldung zu AXA, amtierenden AXA-Vorständen, Yncoris, Infraserv Hürth oder Chemiepark Knapsack in der geprüften aktuellen Auswahl. DLR meldete am 22.10. die Wiedererreichbarkeit zuvor vorsorglich abgeschalteter Projektträger-Websites (außerhalb des 24-Stunden-Fensters). Nichtfund ist kein Nachweis von Vorfallsfreiheit.",
+        "heading": false
+      },
+      {
+        "text": "Methodik und Empfehlungen",
+        "heading": true
+      },
+      {
+        "text": "Selektive OSINT-Auswertung; keine unbelegten personenbezogenen Vorwürfe. Abhängigkeiten von Energie, IT, Zutritt und Kommunikation gemeinsam prüfen; Reiserisiken und Quellenstatus nachhalten.",
+        "heading": false
+      }
+    ],
+    "sources": [
+      "https://www.reuters.com/business/energy/ship-attacks-strait-hormuz-hit-record-high-october-2026-10-23/",
+      "https://www.reuters.com/business/aerospace-defense/russia-steps-up-attacks-ukraines-digital-infrastructure-kyiv-says-2026-10-23/",
+      "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/",
+      "https://www.reuters.com/business/energy/storm-causes-power-outages-traffic-disruptions-france-britain-2026-10-23/",
+      "https://www.reuters.com/world/africa/drone-strike-market-town-exposes-reach-trade-fuelling-sudan-war-2026-10-23/",
+      "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-23/deutschlands-beste-arbeitgeber-2026-allianz-verteidigt-spitzenplatz-ergo-und-lvm-holen-auf/",
+      "https://www.dlr.de/de/pt-lf/aktuelles/nachrichten/2026/websites-des-projekttraegers-luftfahrtforschung-aufgrund-von-php-sicherheitsluecke-voruebergehend-offline",
+      "https://www.yncoris.com/yncoris-auf-einen-blick/"
+    ]
   }
 ]
