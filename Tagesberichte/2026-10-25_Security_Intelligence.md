@@ -84,3 +84,4 @@ Quelle: https://www.channelnewsasia.com/singapore/cyber-incident-alliance-medine
 ## Methodik und Einordnung
 
 Selektives OSINT-Lagebild. Rechercheabschluss 25.10.2026 nach 00:10 Uhr MESZ. Veröffentlichungen innerhalb des Fensters können ältere Ereignisse behandeln. Fehlende Treffer sind kein Nachweis für Vorfallsfreiheit; keine eigenen Vor-Ort-Prüfungen.
+
