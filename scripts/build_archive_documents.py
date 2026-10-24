@@ -75,5 +75,5 @@ def build(md):
     print('generated',docx,pdf)
 if __name__=='__main__':
     if len(sys.argv)>1: files=[Path(x) for x in sys.argv[1:]]
-    else: files=sorted(Path('Tagesberichte').glob('????-??-??_Security_Intelligence.md'))
+    else: files=sorted(Path('Tagesberichte').glob('????-??-??_Security_Intelligence.md'))[-1:]
     for f in files:build(f)
