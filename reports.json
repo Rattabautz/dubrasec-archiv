@@ -607,5 +607,276 @@
     ],
     "docx": "Tagesberichte/DubraSec_Tagesbericht_2026-10-24.docx",
     "pdf": "Tagesberichte/DubraSec_Tagesbericht_2026-10-24.pdf"
+  },
+  {
+    "id": "daily-security-intelligence-2026-10-25",
+    "type": "day",
+    "date": "2026-10-25",
+    "start": "2026-10-24",
+    "end": "2026-10-25",
+    "title": "DubraSec Security Intelligence Tagesbericht",
+    "subtitle": "25. Oktober 2026 · Physical & Cyber Security",
+    "example": false,
+    "file": "Tagesberichte/2026-10-25_Security_Intelligence.md",
+    "tags": [
+      "KRITIS",
+      "Petrochemie",
+      "Drohnen",
+      "Versicherungen",
+      "Cyber",
+      "Drittparteien",
+      "Satellitenkommunikation",
+      "AXA"
+    ],
+    "summary": "Vier belegte Veröffentlichungen vom 24. Oktober: ein Angriff auf russische Industrieanlagen, ein Datenvorfall bei einem Dienstleister mehrerer Versicherer, die Wiederherstellung satellitengestützter Kommunikation in der Ukraine und eine neue Analyse zur Kumulation von Cyberversicherungsschäden. Für AXA, YNCORIS, DLR und den Chemiepark Hürth wurde im geprüften Zeitraum kein neuer, belastbar bestätigter standortbezogener Sicherheitsvorfall identifiziert. Die unmittelbare Gefährdung deutscher Zielstandorte ist aus dieser Auswahl nicht ableitbar; branchenübergreifende Lieferanten- und Resilienzrisiken bleiben relevant.",
+    "paragraphs": [
+      {
+        "text": "Lage auf einen Blick",
+        "heading": true
+      },
+      {
+        "text": "Vier belegte Veröffentlichungen vom 24. Oktober: ein Angriff auf russische Industrieanlagen, ein Datenvorfall bei einem Dienstleister mehrerer Versicherer, die Wiederherstellung satellitengestützter Kommunikation in der Ukraine und eine neue Analyse zur Kumulation von Cyberversicherungsschäden. Für AXA, YNCORIS, DLR und den Chemiepark Hürth wurde im geprüften Zeitraum kein neuer, belastbar bestätigter standortbezogener Sicherheitsvorfall identifiziert. Die unmittelbare Gefährdung deutscher Zielstandorte ist aus dieser Auswahl nicht ableitbar; branchenübergreifende Lieferanten- und Resilienzrisiken bleiben relevant.",
+        "heading": false
+      },
+      {
+        "text": "Ereignisse und Entwicklungen",
+        "heading": true
+      },
+      {
+        "text": "01 | RUSSLAND / PETROCHEMIE",
+        "heading": false
+      },
+      {
+        "text": "Drohnenangriff beschädigt Industrieanlagen in Togliatti",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: 24.10.2026",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 24.10.2026 · Reuters",
+        "heading": false
+      },
+      {
+        "text": "Russische Behörden meldeten Schäden an mehreren Industrieanlagen in Togliatti nach einem Drohnenangriff. Die ukrainische Armee erklärte, das petrochemische Werk Togliattikauchuk getroffen zu haben. Der Bürgermeister benannte die beschädigten Anlagen nicht und meldete vorläufig keine Verletzten. Ob das konkret genannte Werk getroffen wurde, ist anhand der Quelle nicht unabhängig verifiziert.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: Angriff und Industrieschäden berichtet; konkrete Zielzuordnung beruht auf ukrainischer Militärangabe.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Industrie- und Chemieanlagen, Brand- und Betriebsunterbrechungsrisiken.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH in der Kriegsregion; NIEDRIG als unmittelbares deutsches Standortsignal.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Drohnenmeldungen, Notfallalarmierung und Brandfolgen als Szenario betrachten; keine pauschale Übertragung auf deutsche Standorte.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.reuters.com/business/aerospace-defense/russia-says-drone-attack-damages-togliatti-facilities-ukraine-says-petrochemical-2026-10-24/",
+        "heading": false
+      },
+      {
+        "text": "02 | VERSICHERUNGEN / DIENSTLEISTER-CYBER",
+        "heading": false
+      },
+      {
+        "text": "Datenvorfall bei Alliance Medinet betrifft Versicherte",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: Unbefugter Zugriff vor dem 24.10.; Behördenmeldung am 21.10.2026",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 24.10.2026, 23:04 Uhr Singapur / 17:04 Uhr MESZ · CNA",
+        "heading": false
+      },
+      {
+        "text": "Alliance Healthcare Group bestätigte einen unbefugten Zugriff auf die Mitgliederdatenbank von Alliance Medinet. Rund 110.000 Datensätze mit Namen, Identifikations- und Kontaktdaten seien betroffen; bei sieben Personen könnten Bankdaten und bei einer Person eine Diagnose betroffen sein. Der Dienstleister arbeitet für mehrere Versicherer, die betroffene Versicherte meldeten, aber keine Kompromittierung ihrer eigenen Systeme bestätigten.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: Öffentliche Unternehmensangaben zu Zugriff und Betroffenen; genaue technische Ursache und endgültiger Umfang offen. Keine AXA-Verbindung belegt.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Drittparteien-, Datenschutz- und Reputationsrisiko für Versicherer.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: MITTEL bis HOCH bei Betroffenen; MITTEL als Branchenszenario; keine belegte AXA-Betroffenheit.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Abhängigkeiten von Auftragsverarbeitern, Datenweitergaben und vertragliche Meldewege prüfen.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.channelnewsasia.com/singapore/cyber-incident-alliance-medinet-6489076",
+        "heading": false
+      },
+      {
+        "text": "03 | KRITISCHE KOMMUNIKATION / UKRAINE",
+        "heading": false
+      },
+      {
+        "text": "Starlink/Starshield nach Einschränkungen wieder nutzbar",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: Wiederherstellung in der Nacht zum 24.10.2026; Einschränkungen seit Mitte Oktober",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 24.10.2026 · Reuters",
+        "heading": false
+      },
+      {
+        "text": "Die ukrainische Regierung meldete die Wiederherstellung ausreichender Geschwindigkeiten für zuvor eingeschränkte Satellitenverbindungen. Die Einschränkungen hatten nach ukrainischen Angaben die Drohnenabwehr und militärische Kommunikation beeinträchtigt. Zur Verantwortung und zum Anlass existieren widersprüchliche öffentliche Aussagen.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: Wiederherstellung und vorangegangene Einschränkungen berichtet; Verantwortung umstritten.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Konzentrationsrisiken bei kritischer Kommunikation.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH im militärischen Einsatzgebiet; MITTEL als allgemeines Provider-Ausfallszenario.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Alternative Kommunikationswege und Notbetriebsverfahren für kritische Funktionen prüfen.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.reuters.com/world/europe/ukraine-says-starlink-starshield-operating-400-kph-after-week-throttling-2026-10-24/",
+        "heading": false
+      },
+      {
+        "text": "04 | CYBERVERSICHERUNG / BRANCHENANALYSE",
+        "heading": false
+      },
+      {
+        "text": "ConnectWise-Vorfall wirft Fragen zur Schadenaggregation auf",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: Vorfall ab Mitte Oktober; keine neue Attacke am 24.10. nachgewiesen",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 24.10.2026 · Blade Intel; Microsoft-Analyse 21.10.2026",
+        "heading": false
+      },
+      {
+        "text": "Eine neue Branchenanalyse diskutiert, ob Schäden aus der Kompromittierung eines gemeinsam genutzten Cloud-Dienstleisters versicherungstechnisch als ein oder mehrere Ereignisse gelten. Hintergrund ist der bereits bekannte ConnectWise-Vorfall. Microsoft beschrieb den Missbrauch von Anwendungsberechtigungen; nicht jede angegriffene Kundenumgebung war dadurch nachweislich kompromittiert.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: Neue Einordnung vom 24.10.; technischer Vorfall und Microsoft-Analyse älter. Keine AXA-Betroffenheit belegt.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: MITTEL – Kumulszenarien, Cloud-Dienstleister, Cyberpolicen.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: MITTEL als Lieferanten- und Versicherungsszenario.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Kumulationsrisiken gemeinsamer Dienstleister in der fachlichen Risikobetrachtung berücksichtigen.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://bladeintel.com/featured/connectwise-breach-puts-cyber-aggregation-clauses-to-the-test/",
+        "heading": false
+      },
+      {
+        "text": "Gezieltes Monitoring der Zielunternehmen",
+        "heading": true
+      },
+      {
+        "text": "AXA / aktuelle AXA-Vorstände",
+        "heading": true
+      },
+      {
+        "text": "Keine ausreichend belegte neue negative Sicherheitsmeldung vom 24.10. identifiziert. Die offizielle AXA-Nachrichtenseite weist als jüngste Pressemitteilung vom 12.10. eine Führungsänderung aus.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.axa.com/en/news",
+        "heading": false
+      },
+      {
+        "text": "YNCORIS / InfraServ Knapsack / Chemiepark Hürth / Infraserv Hürth",
+        "heading": true
+      },
+      {
+        "text": "Keine belastbare neue sicherheitsrelevante Veröffentlichung vom 24.10. identifiziert. Namensähnlichkeiten begründen keine Vorfallzuordnung.",
+        "heading": false
+      },
+      {
+        "text": "DLR",
+        "heading": true
+      },
+      {
+        "text": "Keine neue belastbare Sicherheitsmeldung vom 24.10. identifiziert. Frühere IT-Hinweise werden nicht als neue Vorfälle wiederholt.",
+        "heading": false
+      },
+      {
+        "text": "Versicherungsbranche",
+        "heading": true
+      },
+      {
+        "text": "Bestätigte Dienstleister-Betroffenheit bei Alliance Medinet; keine bestätigte AXA-Betroffenheit.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.channelnewsasia.com/singapore/cyber-incident-alliance-medinet-6489076",
+        "heading": false
+      },
+      {
+        "text": "Priorisierte Prüfpunkte",
+        "heading": true
+      },
+      {
+        "text": "1. Abhängigkeiten von gemeinsamen Dienstleistern, Rechenzentren und Kommunikationsanbietern hinsichtlich Notbetrieb und Ausfallkaskaden erfassen.",
+        "heading": false
+      },
+      {
+        "text": "2. Bei Chemie- und Industrieanlagen Alarmierungs-, Brand- und Evakuierungsszenarien einschließlich Drohnensichtungen in bestehenden Abläufen berücksichtigen.",
+        "heading": false
+      },
+      {
+        "text": "3. Zwischen bestätigter Kompromittierung, betroffenen Dritten und Täterbehauptungen unterscheiden; Ereignis- und Veröffentlichungsdatum getrennt dokumentieren.",
+        "heading": false
+      },
+      {
+        "text": "Methodik und Einordnung",
+        "heading": true
+      },
+      {
+        "text": "Selektives OSINT-Lagebild. Rechercheabschluss 25.10.2026 nach 00:10 Uhr MESZ. Veröffentlichungen innerhalb des Fensters können ältere Ereignisse behandeln. Fehlende Treffer sind kein Nachweis für Vorfallsfreiheit; keine eigenen Vor-Ort-Prüfungen.",
+        "heading": false
+      }
+    ],
+    "sources": [
+      "https://www.reuters.com/business/aerospace-defense/russia-says-drone-attack-damages-togliatti-facilities-ukraine-says-petrochemical-2026-10-24/",
+      "https://www.channelnewsasia.com/singapore/cyber-incident-alliance-medinet-6489076",
+      "https://www.reuters.com/world/europe/ukraine-says-starlink-starshield-operating-400-kph-after-week-throttling-2026-10-24/",
+      "https://bladeintel.com/featured/connectwise-breach-puts-cyber-aggregation-clauses-to-the-test/",
+      "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
+    ]
   }
 ]
