@@ -880,5 +880,314 @@
     ],
     "docx": "Tagesberichte/DubraSec_Tagesbericht_2026-10-25.docx",
     "pdf": "Tagesberichte/DubraSec_Tagesbericht_2026-10-25.pdf"
+  },
+  {
+    "id": "daily-security-intelligence-2026-10-26",
+    "type": "day",
+    "date": "2026-10-26",
+    "start": "2026-10-25",
+    "end": "2026-10-26",
+    "title": "DubraSec Security Intelligence Tagesbericht",
+    "subtitle": "26. Oktober 2026 · 24-Stunden-Lagebild (Zeitumstellung)",
+    "example": false,
+    "file": "Tagesberichte/2026-10-26_Security_Intelligence.md",
+    "tags": [
+      "KRITIS",
+      "Physical Security",
+      "Flughafen",
+      "Maritime Sicherheit",
+      "Satellitenkommunikation",
+      "Versicherungen",
+      "Cyber",
+      "AXA",
+      "Chemiepark Knapsack"
+    ],
+    "summary": "Fünf Veröffentlichungen bzw. Aktualisierungen vom 25. Oktober: fortgesetzte Angriffsgefahr für den Flughafen Riad, unbestätigte russische Angaben zu Angriffen auf Schiffe und Logistik, neue Starlink-Erklärungen, präzisierte Betroffenenzahlen beim Alliance-Medinet-Datenvorfall und eine Cyberversicherungsanalyse. Kein belegter neuer direkter Sicherheitsvorfall bei AXA, YNCORIS, DLR oder Chemiepark Knapsack.",
+    "paragraphs": [
+      {
+        "text": "DubraSec Security Intelligence Tagesbericht – 26.10.2026",
+        "heading": true
+      },
+      {
+        "text": "Berichtszeitraum: 25.10.2026, 01:10 Uhr MESZ bis 26.10.2026, 00:10 Uhr MEZ (exakt 24 Stunden; Zeitumstellung am 25.10.)",
+        "heading": false
+      },
+      {
+        "text": "Recherche-/Quellenstand: 26.10.2026, 00:10 Uhr MEZ. Selektive Auswertung öffentlich zugänglicher Quellen.",
+        "heading": false
+      },
+      {
+        "text": "Lage auf einen Blick",
+        "heading": true
+      },
+      {
+        "text": "Fünf belastbare Veröffentlichungen bzw. Aktualisierungen vom 25. Oktober prägen das Lagebild: fortgesetzte Raketen- und Drohnenbedrohungen für den Flughafen Riad; russische Angaben über Angriffe auf Handelsschiffe und Logistik in der Ukraine, die Reuters nicht unabhängig verifizieren konnte; neue Aussagen zur Ursache der Starlink-Einschränkungen; zusätzliche Betroffenenzahlen nach dem Alliance-Medinet-Datenvorfall; und eine Branchenanalyse zur Cyberversicherung. Die Schwerpunkte liegen bei Schutz kritischer Verkehrs- und Kommunikationsinfrastruktur, maritimen Lieferketten und Dienstleisterrisiken für Versicherer. Eine konkrete Bedrohung für AXA, YNCORIS, DLR oder den Chemiepark Knapsack in Deutschland lässt sich daraus nicht ableiten.",
+        "heading": false
+      },
+      {
+        "text": "Ereignisse und Entwicklungen",
+        "heading": true
+      },
+      {
+        "text": "01 | SAUDI-ARABIEN / LUFTVERKEHR – Flughafen Riad öffnet teilweise trotz weiterer Drohungen",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: 25.10.2026 (Wiederaufnahme des Betriebs und neue Luftabwehrmeldungen); vorausgegangener schwerer Angriff am 10.10.2026.",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 25.10.2026 Ortszeit (Reuters: 24.10.2026, 23:56 UTC = 25.10.2026, 01:56 MESZ).",
+        "heading": false
+      },
+      {
+        "text": "Nach Angaben Saudi-Arabiens nahm der internationale Flughafen King Khalid in Riad den Betrieb an zwei Terminals teilweise wieder auf. Die Huthi-Bewegung kündigte weitere Angriffe an. Saudi-arabische Stellen meldeten abgefangene Raketen und Drohnen; bei der Abwehr zweier Raketen im Süden seien zwei Menschen durch Trümmer verletzt worden. Flugverfolgungsdaten zeigten trotz der Wiedereröffnung zunächst wenig Verkehr. Nicht alle von Konfliktparteien beanspruchten Angriffe sind unabhängig bestätigt.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: Teilweise Wiedereröffnung und behördliche Abwehrmeldungen berichtet; konkrete Zuordnung einzelner Flugkörper zu Huthi-Angaben teilweise offen.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Flughafenbetrieb, Reisendenschutz, Verkehrs- und Energieinfrastruktur.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH regional; MITTEL für Reise-, Luftfracht- und Versicherungsfolgen; keine unmittelbare Gefährdung deutscher Standorte belegt.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Reise- und Flugstatus vor Saudi-Arabien-Reisen aktuell prüfen; Abhängigkeiten von Luftfracht und regionaler Transportlogistik bewerten.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport-2026-10-24/",
+        "heading": false
+      },
+      {
+        "text": "02 | SCHWARZES MEER / LOGISTIK – Russland behauptet Treffer auf zwei Frachtschiffe und Logistikstandorte",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: Nacht zum 25.10.2026 sowie im Tagesverlauf 25.10.2026.",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 25.10.2026, 08:15 UTC / 09:15 MEZ · Reuters.",
+        "heading": false
+      },
+      {
+        "text": "Das russische Verteidigungsministerium erklärte, russische Drohnen hätten zwei Frachtschiffe auf dem Weg nach Tschornomorsk beziehungsweise Odessa getroffen. Ferner behauptete es Angriffe auf ein Logistikzentrum, ein Verteilzentrum und ein Terminal in Charkiw. Moskau bezeichnete die Ziele als militärisch genutzte Logistik. Reuters konnte die Angaben nicht unabhängig überprüfen; Schiffsidentitäten, Schäden und militärische Nutzung sind durch diese Quelle nicht belegt.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: BESTÄTIGT ist die Veröffentlichung russischer Behauptungen; behauptete Treffer und Zielnutzung sind NICHT UNABHÄNGIG VERIFIZIERT.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Seehandel, Hafenlogistik, Lieferketten und Transportversicherung.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH bei tatsächlicher Betroffenheit in der Konfliktregion; MITTEL als indirektes Lieferketten- und Warentransportrisiko.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Meldungen zu betroffenen Routen anhand unabhängiger Schifffahrtswarnungen nachprüfen; unbestätigte Zielzuordnungen nicht als Tatsache weitergeben.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.reuters.com/world/russia-says-it-hit-cargo-vessel-ukrainian-logistic-hubs-overnight-2026-10-25/",
+        "heading": false
+      },
+      {
+        "text": "03 | KRITISCHE KOMMUNIKATION / UKRAINE – Neue Erklärung zu Starlink-Beschränkungen",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: Einschränkungen in der Vorwoche; öffentliche Äußerung des SpaceX-Chefs am 24.10.2026; neue Berichterstattung am 25.10.2026.",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 25.10.2026, 12:02 Uhr EDT / 17:02 Uhr MEZ · The Washington Post.",
+        "heading": false
+      },
+      {
+        "text": "Nach zuvor berichteter Wiederherstellung der Satellitenverbindungen erklärte Elon Musk, SpaceX habe Beschränkungen des zivilen Starlink-Dienstes vorgenommen. Als Grund nannte er aus seiner Sicht vertragswidrige offensive Drohneneinsätze. Ukrainische Vertreter bestritten diese Darstellung und verwiesen auf technische Grenzen des zivilen Dienstes; Starshield wurde ausdrücklich als getrenntes System bezeichnet. Die behauptete Vertragsverletzung ist nicht unabhängig belegt.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: Öffentliche Aussage des Unternehmenschefs und Widerspruch ukrainischer Vertreter dokumentiert; zugrunde liegende Vorwürfe STRITTIG.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Abhängigkeit kritischer Kommunikation von einzelnen Anbietern und Nutzungsbedingungen.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH im betroffenen militärischen Kontext; MITTEL als übertragbares Provider- und Vertragsrisiko.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Kritische Kommunikationsdienste auf Ausweichmöglichkeiten, Nutzungsbedingungen und Eskalationswege prüfen.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.washingtonpost.com/world/2026/10/25/elon-musk-says-spacex-was-behind-restrictions-ukraines-starlink-access/",
+        "heading": false
+      },
+      {
+        "text": "04 | VERSICHERUNGEN / CYBER – Alliance Medinet: neue Betroffenenzahlen und Behördenprüfung",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: Unbefugter Datenbankzugriff vor dem 24.10.2026; Meldung an Datenschutzbehörde am 21.10.2026.",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 24.10.2026, aktualisiert 25.10.2026 um 17:36 Uhr Singapur / 10:36 Uhr MEZ · CNA; weitere Aktualisierung The Straits Times vom 25.10.2026.",
+        "heading": false
+      },
+      {
+        "text": "Die am Vortag gemeldete Kompromittierung von Daten rund 110.000 Versicherter und Leistungsberechtigter wurde am 25. Oktober konkretisiert: HSBC Life nannte 2.614 Einzel- und 1.381 Gruppenversicherte, Singlife 323 Betroffene und Income Insurance etwa 70 Personen. Weitere Versicherer sind betroffen. Die Versicherer erklärten, ihre eigenen Systeme seien nach bisherigem Kenntnisstand nicht kompromittiert; die singapurische Datenschutzaufsicht untersucht den Vorfall. Dies ist ein UPDATE eines bereits bekannten Ereignisses, kein neuer Angriff vom 25. Oktober. Eine AXA-Betroffenheit ist nicht belegt.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: Zahlen sind den Erklärungen der betroffenen Unternehmen zugeordnet; endgültige Forensik und Gesamtausmaß noch offen.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Datenschutz, Drittparteien, Kranken-/Gruppenversicherungen, Reputationsrisiko.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: MITTEL bis HOCH für betroffene Anbieter; MITTEL als Branchenszenario; keine belegte AXA-Betroffenheit.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Bei Drittparteien klare Incident-Meldewege, Datenweitergabe und Nachweis der technischen Trennung kontrollieren.",
+        "heading": false
+      },
+      {
+        "text": "Quellen: https://www.channelnewsasia.com/singapore/alliance-medinet-cyber-incident-hsbc-life-singlife-income-insurance-6489076",
+        "heading": false
+      },
+      {
+        "text": "Ergänzung: https://www.straitstimes.com/singapore/personal-data-of-110000-members-of-healthcare-services-provider-alliance-medinet-compromised",
+        "heading": false
+      },
+      {
+        "text": "05 | CYBERVERSICHERUNG / MARKT – Neue Branchenanalyse zur Nachfrage in Indien",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: Kein neuer Einzelangriff; Analyse bestehender Vorfälle und Marktentwicklung.",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 25.10.2026, 17:43 Uhr IST / 13:13 Uhr MEZ · The Financial Express.",
+        "heading": false
+      },
+      {
+        "text": "Ein Branchenbeitrag mit Aussagen mehrerer Versicherungs- und Maklervertreter beschreibt eine steigende Nachfrage nach Cyberdeckungen in Indien, während kleine und mittlere Unternehmen weiterhin häufig unversichert seien. Als Treiber nennt der Artikel Ransomware, Datenabflüsse, regulatorische Anforderungen und gemeinsame IT-Dienstleister. Zahlen zu Wachstum und Marktvolumen sind Schätzungen der zitierten Marktteilnehmer, keine unabhängig verifizierten amtlichen Statistiken.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: Veröffentlichung und zitierte Einschätzungen belegbar; Marktgrößen und Prognosen als BRANCHENSCHÄTZUNGEN zu behandeln.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: MITTEL – Cyber-Underwriting, Aggregations- und Drittparteirisiken im Versicherungssektor.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: MITTEL als internationaler Branchentrend; keine konkrete AXA-Schadenmeldung.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Bei der Bewertung von Cyberrisiken Ausfall von IT-Dienstleistern, Versicherungsbedingungen und mögliche Kumulschäden getrennt betrachten.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.financialexpress.com/business/news-cyberattacks-fuel-demand-for-cover-but-penetration-remains-low-indias-cyber-insurance-paradox-4369137/",
+        "heading": false
+      },
+      {
+        "text": "Gezieltes Monitoring der Zielunternehmen",
+        "heading": true
+      },
+      {
+        "text": "AXA und aktuelle Vorstandsmitglieder: Im überprüften 24-Stunden-Fenster keine hinreichend belegte neue negative Sicherheits- oder Compliance-Meldung zu AXA, zur AXA Konzern AG oder namentlich überprüften amtierenden Führungspersonen identifiziert. Die Zugehörigkeit zu den Führungsgremien wurde anhand der offiziellen AXA-Seiten abgeglichen; aus fehlenden Treffern folgt keine allgemeine Vorfallsfreiheit.",
+        "heading": false
+      },
+      {
+        "text": "Quellen: https://www.axa.com/en/news ; https://www.axa.com/en/about-us/executive-management ; https://www.axa.de/impressum/kag-impressum",
+        "heading": false
+      },
+      {
+        "text": "YNCORIS / InfraServ Knapsack / Infraserv Hürth / Chemiepark Knapsack (Hürth): Keine belastbare neue Veröffentlichung vom 25.10.2026 über einen standortbezogenen Angriff, Störfall oder Sicherheitsvorfall identifiziert. Die zuletzt öffentlich aufgeführten Standortmeldungen sind älter. Namensvarianten wurden getrennt geprüft; nicht jede Firma mit ähnlichem Namen ist derselbe Betreiber.",
+        "heading": false
+      },
+      {
+        "text": "Quellen: https://www.yncoris.com/mehr/news-termine ; https://www.chemiepark-knapsack.de/news",
+        "heading": false
+      },
+      {
+        "text": "DLR: Keine neue belastbar datierte Sicherheitsmeldung vom 25.10.2026 identifiziert. Ältere Vorfälle werden nicht als aktuelle Ereignisse ausgegeben.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.dlr.de/",
+        "heading": false
+      },
+      {
+        "text": "Versicherungsbranche: Neue Bestätigung einzelner Betroffenenzahlen bei Alliance Medinet und neue Marktanalyse zu Cyberversicherungen; keine belastbare AXA-Betroffenheit aus diesen Quellen.",
+        "heading": false
+      },
+      {
+        "text": "Priorisierte Prüfpunkte",
+        "heading": true
+      },
+      {
+        "text": "1. Für Flugreisen und Transporte in Konfliktregionen tagesaktuelle Behörden-, Flughafen- und Carrier-Informationen statt bloßer Wiedereröffnungsankündigungen nutzen.",
+        "heading": false
+      },
+      {
+        "text": "2. Kritische Kommunikations- und IT-Dienstleister nach Vertragsabhängigkeiten, Redundanz und Eskalationsmöglichkeiten betrachten.",
+        "heading": false
+      },
+      {
+        "text": "3. Bei Datenvorfällen den Unterschied zwischen kompromittiertem Dienstleister, betroffenen Kunden und tatsächlich kompromittierten Kundensystemen ausdrücklich dokumentieren.",
+        "heading": false
+      },
+      {
+        "text": "4. Nicht unabhängig verifizierte militärische Behauptungen zu Angriffszielen bis zur Bestätigung als solche kennzeichnen.",
+        "heading": false
+      },
+      {
+        "text": "Methodik und Einordnung",
+        "heading": true
+      },
+      {
+        "text": "Der Berichtszeitraum umfasst wegen der Zeitumstellung exakt 24 reale Stunden vom 25.10.2026, 01:10 Uhr MESZ (23:10 UTC am 24.10.) bis 26.10.2026, 00:10 Uhr MEZ (23:10 UTC am 25.10.). Aufgenommen sind innerhalb dieses Fensters publizierte Meldungen oder wesentliche Updates; ältere Ereignisdaten sind explizit kenntlich gemacht. Es handelt sich um ein selektives OSINT-Lagebild, nicht um eine vollständige Incident-Datenbank. Risikostufen sind analytische Einschätzungen, keine behördlichen Gefährdungsstufen. Nichtfund ist kein Nachweis von Vorfallsfreiheit. Keine eigenen Vor-Ort-Prüfungen.",
+        "heading": false
+      }
+    ],
+    "sources": [
+      "https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport-2026-10-24/",
+      "https://www.reuters.com/world/russia-says-it-hit-cargo-vessel-ukrainian-logistic-hubs-overnight-2026-10-25/",
+      "https://www.washingtonpost.com/world/2026/10/25/elon-musk-says-spacex-was-behind-restrictions-ukraines-starlink-access/",
+      "https://www.channelnewsasia.com/singapore/alliance-medinet-cyber-incident-hsbc-life-singlife-income-insurance-6489076",
+      "https://www.straitstimes.com/singapore/personal-data-of-110000-members-of-healthcare-services-provider-alliance-medinet-compromised",
+      "https://www.financialexpress.com/business/news-cyberattacks-fuel-demand-for-cover-but-penetration-remains-low-indias-cyber-insurance-paradox-4369137/",
+      "https://www.axa.com/en/news",
+      "https://www.axa.com/en/about-us/executive-management",
+      "https://www.axa.de/impressum/kag-impressum",
+      "https://www.yncoris.com/mehr/news-termine",
+      "https://www.chemiepark-knapsack.de/news",
+      "https://www.dlr.de/"
+    ],
+    "docx": "Tagesberichte/DubraSec_Tagesbericht_2026-10-26.docx",
+    "pdf": "Tagesberichte/DubraSec_Tagesbericht_2026-10-26.pdf"
   }
 ]
