@@ -99,3 +99,5 @@ Ein Branchenbeitrag mit Aussagen mehrerer Versicherungs- und Maklervertreter bes
 ## Methodik und Einordnung
 
 Der Berichtszeitraum umfasst wegen der Zeitumstellung exakt 24 reale Stunden vom 25.10.2026, 01:10 Uhr MESZ (23:10 UTC am 24.10.) bis 26.10.2026, 00:10 Uhr MEZ (23:10 UTC am 25.10.). Aufgenommen sind innerhalb dieses Fensters publizierte Meldungen oder wesentliche Updates; ältere Ereignisdaten sind explizit kenntlich gemacht. Es handelt sich um ein selektives OSINT-Lagebild, nicht um eine vollständige Incident-Datenbank. Risikostufen sind analytische Einschätzungen, keine behördlichen Gefährdungsstufen. Nichtfund ist kein Nachweis von Vorfallsfreiheit. Keine eigenen Vor-Ort-Prüfungen.
+
+**Quellenprinzip:** Meldungen aus Kriegsgebieten und Einschätzungen von Marktteilnehmern werden als zugeordnete Angaben und nicht als unabhängig bestätigte Tatsachen dargestellt.
