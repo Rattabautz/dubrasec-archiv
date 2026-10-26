@@ -1,7 +1,7 @@
 # DubraSec Security Intelligence Tagesbericht – 27.10.2026
 
 **Berichtszeitraum:** 26.10.2026, 00:10 Uhr MEZ bis 27.10.2026, 00:10 Uhr MEZ (Europe/Berlin; 24 Stunden).
-**Recherche- und Quellenstand:** 27.10.2026, 00:10 Uhr MEZ. Selektive Auswertung öffentlich zugänglicher Quellen, keine internen Unternehmensinformationen.
+**Recherche- und Quellenstand:** 27.10.2026, 00:10 Uhr MEZ. Selektive Auswertung öffentlich zugänglicher Quellen, keine internen Unternehmensinformationen. Quellenaussagen wurden hinsichtlich Bestätigungsgrad und Veröffentlichungsdatum getrennt bewertet.
 
 ## Lage auf einen Blick
 
