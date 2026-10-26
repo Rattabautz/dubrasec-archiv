@@ -17,13 +17,17 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install python-docx reportlab
-      - run: python scripts/build_archive_documents.py Wochenberichte/2026-10-25_Security_Intelligence.md
+      - name: Build latest weekly report
+        run: |
+          LATEST=$(find Wochenberichte -maxdepth 1 -name '????-??-??_Security_Intelligence.md' | sort | tail -n 1)
+          test -n "$LATEST"
+          python scripts/build_archive_documents.py "$LATEST"
       - name: Commit weekly DOCX and PDF
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add Wochenberichte/DubraSec_Wochenbericht_KW43_2026.docx Wochenberichte/DubraSec_Wochenbericht_KW43_2026.pdf
+          git add Wochenberichte/DubraSec_Wochenbericht_*.docx Wochenberichte/DubraSec_Wochenbericht_*.pdf
           if ! git diff --cached --quiet; then
-            git commit -m 'Generate weekly DOCX and PDF KW43'
+            git commit -m 'Generate weekly DOCX and PDF'
             git push
           fi
