@@ -36,7 +36,8 @@ def read_sections(path):
 def build(md):
     date=md.name[:10]
     weekly=(md.parent.name=='Wochenberichte')
-    week_label='KW43_2026' if weekly else ''
+    week_label=('KW%02d_%d' % (datetime.strptime(date,'%Y-%m-%d').isocalendar().week,datetime.strptime(date,'%Y-%m-%d').isocalendar().year)) if weekly else ''
+    week_display=week_label.replace('_','/') if weekly else ''
     try:datetime.strptime(date,'%Y-%m-%d')
     except ValueError:raise SystemExit('Bad report filename: '+md.name)
     docx=md.with_name('DubraSec_Wochenbericht_'+week_label+'.docx' if weekly else 'DubraSec_Tagesbericht_'+date+'.docx')
@@ -49,14 +50,14 @@ def build(md):
     for nm,size,color in [('Title',19,(21,44,73)),('Heading 1',13,(21,44,73)),('Heading 2',11,(21,44,73))]:
         st=doc.styles[nm];st.font.name='Calibri';st.font.size=Pt(size);st.font.color.rgb=RGBColor(*color);st.font.bold=True
     header=sec.header.paragraphs[0];header.text='DUBRASEC  /  SECURITY INTELLIGENCE  /  '+('WOCHENBERICHT' if weekly else 'TAGESBERICHT');header.style='Caption'
-    foot=sec.footer.paragraphs[0];foot.text='DubraSec · OSINT · '+('KW 43/2026' if weekly else date);foot.alignment=WD_ALIGN_PARAGRAPH.CENTER
+    foot=sec.footer.paragraphs[0];foot.text='DubraSec · OSINT · '+(week_display if weekly else date);foot.alignment=WD_ALIGN_PARAGRAPH.CENTER
     for kind,txt in chunks:
         if weekly and kind=='heading' and txt.startswith('A. Kritische'):doc.add_page_break()
         if kind=='title':doc.add_paragraph(txt,style='Title')
         elif kind=='heading':doc.add_paragraph(txt,style='Heading 1')
         elif kind=='subheading':doc.add_paragraph(txt,style='Heading 2')
         else:doc.add_paragraph(txt)
-    doc.core_properties.title='DubraSec Security Intelligence '+('Wochenbericht KW 43/2026' if weekly else 'Tagesbericht '+date)
+    doc.core_properties.title='DubraSec Security Intelligence '+('Wochenbericht '+week_display if weekly else 'Tagesbericht '+date)
     doc.core_properties.author='DubraSec'
     doc.save(docx)
     font='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
@@ -77,7 +78,7 @@ def build(md):
         c.setFont('DS',7);c.setFillColor(HexColor(MUTED))
         c.drawString(19*mm,15*mm,'DubraSec · Security Intelligence · '+('KW 43/2026' if weekly else date))
         c.drawRightString(w-19*mm,15*mm,'Seite '+str(d.page));c.restoreState()
-    SimpleDocTemplate(str(pdf),pagesize=A4,leftMargin=19*mm,rightMargin=19*mm,topMargin=23*mm,bottomMargin=22*mm,title='DubraSec '+('Wochenbericht KW43 2026' if weekly else 'Tagesbericht '+date)).build(flow,onFirstPage=page,onLaterPages=page)
+    SimpleDocTemplate(str(pdf),pagesize=A4,leftMargin=19*mm,rightMargin=19*mm,topMargin=23*mm,bottomMargin=22*mm,title='DubraSec '+('Wochenbericht '+week_display if weekly else 'Tagesbericht '+date)).build(flow,onFirstPage=page,onLaterPages=page)
     print('generated',docx,pdf)
 if __name__=='__main__':
     if len(sys.argv)>1: files=[Path(x) for x in sys.argv[1:]]
