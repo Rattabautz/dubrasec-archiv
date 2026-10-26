@@ -25,5 +25,6 @@ jobs:
           git add Tagesberichte/DubraSec_Tagesbericht_*.docx Tagesberichte/DubraSec_Tagesbericht_*.pdf
           if ! git diff --cached --quiet; then
             git commit -m 'Generate daily DOCX and PDF documents'
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
