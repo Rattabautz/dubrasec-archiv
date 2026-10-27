@@ -1901,5 +1901,347 @@
       "https://www.dlr.de/",
       "https://rattabautz.github.io/dubrasec-archiv/"
     ]
+  },
+  {
+    "id": "daily-security-intelligence-2026-10-28",
+    "type": "day",
+    "date": "2026-10-28",
+    "start": "2026-10-27",
+    "end": "2026-10-28",
+    "title": "DubraSec Security Intelligence Tagesbericht",
+    "subtitle": "28. Oktober 2026 · 27.10., 00:10 – 28.10., 00:10 MEZ",
+    "example": false,
+    "file": "Tagesberichte/2026-10-28_Security_Intelligence.md",
+    "docx": "Tagesberichte/DubraSec_Tagesbericht_2026-10-28.docx",
+    "pdf": "Tagesberichte/DubraSec_Tagesbericht_2026-10-28.pdf",
+    "tags": [
+      "Physical Security",
+      "KRITIS",
+      "Versicherungen",
+      "Cyber",
+      "AXA",
+      "YNCORIS",
+      "DLR",
+      "Infraserv Hürth",
+      "Chemiepark Knapsack",
+      "Energie",
+      "Schifffahrt",
+      "Ukraine",
+      "Saudi-Arabien",
+      "Sudan"
+    ],
+    "summary": "Erhöhte externe Sicherheitslage: gemeldete Angriffe und Sicherheitsreaktionen an Öl-, Strom-, Verkehrs- und Schutzinfrastruktur; kein belegter neuer direkter Vorfall bei den beobachteten deutschen Zielunternehmen.",
+    "paragraphs": [
+      {
+        "text": "DubraSec Security Intelligence Tagesbericht – 28.10.2026",
+        "heading": false
+      },
+      {
+        "text": "Berichtszeitraum: 27.10.2026, 00:10 Uhr MEZ bis 28.10.2026, 00:10 Uhr MEZ (Europe/Berlin; 24 Stunden).",
+        "heading": false
+      },
+      {
+        "text": "Quellenstand: Veröffentlichungen vom 27.10.2026; Recherche am 28.10.2026. Zeitangaben zu einzelnen Veröffentlichungen wurden anhand der Originalquellen geprüft. Selektive Open-Source-Auswertung; keine internen Unternehmensdaten.",
+        "heading": false
+      },
+      {
+        "text": "Lage auf einen Blick",
+        "heading": true
+      },
+      {
+        "text": "Im Berichtszeitraum wurden neue Meldungen über Angriffe beziehungsweise Sicherheitsreaktionen an Energie-, Transport- und Schutzinfrastruktur veröffentlicht: die unbestätigte Huthi-Behauptung eines Treffers an der saudischen Raffinerie Ras Tanura, eine laut ukrainischen Angaben erfolgte Raketenattacke auf eine wichtige Dnipro-Brücke in Kyjiw, eine Drohnenabwehr nahe der Bagdader Green Zone, eine neue Lageeinschätzung zu Angriffen auf Handelsschiffe im Schwarzen Meer sowie ein Stromausfall nach einem gemeldeten Drohnentreffer auf ein Umspannwerk im Sudan. Eine direkte neue Betroffenheit von AXA, YNCORIS, DLR, Infraserv Hürth oder Chemiepark Knapsack ist anhand der geprüften öffentlichen Quellen nicht belegt.",
+        "heading": false
+      },
+      {
+        "text": "Gesamtrisikoeinschätzung: ERHÖHT für die internationale externe Sicherheitslage. Regional HOCH für unmittelbar betroffene Energie- und Verkehrsstandorte; für deutsche Versicherer und Unternehmen MITTEL als indirektes Szenario über Transport-, Energie-, Geschäftsunterbrechungs- und Sachversicherungsrisiken. Diese Einstufung ist eine analytische Bewertung, keine behördliche Gefahrenstufe. Mehrere Angaben beruhen ausdrücklich auf Konfliktparteien, Behörden oder anonymen Quellen.",
+        "heading": false
+      },
+      {
+        "text": "A. Kritische Infrastruktur und physische Sicherheitslage",
+        "heading": true
+      },
+      {
+        "text": "01 | SAUDI-ARABIEN – Huthi-Behauptung eines Angriffs auf Ras Tanura",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: 27.10.2026 (behaupteter Raketenangriff).",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 27.10.2026, 11:06 UTC / 12:06 MEZ, Reuters.",
+        "heading": false
+      },
+      {
+        "text": "Die Huthi-Bewegung erklärte, eine ballistische Rakete habe die saudische Raffinerie Ras Tanura getroffen und dort einen Brand ausgelöst. Saudische Behörden bestätigten den behaupteten Raffinerietreffer zunächst nicht. Reuters verwies auf einen Bloomberg-Bericht über einen eingedämmten Brand nahe dem Terminal; die genaue Ursache und ein Zusammenhang mit dem behaupteten Treffer sind damit nicht unabhängig bewiesen. Ras Tanura ist für Raffinerie- und Öltransportkapazitäten von strategischer Bedeutung. Separat meldete Saudi-Arabien die Abwehr zweier Raketen in Richtung Riad und Sachschäden durch Trümmer.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: ANGRIFFSBEHAUPTUNG EINER KONFLIKTPARTEI; Treffer an der Raffinerie und Verursachung des Brandes NICHT UNABHÄNGIG BESTÄTIGT. Die saudische Mitteilung zur Raketenabwehr ist eine Behördenangabe.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Ölversorgung, Raffineriebetrieb, Hafenlogistik, Sach- und Transportversicherung.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH regional, MITTEL indirekt für europäische Unternehmen und Versicherer; keine AXA-Betroffenheit nachgewiesen.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Bei Lieferketten- und Energiepreisbewertungen bestätigte Betreiber- und Behördeninformationen von Kriegsparteibehauptungen trennen; Ausfallannahmen nicht allein aus der Huthi-Erklärung ableiten.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.reuters.com/business/energy/yemens-houthis-say-they-launched-an-attack-saudi-ras-tanura-oil-refinery-2026-10-27/",
+        "heading": false
+      },
+      {
+        "text": "02 | UKRAINE / KYJIW – Angriffe auf Dnipro-Brücken und neue Ersatzquerungspläne",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: Nacht 26./27.10.2026; neue Planungsaussagen am 27.10.2026.",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 27.10.2026, 15:16 UTC / 16:16 MEZ, Reuters.",
+        "heading": false
+      },
+      {
+        "text": "Die Stadt Kyjiw prüft nach wiederholten Angriffen auf Brücken über den Dnipro zusätzliche Wasserquerungen und Zufahrtsstraßen. Bürgermeister Vitali Klitschko nannte dafür eine geplante Größenordnung von einer Milliarde Hrywnja. Eine ukrainische Militärquelle erklärte gegenüber Reuters, die Piwdennyj-Brücke sei in der Nacht von vier Iskander-Raketen getroffen worden. Die Brücke trägt Straßenverkehr und eine Metrolinie; Einschränkungen können Pendler- und Rettungswege sowie den öffentlichen Verkehr betreffen. Die genaue Schadenslage wurde nicht unabhängig technisch verifiziert.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: STÄDTISCHE PLANUNGSANGABEN BESTÄTIGT; konkrete Zahl der Raketen und Trefferdetails laut ukrainischer Militärquelle, NICHT UNABHÄNGIG VERIFIZIERT.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Verkehrs- und Metronetz, urbane Erreichbarkeit, Krisenlogistik.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH lokal; MITTEL als Szenario für Verkehrsredundanz und Geschäftskontinuität.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Bei Verkehrs- und Standortresilienz alternative Zufahrten, Evakuierungswege und Ausweichverbindungen als zusammenhängendes System betrachten.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.reuters.com/world/kyiv-plans-build-water-crossings-russia-escalates-bridge-strikes-2026-10-27/",
+        "heading": false
+      },
+      {
+        "text": "03 | SUDAN / KHARTUM – Längerer Stromausfall nach gemeldetem Drohnenangriff",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: 27.10.2026; Ausfälle am Dienstag nach gemeldetem Angriff.",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 27.10.2026, Associated Press; Uhrzeit nicht belastbar festgestellt.",
+        "heading": false
+      },
+      {
+        "text": "AP berichtet über großflächige Stromausfälle in Khartum von mehr als zwölf Stunden. Ein Mitarbeiter des Stromunternehmens erklärte anonym, ein Drohnenangriff habe das Umspannwerk Al-Markhiyat in Omdurman getroffen; er machte die RSF verantwortlich. Das staatliche Versorgungsunternehmen bestätigte erhebliche Schäden und technische Probleme an Verteilnetzen, Stationen und Leitungen, benannte in seiner Erklärung jedoch keine Ursache. Krankenhäuser und Bäckereien mussten auf Generatoren ausweichen; auch die Wasserversorgung war beeinträchtigt. Eine Anwohneraussage beschreibt eine Explosion und einen anschließenden Stromausfall.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: STROMAUSFÄLLE UND TECHNISCHE SCHÄDEN BETREIBERSEITIG BELEGT; Drohnentreffer und Täterzuordnung beruhen auf anonymer Betreiberquelle und Zeugenaussage, NICHT UNABHÄNGIG BESTÄTIGT.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – gekoppelte Abhängigkeiten von Strom, Wasser, Gesundheit und Grundversorgung.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH regional; MITTEL als übertragbares Versorgungsausfallszenario.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Ersatzstrom nicht isoliert, sondern gemeinsam mit Wasserversorgung, Kommunikationsfähigkeit, Zutrittssystemen und Treibstoffnachschub bewerten.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693",
+        "heading": false
+      },
+      {
+        "text": "04 | IRAK / BAGDAD – Drohnenabwehr an der Green Zone",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: 27.10.2026.",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 27.10.2026, 13:11 UTC / 14:11 MEZ, Reuters.",
+        "heading": false
+      },
+      {
+        "text": "Die irakische Security Media Cell bestätigte den Abschuss einer Drohne nahe der stark gesicherten Green Zone in Bagdad. Zwei irakische Sicherheitsquellen berichteten gegenüber Reuters von zwei erkannten und abgewehrten Drohnen sowie geborgenen Trümmern. Die Green Zone umfasst Regierungsgebäude und diplomatische Vertretungen. Herkunft, Ziel und Verantwortliche der Flugkörper waren zum Veröffentlichungszeitpunkt Gegenstand der Ermittlungen.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: ABWEHR EINER DROHNE BEHÖRDLICH BESTÄTIGT; Angaben zu einer zweiten Drohne stammen aus zwei Sicherheitsquellen. Täter und Ziel UNBEKANNT.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: MITTEL bis HOCH – Schutz besonders sensibler Einrichtungen, Drohnenwarnung und Lagekommunikation.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH am Ereignisort, MITTEL als allgemeines Schutzszenario; keine Übertragung einer konkreten Bedrohung auf deutsche Standorte.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Meldungen zu Drohnensichtungen, Alarmierung und abgestimmten Reaktionen mit Behörden anhand geltender Zuständigkeiten prüfen; keine eigenmächtigen Abwehrmaßnahmen ableiten.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.reuters.com/world/middle-east/drone-intercepted-near-baghdads-green-zone-military-statement-says-2026-10-27/",
+        "heading": false
+      },
+      {
+        "text": "05 | SCHWARZES MEER – Frankreichs maritime Aufklärung nach Angriffen auf Frachtschiffe",
+        "heading": true
+      },
+      {
+        "text": "Ereignisdatum: Verlegung des französischen Flugzeugs am 18.10.2026; neue Bekanntgabe am 27.10.2026. Vorangegangene Schiffsvorfälle in den letzten drei Wochen.",
+        "heading": false
+      },
+      {
+        "text": "Veröffentlichung: 27.10.2026, 19:03 UTC / 20:03 MEZ, Reuters.",
+        "heading": false
+      },
+      {
+        "text": "Das rumänische Verteidigungsministerium teilte mit, Frankreich habe ein Seefernaufklärungsflugzeug Atlantique 2 vorübergehend nach Rumänien verlegt, um Navigationsgefahren zu identifizieren und kritische Energieinfrastruktur im Schwarzen Meer besser zu schützen. Reuters berichtet von mindestens acht getroffenen Frachtschiffen nahe Rumänien und Bulgarien in den zurückliegenden drei Wochen sowie rund 34 gemeldeten toten oder vermissten Seeleuten. Die Verlegung selbst erfolgte bereits am 18. Oktober; neu ist die öffentliche Erklärung vom 27. Oktober. NATO und rumänische Marine kündigten beziehungsweise beschrieben ergänzende Überwachung an.",
+        "heading": false
+      },
+      {
+        "text": "Faktenstatus: VERLEGUNG UND ZIELSETZUNG LAUT RUMÄNISCHEM VERTEIDIGUNGSMINISTERIUM BESTÄTIGT; Angaben zu Schiffsschäden und Opferzahlen aus Medien- und Behördenberichten. KEIN neuer Einzelangriff am 27.10. durch diese Meldung belegt.",
+        "heading": false
+      },
+      {
+        "text": "Relevanz: HOCH – Schifffahrt, Seewege, Energieinfrastruktur, Transport- und Kriegsrisikoversicherung.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: HOCH für die betroffene Region; MITTEL für europäische Logistik- und Versicherungsexponierungen.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Maritime Risikoentscheidungen anhand aktueller Behördenwarnungen, Versicherungsbedingungen und verifizierter Routeninformationen aktualisieren.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.reuters.com/business/aerospace-defense/france-temporarily-sends-maritime-patrol-plane-black-sea-after-cargo-ship-2026-10-27/",
+        "heading": false
+      },
+      {
+        "text": "B. Versicherungsbranche und Cyberlage",
+        "heading": true
+      },
+      {
+        "text": "Versicherungen: Für den 27.10.2026 wurde in der selektiven Recherche kein neuer, ausreichend belegter Angriff auf einen Versicherer mit klar dokumentiertem Veröffentlichungsdatum identifiziert. Der am 26.10.2026 bestätigte Datenabfluss bei Mirae Asset Life bleibt eine relevante Vortagesmeldung, wird hier aber nicht als neues Tagesereignis doppelt gezählt. Eine Verbindung zu AXA ist nicht belegt.",
+        "heading": false
+      },
+      {
+        "text": "Cyberangriffe auf KRITIS: Kein zusätzlicher, im Zeitfenster neu belegter, unmittelbar betriebsunterbrechender Cybervorfall wurde in den geprüften Quellen mit ausreichender Sicherheit identifiziert. Die heutigen Meldungen betreffen überwiegend physische Drohnen-, Raketen- und Infrastrukturrisiken. Das Fehlen belastbarer Treffer ist kein Nachweis von Vorfallsfreiheit.",
+        "heading": false
+      },
+      {
+        "text": "Risikoeinschätzung: MITTEL als allgemeines Drittparteien- und Betriebsunterbrechungsrisiko; für AXA keine neue konkrete technische Betroffenheit nachgewiesen.",
+        "heading": false
+      },
+      {
+        "text": "Empfehlung: Veröffentlichungsdatum und tatsächliches Ereignisdatum bei Cybermeldungen strikt trennen; bestehende Vorfälle nur bei neuen verifizierten Erkenntnissen erneut aufnehmen.",
+        "heading": false
+      },
+      {
+        "text": "C. AXA, Vorstandsmitglieder und Standortmonitoring",
+        "heading": true
+      },
+      {
+        "text": "AXA / AXA Deutschland: Für den 27.10.2026 wurde keine belastbare neue negative Sicherheits- oder Compliance-Meldung mit direkter AXA-Betroffenheit festgestellt. Die Recherche umfasste AXA-Nachrichten und gezielte aktuelle Suchabfragen. Ältere Presseberichte sind nicht als Tagesereignisse aufgenommen.",
+        "heading": false
+      },
+      {
+        "text": "Aktuelle AXA-Gremien: Die offiziellen Gremienübersichten dienten zur Verifikation der Funktionen, insbesondere von Thomas Buberl (Group CEO) und Antoine Gosset-Grainville (Chairman); für AXA Deutschland wurde Thilo Schumacher berücksichtigt. Es wurden keine unbelegten personenbezogenen Vorwürfe übernommen.",
+        "heading": false
+      },
+      {
+        "text": "Quellen: https://www.axa.com/en/news ; https://www.axa.com/about-us/executive-management ; https://www.axa.com/en/about-us/members-board-of-directors",
+        "heading": false
+      },
+      {
+        "text": "YNCORIS / Infraserv Hürth / Chemiepark Knapsack: Keine belastbare neue Meldung über Angriff, Brand, Störfall oder Cybervorfall am 27.10.2026 in der selektiven Recherche gefunden.",
+        "heading": false
+      },
+      {
+        "text": "Quellen: https://www.yncoris.com/mehr/news-termine ; https://www.chemiepark-knapsack.de/news",
+        "heading": false
+      },
+      {
+        "text": "DLR: Keine hinreichend belegte neue sicherheitsrelevante Angriffsmeldung am 27.10.2026 gefunden.",
+        "heading": false
+      },
+      {
+        "text": "Quelle: https://www.dlr.de/",
+        "heading": false
+      },
+      {
+        "text": "D. Priorisierte Empfehlungen",
+        "heading": true
+      },
+      {
+        "text": "1. Energie- und Versorgungsabhängigkeiten zusammen mit Kommunikations-, Wasser- und Gebäudezugangssystemen in Resilienzbewertungen berücksichtigen.",
+        "heading": false
+      },
+      {
+        "text": "2. Für internationale Transport- und Sachrisiken nur bestätigte Infrastrukturtreffer und belastbare Ausfallfolgen als Fakten übernehmen; Kriegsparteibehauptungen separat kennzeichnen.",
+        "heading": false
+      },
+      {
+        "text": "3. Für kritische Verkehrsverbindungen alternative Wege, Erreichbarkeit und Wiederanlauf als zusammenhängende Szenarien prüfen.",
+        "heading": false
+      },
+      {
+        "text": "4. Meldungen über Drohnen in der Nähe sensibler Standorte über festgelegte Alarmierungs- und Behördenwege bearbeiten.",
+        "heading": false
+      },
+      {
+        "text": "5. Die Exponierung von Versicherungen und Dienstleistern gegenüber Energie-, Hafen- und Transportstörungen laufend anhand verifizierter Quellen bewerten.",
+        "heading": false
+      },
+      {
+        "text": "E. Methodik, Quellenstatus und Grenzen",
+        "heading": true
+      },
+      {
+        "text": "Auswahl öffentlich zugänglicher Veröffentlichungen vom 27.10.2026 im Berichtsfenster bis 28.10.2026, 00:10 Uhr MEZ. Ereignisse außerhalb des Fensters sind als Rückblick oder neu veröffentlichte Lageentwicklung ausgewiesen. Für Quellen ohne verifizierbare Veröffentlichungsuhrzeit wird nur das Datum genannt. Es handelt sich um eine selektive OSINT-Auswertung ohne eigene Vor-Ort-Verifikation. Bewertungen sind qualitative Analysen und keine amtlichen Warnstufen. Gerüchte und unbewiesene Täterschaftsbehauptungen sind keine bestätigten Fakten.",
+        "heading": false
+      },
+      {
+        "text": "Berichtsarchiv: https://rattabautz.github.io/dubrasec-archiv/",
+        "heading": false
+      }
+    ],
+    "sources": [
+      "https://www.reuters.com/business/energy/yemens-houthis-say-they-launched-an-attack-saudi-ras-tanura-oil-refinery-2026-10-27/",
+      "https://www.reuters.com/world/kyiv-plans-build-water-crossings-russia-escalates-bridge-strikes-2026-10-27/",
+      "https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693",
+      "https://www.reuters.com/world/middle-east/drone-intercepted-near-baghdads-green-zone-military-statement-says-2026-10-27/",
+      "https://www.reuters.com/business/aerospace-defense/france-temporarily-sends-maritime-patrol-plane-black-sea-after-cargo-ship-2026-10-27/",
+      "https://www.axa.com/en/news",
+      "https://www.axa.com/about-us/executive-management",
+      "https://www.axa.com/en/about-us/members-board-of-directors",
+      "https://www.yncoris.com/mehr/news-termine",
+      "https://www.chemiepark-knapsack.de/news",
+      "https://www.dlr.de/",
+      "https://rattabautz.github.io/dubrasec-archiv/"
+    ]
   }
 ]
