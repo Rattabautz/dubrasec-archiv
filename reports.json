@@ -2266,9 +2266,15 @@
       "Cyber",
       "Ransomware",
       "Versicherungen",
-      "AXA"
+      "AXA",
+      "Protestausblick",
+      "31.10.2026",
+      "Halloween",
+      "Sabotageverdacht",
+      "OT-Security",
+      "NRW"
     ],
-    "summary": "Neue Drohnenangriffe auf Strom- und Treibstoffanlagen im Sudan; UN-Reaktion, ungeklärter Ras-Tanura-Treffer und unbestätigte Ransomware-Leaksite-Behauptungen. Keine nachgewiesene direkte AXA-Betroffenheit.",
+    "summary": "Aktualisierte Ausgabe mit 7-Tage-Sicherheitsausblick: für den 31.10. angekündigte Gen-Z-Demonstrationen in NRW (Köln Heumarkt ab 14 Uhr) und Halloween; keine konkreten Gewaltwarnungen. Neue Ermittlungen zu mutmaßlichem Sabotageplan in Bayern, OT-Cyberlage und Angriffe auf Stromversorgung im Sudan.",
     "paragraphs": [
       {
         "text": "DubraSec Security Intelligence Tagesbericht – 29.10.2026",
@@ -2287,7 +2293,7 @@
         "heading": true
       },
       {
-        "text": "Gesamtrisikoeinschätzung: ERHÖHT für die internationale externe Sicherheitslage; für deutsche AXA-Standorte aus den geprüften Meldungen keine konkrete neue Gefährdung ableitbar. Der Schwerpunkt liegt auf weiteren Drohnenangriffen auf Strom- und Treibstoffanlagen im Sudan, einer neuen internationalen Reaktion auf die dortigen Angriffe und der fortdauernden Unsicherheit um den behaupteten Raffinerietreffer in Saudi-Arabien. Im Cyberbereich sind am 28. Oktober neue Auswertungen von Ransomware-Leaksite-Behauptungen erschienen. Eine Täterbehauptung ist keine Bestätigung eines erfolgreichen Angriffs.",
+        "text": "Gesamtrisikoeinschätzung: ERHÖHT für die externe Sicherheitslage; für konkret exponierte Innenstadtstandorte in NRW am 31.10. MITTEL als vorsorgliche operative Bewertung. Im 24-Stunden-Rückblick stehen der am 28.10. bekannt gewordene Sabotageverdacht im Raum Nürnberg, neue OT-Cyberrecherchen und Drohnenangriffe auf Stromversorgung im Sudan. Für AXA, YNCORIS, DLR, Infraserv Hürth und Chemiepark Knapsack keine direkte gezielte Bedrohung belegt. Der 7-Tage-Ausblick erfasst den bundesweiten Gen-Z-Protesttag und Halloween am 31.10.; keine konkreten polizeilichen Hinweise auf geplante Gewalttaten bei den Demos.",
         "heading": false
       },
       {
@@ -2529,6 +2535,70 @@
       {
         "text": "Berichtsarchiv: https://rattabautz.github.io/dubrasec-archiv/",
         "heading": false
+      },
+      {
+        "heading": true,
+        "text": "Zusatzrecherche 28.10.: Deutschland und OT"
+      },
+      {
+        "heading": true,
+        "text": "Sabotageverdacht Nürnberg: neue Ermittlungsmitteilung vom 28.10.2026"
+      },
+      {
+        "heading": false,
+        "text": "Zwei belarussische Männer sitzen seit 07.10. in Untersuchungshaft. Die Generalstaatsanwaltschaft München ermittelt wegen eines mutmaßlich vorbereiteten Brandanschlags gegen Gebäude/KRITIS im Raum Nürnberg. Der Vorwurf ist nicht rechtskräftig bewiesen; Auftraggeber und Tatplan bleiben Ermittlungsgegenstand. Kein vollendeter Anschlag in Nürnberg belegt."
+      },
+      {
+        "heading": false,
+        "text": "Quelle: https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html"
+      },
+      {
+        "heading": true,
+        "text": "Neue OT-Recherche zu industriellen Steuerungssystemen"
+      },
+      {
+        "heading": false,
+        "text": "Bloomberg/Meduza berichten am 27./28.10. über Angriffe und Manipulationen von OT/ICS in Europa und den USA, überwiegend aus Vorjahren. Es handelt sich um neue journalistische Analyse, nicht um einen am 28.10. neu bestätigten Einzelangriff."
+      },
+      {
+        "heading": false,
+        "text": "Quellen: https://news.bloomberglaw.com/artificial-intelligence/hackers-sympathetic-to-russia-are-hitting-utilities-factories ; https://meduza.io/en/feature/2026/10/28/russia-linked-hackers-are-exploiting-poorly-secured-industrial-systems-to-sabotage-factories-utilities-and-food-production-across-the-west-bloomberg-reports"
+      },
+      {
+        "heading": true,
+        "text": "Vorausschauende Sicherheitslage: 29.10.–05.11.2026"
+      },
+      {
+        "heading": true,
+        "text": "31.10. – Bundesweite Gen-Z-Proteste, Schwerpunkt Köln und NRW"
+      },
+      {
+        "heading": false,
+        "text": "In mehr als 30 Städten angekündigt. In Köln angemeldeter Aufzug ab 14 Uhr Heumarkt, 14–19 Uhr, mit rund 15.000 vom Anmelder erwarteten Personen. Weitere NRW-Städte: Bonn, Düsseldorf, Dortmund, Münster u.a. Die Polizei hat bisher keine konkreten Hinweise auf geplante Gewalttaten. Erwartete Teilnahme und Gewaltrisiko sind getrennt zu bewerten."
+      },
+      {
+        "heading": false,
+        "text": "Relevanz/Risiko: MITTEL für Erreichbarkeit, Zugang und situative Sachschäden innenstadtnaher Standorte mit tatsächlichem Veranstaltungsbezug; keine gezielte AXA-Bedrohung nachgewiesen."
+      },
+      {
+        "heading": false,
+        "text": "Empfehlung: am 30.10. Routen prüfen, Freitagsverschluss besonders an Sicherheitsbereichen und temporären Bauöffnungen, mobile Werte aus Eingängen sichern, ggf. zusätzliche Revierfahrt an exponierten Standorten ohne EMA; Polizei-/Veranstalterlage verfolgen."
+      },
+      {
+        "heading": false,
+        "text": "Quellen: https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-proteste-am-samstag-droht-bei-den-gen-z-demos-gewalt-wie-in-frankreich-100.html ; https://www1.wdr.de/nrw/koeln/proteste-gen-z-polizei-samstag-koeln-aachen-100.html"
+      },
+      {
+        "heading": true,
+        "text": "31.10. – Halloween: lokal erhöhte Aufmerksamkeit im Ruhrgebiet"
+      },
+      {
+        "heading": false,
+        "text": "WDR berichtet am 28.10. über Polizeivorbereitungen in Ruhrgebietsstädten wegen früherer Pyrotechnik-/Vandalismusvorfälle. Konkrete neue Angriffe auf die betrachteten Unternehmen sind nicht angekündigt oder belegt."
+      },
+      {
+        "heading": false,
+        "text": "Quelle: https://www1.wdr.de/nrw/ruhrgebiet/halloween-krawalle-sicherheit-polizei-100.html"
       }
     ],
     "sources": [
@@ -2544,7 +2614,14 @@
       "https://www.axa.com/en/about-us/members-board-of-directors",
       "https://www.yncoris.com/mehr/news-termine",
       "https://www.chemiepark-knapsack.de/news",
-      "https://www.dlr.de/"
+      "https://www.dlr.de/",
+      "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
+      "https://www.reuters.com/world/german-police-arrest-two-suspected-planning-sabotage-attacks-russia-spiegel-says-2026-10-28/",
+      "https://news.bloomberglaw.com/artificial-intelligence/hackers-sympathetic-to-russia-are-hitting-utilities-factories",
+      "https://meduza.io/en/feature/2026/10/28/russia-linked-hackers-are-exploiting-poorly-secured-industrial-systems-to-sabotage-factories-utilities-and-food-production-across-the-west-bloomberg-reports",
+      "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-proteste-am-samstag-droht-bei-den-gen-z-demos-gewalt-wie-in-frankreich-100.html",
+      "https://www1.wdr.de/nrw/koeln/proteste-gen-z-polizei-samstag-koeln-aachen-100.html",
+      "https://www1.wdr.de/nrw/ruhrgebiet/halloween-krawalle-sicherheit-polizei-100.html"
     ]
   }
 ]
