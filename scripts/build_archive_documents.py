@@ -25,7 +25,7 @@ MUTED='#66778a'
 def clean(s):
     s=re.sub(r'\*\*(.*?)\*\*',r'\1',s)
     return s.replace('  ',' ').strip()
-URL_RE=re.compile(r'https?://[^\\s<>"\\']+')
+URL_RE=re.compile(r'https?://\S+')
 def link_parts(text):
     pos=0
     for match in URL_RE.finditer(text):
