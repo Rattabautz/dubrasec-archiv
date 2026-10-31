@@ -7,6 +7,9 @@ import re, sys
 from docx import Document
 from docx.shared import Pt, Cm, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+from docx.opc.constants import RELATIONSHIP_TYPE as RT
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle
@@ -22,6 +25,38 @@ MUTED='#66778a'
 def clean(s):
     s=re.sub(r'\*\*(.*?)\*\*',r'\1',s)
     return s.replace('  ',' ').strip()
+URL_RE=re.compile(r'https?://[^\\s<>"\\']+')
+def link_parts(text):
+    pos=0
+    for match in URL_RE.finditer(text):
+        raw=match.group(0)
+        url=raw.rstrip('.,;)]}')
+        if match.start()>pos: yield False,text[pos:match.start()]
+        if url: yield True,url
+        if len(raw)>len(url): yield False,raw[len(url):]
+        pos=match.end()
+    if pos<len(text): yield False,text[pos:]
+def add_linkified(doc, paragraph, text):
+    for is_url,part in link_parts(text):
+        if not is_url:
+            paragraph.add_run(part)
+            continue
+        rid=paragraph.part.relate_to(part,RT.HYPERLINK,is_external=True)
+        hyperlink=OxmlElement('w:hyperlink');hyperlink.set(qn('r:id'),rid)
+        run=OxmlElement('w:r');rpr=OxmlElement('w:rPr')
+        color=OxmlElement('w:color');color.set(qn('w:val'),'168B91');rpr.append(color)
+        underline=OxmlElement('w:u');underline.set(qn('w:val'),'single');rpr.append(underline)
+        run.append(rpr)
+        t=OxmlElement('w:t');t.text=part;run.append(t)
+        hyperlink.append(run);paragraph._p.append(hyperlink)
+def pdf_linkified(text):
+    chunks=[]
+    for is_url,part in link_parts(text):
+        if is_url:
+            safe=escape(part,{'"':'&quot;'})
+            chunks.append('<link href="'+safe+'" color="#168b91"><u>'+safe+'</u></link>')
+        else:chunks.append(escape(part))
+    return ''.join(chunks)
 def read_sections(path):
     chunks=[]
     for line in path.read_text(encoding='utf-8').splitlines():
@@ -56,7 +91,9 @@ def build(md):
         if kind=='title':doc.add_paragraph(txt,style='Title')
         elif kind=='heading':doc.add_paragraph(txt,style='Heading 1')
         elif kind=='subheading':doc.add_paragraph(txt,style='Heading 2')
-        else:doc.add_paragraph(txt)
+        else:
+            p=doc.add_paragraph()
+            add_linkified(doc,p,txt)
     doc.core_properties.title='DubraSec Security Intelligence '+('Wochenbericht '+week_display if weekly else 'Tagesbericht '+date)
     doc.core_properties.author='DubraSec'
     doc.save(docx)
@@ -72,7 +109,7 @@ def build(md):
     flow=[]
     for kind,txt in chunks:
         if weekly and kind=='heading' and txt.startswith('A. Kritische'):flow.append(PageBreak())
-        flow.append(Paragraph(escape(txt),sty[kind]))
+        flow.append(Paragraph(pdf_linkified(txt),sty[kind]))
     def page(c,d):
         c.saveState();w,h=A4;c.setStrokeColor(HexColor(TEAL));c.line(19*mm,h-18*mm,w-19*mm,h-18*mm)
         c.setFont('DS',7);c.setFillColor(HexColor(MUTED))
