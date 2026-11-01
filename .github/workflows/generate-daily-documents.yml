@@ -25,6 +25,21 @@ jobs:
           git add Tagesberichte/DubraSec_Tagesbericht_*.docx Tagesberichte/DubraSec_Tagesbericht_*.pdf
           if ! git diff --cached --quiet; then
             git commit -m 'Generate daily DOCX and PDF documents'
-            git pull --rebase origin main
-            git push origin HEAD:main
+            # reports.json may be updated while the document job is running.
+            # Rebase and retry on a concurrent branch-head update.
+            pushed=0
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                pushed=1
+                break
+              fi
+              echo "Concurrent branch update; retry $attempt/5"
+              sleep $((attempt * 2))
+            done
+            if [ "$pushed" -ne 1 ]; then
+              echo "ERROR: generated files could not be pushed after retries"
+              exit 1
+            fi
           fi
