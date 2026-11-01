@@ -3525,5 +3525,73 @@
         "text": "METHODIK: Ereignisdatum und Publikationsdatum sind getrennt. Meldungen vor Beginn des Berichtsfensters erscheinen nur, wenn im Zeitraum ein neues Update veröffentlicht wurde oder wenn sie für den eigenständigen 7-Tage-Ausblick relevant sind. Behörden-/Betreiberangaben werden als solche bezeichnet; unbekannte Täter, Schadenhöhen und Zusammenhänge bleiben offen. Original-Quellenlinks stehen jeweils unmittelbar bei der Aussage, nicht ausschließlich in einer allgemeinen Liste."
       }
     ]
+  },
+  {
+    "id": "daily-security-intelligence-2026-11-02",
+    "type": "day",
+    "date": "2026-11-02",
+    "start": "2026-11-01",
+    "end": "2026-11-02",
+    "title": "DubraSec Security Intelligence Tagesbericht",
+    "subtitle": "02. November 2026 · 01.11., 00:10 – 02.11., 00:10 MEZ · 7-Tage-Ausblick",
+    "example": false,
+    "file": "Tagesberichte/2026-11-02_Security_Intelligence.md",
+    "docx": "Tagesberichte/DubraSec_Tagesbericht_2026-11-02.docx",
+    "pdf": "Tagesberichte/DubraSec_Tagesbericht_2026-11-02.pdf",
+    "tags": [
+      "Physical Security",
+      "KRITIS",
+      "Cyber",
+      "AXA",
+      "YNCORIS",
+      "DLR",
+      "Infraserv Hürth",
+      "Chemiepark Knapsack",
+      "Köln",
+      "31.10.2026",
+      "Gen-Z-Proteste",
+      "Amadeus",
+      "GitLab",
+      "7-Tage-Ausblick"
+    ],
+    "summary": "Köln: Polizei meldet in aktualisierter Bilanz 23 verletzte Einsatzkräfte und Sachschäden; Bundespolizei berichtet über 34 Versammlungsorte. Neue Meldung zu Amadeus-Drittparteienvorfall; kritische GitLab-Schwachstelle. Vorausschau: Dortmund 04.11., Frankreich 05.11., Köln-Deutz 02.–08.11.",
+    "paragraphs": [
+      {
+        "heading": true,
+        "text": "DubraSec Security Intelligence Tagesbericht – 02.11.2026"
+      },
+      {
+        "heading": false,
+        "text": "Berichtszeitraum 01.11.2026, 00:10 Uhr bis 02.11.2026, 00:10 Uhr MEZ; 7-Tage-Ausblick bis 09.11.2026."
+      },
+      {
+        "heading": true,
+        "text": "Management Summary"
+      },
+      {
+        "heading": false,
+        "text": "Gesamtrisiko ERHÖHT (qualitative externe Lageeinschätzung); keine neue gezielte Attacke auf die beobachteten Unternehmen öffentlich verifiziert."
+      },
+      {
+        "heading": false,
+        "text": "Köln: aktualisierte Polizei-Bilanz mit 23 verletzten Einsatzkräften und Sachschäden. Quelle: https://www.presseportal.de/blaulicht/pm/12415/6381831"
+      },
+      {
+        "heading": false,
+        "text": "Cyber: Malaysia Airlines meldet mögliche Kundendatenbetroffenheit über Dienstleister Amadeus. Quelle: https://www.reuters.com/legal/litigation/malaysia-airlines-says-customers-may-be-affected-by-amadeus-breach-2026-11-01/"
+      },
+      {
+        "heading": false,
+        "text": "GitLab: Alpine dokumentiert Exploitversuche und die Notwendigkeit einer wirksamen Ruby-Patchprüfung. Quelle: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
+      },
+      {
+        "heading": false,
+        "text": "7-Tage-Ausblick: Dortmund-Spiel am 04.11., Frankreich-Streik am 05.11., Veranstaltungen in Köln 02.–08.11. Quellen: https://www.presseportal.de/blaulicht/pm/4971/6380893 ; https://www.cgt.fr/actualites/france/mobilisation/5-novembre-retrouvez-les-mobilisations-pres-de-chez-vous ; https://www.lanxess-arena.de/events-tickets/eventliste-drucken"
+      },
+      {
+        "heading": false,
+        "text": "Vollständige Faktenstatus, Ereignis-/Publikationsdaten, Risiken, Empfehlungen und Quellen stehen in den verlinkten Word-/PDF-Dokumenten und der Markdown-Fassung."
+      }
+    ]
   }
 ]
