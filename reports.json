@@ -3616,5 +3616,29 @@
       "7-Tage-Ausblick"
     ],
     "summary": "Kölner Ausschreitungen, ukrainische Verkehrs- und Energieinfrastruktur, Charité-Datenabfluss, AXA/EIOPA und Frankreich-Streikaufruf."
+  },
+  {
+    "id": "daily-security-intelligence-2026-11-03",
+    "type": "day",
+    "date": "2026-11-03",
+    "start": "2026-11-02",
+    "end": "2026-11-03",
+    "title": "DubraSec Security Intelligence Tagesbericht",
+    "subtitle": "02.–03.11.2026 | 24-Stunden-Lagebild und 7-Tage-Ausblick",
+    "file": "Tagesberichte/2026-11-03_Security_Intelligence.md",
+    "docx": "Tagesberichte/DubraSec_Tagesbericht_2026-11-03.docx",
+    "pdf": "Tagesberichte/DubraSec_Tagesbericht_2026-11-03.pdf",
+    "tags": [
+      "Physical Security",
+      "KRITIS",
+      "Cyber",
+      "Versicherungen",
+      "AXA",
+      "YNCORIS",
+      "DLR",
+      "7-Tage-Ausblick",
+      "OT"
+    ],
+    "summary": "Europaweite Kühlanlagen-Cybervorfälle, Ivanti-VPN-Exploitkette, ukrainische Energie-KRITIS und DLR-Konferenz sowie Frankreich-Streik im 7-Tage-Ausblick."
   }
 ]
