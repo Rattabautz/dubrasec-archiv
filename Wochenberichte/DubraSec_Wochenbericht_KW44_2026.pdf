@@ -1,711 +1,344 @@
 %PDF-1.4
-%“Œ‹ ReportLab Generated PDF document (opensource)
+%abcd
 1 0 obj
-<<
-/F1 2 0 R /F2+0 51 0 R /F3+0 55 0 R
->>
+<< /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
->>
+<< /Type /Pages /Kids [15 0 R 17 0 R 19 0 R 21 0 R 26 0 R 28 0 R] /Count 6 >>
 endobj
 3 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.presseportal.de/blaulicht/pm/12415/6381831)
->> /Border [ 0 0 0 ] /Rect [ 184.2307 563.3729 434.185 573.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
 endobj
 4 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/)
->> /Border [ 0 0 0 ] /Rect [ 204.4332 488.3729 534.139 498.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 5 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 475.3729 204.9749 485.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Length 6265 >>
+stream
+0.08 0.20 0.35 rg BT /F2 18 Tf 1 0 0 1 45 792 Tm (DubraSec Security Intelligence - Wochenbericht KW) Tj ET
+0.08 0.20 0.35 rg BT /F2 18 Tf 1 0 0 1 45 767 Tm (44/2026) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 733 Tm (Berichtszeitraum: 26.10.2026, 00:00 Uhr bis 01.11.2026, 23:59 Uhr \(Europe/Berlin\).) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 716.8 Tm (Berichtsstand: 02.11.2026, 06:00 Uhr MEZ. Methodik: öffentliche OSINT-Recherche, keine internen Informationen.) Tj ET
+0.08 0.22 0.38 rg BT /F2 14 Tf 1 0 0 1 45 700.5999999999999 Tm (Management Summary - exakt fünf wichtigste Erkenntnisse) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 672.5999999999999 Tm (01 | Köln: Gewalttaten nach Versammlung. Die Polizei meldete für den 31.10./01.11. vorläufig 23 verletzte) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 660.3999999999999 Tm (Polizeikräfte, fünf beschädigte Streifenwagen und Angriffe durch teils von der Kundgebung losgelöste Gruppen.) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 648.1999999999998 Tm (Friedliche Versammlung und Straftaten sind strikt zu trennen. Relevanz hoch; örtliches Risiko erhöht.) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 629.9999999999998 Tm (Quelle \(Polizei Köln, 01.11.\): https://www.presseportal.de/blaulicht/pm/12415/6381831) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 612.9999999999998 Tm (02 | Angriffe auf Verkehrs- und Energieinfrastruktur. Ein Drohnenangriff traf am 29.10. den Bahnhof Dnipro; am) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 600.7999999999997 Tm (01.11. wurden erneute Angriffe auf die ukrainische Energieversorgung gemeldet. Opferzahlen und Ausfallumfänge) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 588.5999999999997 Tm (beruhen teils auf Behördenangaben. Risiko hoch vor Ort, mittel als Resilienzszenario in Deutschland.) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 570.3999999999996 Tm (Quellen \(Reuters, 29.10./01.11.\):) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 560.3999999999996 Tm (https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/ ;) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 550.3999999999996 Tm (https://www.reuters.com/world/europe/russian-strikes-cut-power-thousands-ukraine-drones-damage-russian-facility-2026-11-01/) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 533.3999999999996 Tm (03 | Charité: bestätigter Webserver-Cyberangriff. Die Charité meldete am 30.10. den Abfluss personenbezogener) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 521.1999999999996 Tm (Kontaktdaten. Die Patientenversorgung sei nicht betroffen. Relevanz hoch für Webanwendungen und Datenflüsse;) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 508.9999999999996 Tm (Risiko mittel bis hoch für Betroffene.) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 490.7999999999996 Tm (Quelle \(Charité, 30.10.\): https://www.charite.de/die_charite/themen/cyberangriff_auf_charite_webserver/) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 473.7999999999996 Tm (04 | AXA und Versicherungssektor. AXA veröffentlichte am 29.10. neunmonatige Prämien und sonstige Erlöse von) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 461.5999999999996 Tm (93,0 Mrd. Euro \(+5 %\); EIOPA bewertet Markt- und Cyberrisiken europäischer Versicherer als erhöht. Die) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 449.39999999999964 Tm (Geschäftszahlen sind kein Sicherheitsvorfall. Relevanz hoch; sektorales Cyberrisiko erhöht.) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 431.19999999999965 Tm (Quellen \(AXA/EIOPA, 29.10.\): https://www.axa.com/en/press/press-releases/9m26-activity-indicators ;) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 421.19999999999965 Tm (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 404.19999999999965 Tm (05 | Vorausschau: französischer Streiktag am 05.11. Gewerkschaften haben landesweite Arbeitsniederlegungen und) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 391.99999999999966 Tm (Demonstrationen angekündigt. Verkehrs- und Erreichbarkeitsstörungen sind möglich; eine Gewaltprognose folgt) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.8 Tf 1 0 0 1 45 379.79999999999967 Tm (daraus nicht. Relevanz mittel bis hoch für französische Standorte und Reisen.) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 361.5999999999997 Tm (Quelle \(CGT, Aufruf 06.10.\):) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 351.5999999999997 Tm (https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-salaires-les-services-publics-l) Tj ET
+0.14 0.20 0.28 rg BT /F2 9 Tf 1 0 0 1 45 334.5999999999997 Tm (Gesamtrisikoeinschätzung: ERHÖHT \(externe Sicherheitslage\). Begründung: belegte Gewalt an einzelnen) Tj ET
+0.14 0.20 0.28 rg BT /F2 9 Tf 1 0 0 1 45 321.5999999999997 Tm (Innenstadtorten, fortgesetzte Angriffe auf KRITIS und bestätigte Datenabflüsse bei) Tj ET
+0.14 0.20 0.28 rg BT /F2 9 Tf 1 0 0 1 45 308.5999999999997 Tm (Web-/Drittparteisystemen. Für AXA, YNCORIS, DLR und Chemiepark Knapsack wurde keine neue gezielte akute) Tj ET
+0.14 0.20 0.28 rg BT /F2 9 Tf 1 0 0 1 45 295.5999999999997 Tm (Bedrohung öffentlich verifiziert. Dies ist eine analytische Einstufung, keine behördliche Warnstufe.) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.9 Tf 1 0 0 1 45 274.5999999999997 Tm (Priorisierte Handlungsempfehlungen: \(1\) Exponierte Innenstadtstandorte nach Ereignissen kontrollieren und) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.9 Tf 1 0 0 1 45 261.5999999999997 Tm (lokale Behördenlage verfolgen. \(2\) Strom-, Zutritts-, Kommunikations- und IT-Abhängigkeiten gemeinsam auf) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.9 Tf 1 0 0 1 45 248.59999999999968 Tm (Ausfälle prüfen. \(3\) Webserver und Dienstleister-Datenflüsse inklusive Meldeketten überprüfen. \(4\)) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.9 Tf 1 0 0 1 45 235.59999999999968 Tm (Frankreich-Reisen am 05.11. lageabhängig disponieren. \(5\) Behauptungen, Verdachtslagen und bestätigte) Tj ET
+0.14 0.20 0.28 rg BT /F1 8.9 Tf 1 0 0 1 45 222.59999999999968 Tm (Ereignisse konsequent unterscheiden.) Tj ET
+0.40 0.48 0.55 rg BT /F1 8 Tf 1 0 0 1 46 36 Tm (DubraSec | KW 44/2026 | Seite 1/6) Tj ET
+endstream
 endobj
 6 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/russian-strikes-cut-power-thousands-ukraine-drones-damage-russian-facility-2026-11-01/)
->> /Border [ 0 0 0 ] /Rect [ 213.3397 475.3729 535.0461 485.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 627.9999999999998 336.55 638.9999999999998] /Border [0 0 0] /A << /S /URI /URI (https://www.presseportal.de/blaulicht/pm/12415/6381831) >> >>
 endobj
 7 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/russian-strikes-cut-power-thousands-ukraine-drones-damage-russian-facility-2026-11-01/)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 462.3729 292.5202 472.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 568.3999999999996 158.19 579.3999999999996] /Border [0 0 0] /A << /S /URI /URI (https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/) >> >>
 endobj
 8 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.charite.de/die_charite/themen/cyberangriff_auf_charite_webserver/)
->> /Border [ 0 0 0 ] /Rect [ 166.6486 400.3729 511.0853 410.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 558.3999999999996 422.3 569.3999999999996] /Border [0 0 0] /A << /S /URI /URI (https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/) >> >>
 endobj
 9 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.axa.com/en/press/press-releases/9m26-activity-indicators)
->> /Border [ 0 0 0 ] /Rect [ 187.1492 338.3729 491.5338 348.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 548.3999999999996 466.89 559.3999999999996] /Border [0 0 0] /A << /S /URI /URI (https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/) >> >>
 endobj
 10 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 325.3729 531.1156 335.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 488.7999999999996 398.29 499.7999999999996] /Border [0 0 0] /A << /S /URI /URI (https://www.charite.de/die_charite/themen/cyberangriff_auf_charite_webserver/) >> >>
 endobj
 11 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 312.3729 160.207 322.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 429.19999999999965 384.57 440.19999999999965] /Border [0 0 0] /A << /S /URI /URI (https://www.axa.com/en/press/press-releases/9m26-activity-indicators) >> >>
 endobj
 12 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-salaires-les-services-publics-l)
->> /Border [ 0 0 0 ] /Rect [ 182.3663 237.3729 532.9758 247.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 419.19999999999965 477.18 430.19999999999965] /Border [0 0 0] /A << /S /URI /URI (https://www.axa.com/en/press/press-releases/9m26-activity-indicators) >> >>
 endobj
 13 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-salaires-les-services-publics-l)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 224.3729 270.8606 234.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 359.5999999999997 141.04 370.5999999999997] /Border [0 0 0] /A << /S /URI /URI (https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-salaires-les-services-publics-l) >> >>
 endobj
 14 0 obj
-<<
-/Annots [ 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 
-  13 0 R ] /Contents 59 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 58 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
->>
+<< /Type /Annot /Subtype /Link /Rect [45 349.5999999999997 497.76 360.5999999999997] /Border [0 0 0] /A << /S /URI /URI (https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-salaires-les-services-publics-l) >> >>
 endobj
 15 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.presseportal.de/blaulicht/pm/12415/6381831)
->> /Border [ 0 0 0 ] /Rect [ 98.52047 601.3729 348.4748 611.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R /Annots [6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] >>
 endobj
 16 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.presseportal.de/blaulicht/pm/12415/6381520)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 588.3729 309.8126 598.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Length 7206 >>
+stream
+0.08 0.22 0.38 rg BT /F2 14 Tf 1 0 0 1 45 792 Tm (A. Physische Sicherheit und kritische Infrastruktur) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 764 Tm (A1 | Köln: Ausschreitungen nach Kundgebung) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 741 Tm (Ereignis: 31.10.-01.11.2026. Veröffentlichung: 31.10. und 01.11.2026. Faktenstatus: vorläufige Polizeibilanz. Risiko:) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 729.8 Tm (erhöht für exponierte Innenstadtstandorte.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 713.5999999999999 Tm (Die Polizei Köln berichtete über Angriffe auf Einsatzkräfte nach Beendigung einer angemeldeten) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 700.5999999999999 Tm (Kundgebung. In der vorläufigen Bilanz wurden 23 verletzte Polizeikräfte, fünf beschädigte Streifenwagen) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 687.5999999999999 Tm (und sichergestellte gefährliche Gegenstände genannt. Die Polizei unterschied zwischen Versammlung und) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 674.5999999999999 Tm (teilweise losgelösten Randalierergruppen. Ermittlungszahlen sind noch nicht abschließend. Relevanz:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 661.5999999999999 Tm (Personenschutz, Glasfronten, Schließkontrollen, Erreichbarkeit. Empfehlung: Nachkontrolle exponierter) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 648.5999999999999 Tm (Objekte und lageabhängige Abstimmung mit Sicherheitsdiensten. Keine AXA-spezifische Tat belegt. Quellen:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 635.5999999999999 Tm (https://www.presseportal.de/blaulicht/pm/12415/6381831 ;) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 622.5999999999999 Tm (https://www.presseportal.de/blaulicht/pm/12415/6381520) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 604.5999999999999 Tm (A2 | Deutschland: Versammlungen und einzelne Ausschreitungen) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 581.5999999999999 Tm (Ereignis: 31.10.2026. Veröffentlichung: 31.10.2026. Faktenstatus: Reuters mit polizeilichen/Veranstalterangaben. Risiko:) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 570.3999999999999 Tm (örtlich unterschiedlich.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 554.1999999999998 Tm (Reuters berichtete über überwiegend friedliche Demonstrationen in zahlreichen Städten und Ausschreitungen) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 541.1999999999998 Tm (unter anderem in Frankfurt und Hamburg. Beteiligtenzahlen und Schadensangaben sind zeit- und) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 528.1999999999998 Tm (quellenabhängig. Relevanz: mögliche Zugangs- und Verkehrsbeeinträchtigungen. Empfehlung: nur lokale,) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 515.1999999999998 Tm (aktuelle Behördeninformationen als Grundlage operativer Entscheidungen nutzen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 502.1999999999998 Tm (https://www.reuters.com/world/europe/gen-z-protests-reach-germany-over-160000-expected-halloween-rallies-) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 489.1999999999998 Tm (2026-10-31/) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 471.1999999999998 Tm (A3 | Ukraine: Bahnhof Dnipro getroffen) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 448.1999999999998 Tm (Ereignis/Veröffentlichung: 29.10.2026. Faktenstatus: Reuters unter Bezug auf ukrainische Stellen; Opferzahl nicht) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 436.99999999999983 Tm (unabhängig vollständig überprüft. Risiko: hoch regional, mittel als Resilienzszenario.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 420.79999999999984 Tm (Ein Drohnenangriff traf einen Bahnsteig in Dnipro. Reuters berichtete von mindestens 14 Todesopfern am) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 407.79999999999984 Tm (Bahnhof nach ukrainischen Angaben sowie weiteren Angriffen auf zivile Infrastruktur. Relevanz: Schutz von) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 394.79999999999984 Tm (Verkehrsknoten, Evakuierung und Versorgungsabhängigkeiten. Empfehlung: Ausfall- und Evakuierungsszenarien) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 381.79999999999984 Tm (für Knotenpunkte prüfen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 368.79999999999984 Tm (https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 355.79999999999984 Tm (29/) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 337.79999999999984 Tm (A4 | Ukraine: erneute Energieangriffe) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 314.79999999999984 Tm (Ereignis: Nacht 31.10./01.11.2026. Veröffentlichung: 01.11.2026. Faktenstatus: Reuters und ukrainische) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 303.59999999999985 Tm (Regierungsangaben. Risiko: hoch regional, mittel indirekt.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 287.39999999999986 Tm (Laut ukrainischen Angaben trafen Angriffe Energieanlagen in vier Regionen und verursachten erhebliche) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 274.39999999999986 Tm (Stromausfälle. Ausfallumfang und einzelne Täterzuordnungen beruhen teilweise auf Behördenangaben.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 261.39999999999986 Tm (Relevanz: Strom, Kommunikation, IT und Betriebsunterbrechung. Empfehlung: gekoppelte Ausfälle und) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 248.39999999999986 Tm (Wiederanlaufpläne überprüfen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 235.39999999999986 Tm (https://www.reuters.com/world/europe/russian-strikes-cut-power-thousands-ukraine-drones-damage-russian-fa) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 222.39999999999986 Tm (cility-2026-11-01/) Tj ET
+0.08 0.22 0.38 rg BT /F2 14 Tf 1 0 0 1 45 204.39999999999986 Tm (B. Cyber, Daten und Drittparteien) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 176.39999999999986 Tm (B1 | Charité: Webserver-Datenabfluss) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 153.39999999999986 Tm (Ereignis: vor 30.10.2026, genauer Zeitpunkt nicht veröffentlicht. Veröffentlichung: 30.10.2026. Faktenstatus:) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 142.19999999999987 Tm (Charité-Primärquelle. Risiko: mittel bis hoch für Betroffene.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 125.99999999999989 Tm (Die Charité bestätigt einen Cyberangriff auf ihren Webserver und den Abfluss von Kontaktdaten von) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 112.99999999999989 Tm (Mitarbeitenden, Studierenden und externen Kontakten. Die Patientenversorgung sei nicht beeinträchtigt.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 99.99999999999989 Tm (Der Vorfall stehe nicht mit einer zuvor behandelten PHP-Sicherheitslücke in Zusammenhang. Relevanz:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 86.99999999999989 Tm (Webformulare, Datensparsamkeit, Segmentierung. Empfehlung: Datenflüsse, Protokollierung und) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 73.99999999999989 Tm (Benachrichtigungswege prüfen. Quelle:) Tj ET
+0.40 0.48 0.55 rg BT /F1 8 Tf 1 0 0 1 46 36 Tm (DubraSec | KW 44/2026 | Seite 2/6) Tj ET
+endstream
 endobj
 17 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/gen-z-protests-reach-germany-over-160000-expected-halloween-rallies-2026-10-31/)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 459.3729 531.0652 469.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R  >>
 endobj
 18 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/gen-z-protests-reach-germany-over-160000-expected-halloween-rallies-2026-10-31/)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 446.3729 155.4283 456.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Length 6935 >>
+stream
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 792 Tm (https://www.charite.de/die_charite/themen/cyberangriff_auf_charite_webserver/) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 774 Tm (B2 | PUBLICA: Status zu Lieferantenangriff aktualisiert) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 751 Tm (Ursprungsereignis: Ende September 2026. Aktualisierung: 30.10.2026. Faktenstatus: PUBLICA-Primärquelle. Risiko: mittel) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 739.8 Tm (als Branchenszenario.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 723.5999999999999 Tm (PUBLICA berichtet nach dem Angriff auf einen Softwarelieferanten über vermutlich abgeflossene) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 710.5999999999999 Tm (Personendaten; produktive Vorsorgesysteme seien nicht betroffen. Zum Stand 30.10. lägen keine Hinweise) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 697.5999999999999 Tm (auf eine Veröffentlichung im Darkweb vor. Dies ist eine Aktualisierung eines älteren Vorfalls, kein neuer) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 684.5999999999999 Tm (Angriff in KW 44. Relevanz: Drittparteien, Datenschutz, Meldewege. Empfehlung: Lieferantenexposition und) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 671.5999999999999 Tm (Datenflüsse nachvollziehen. Quelle: https://www.publica.ch/de/cyberangriff-auf-softwarelieferanten) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 653.5999999999999 Tm (B3 | Chainalysis: berichteter Zugriff auf Kundenkontaktdaten) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 630.5999999999999 Tm (Ereignis: Oktober 2026, genauer Zeitpunkt nicht veröffentlicht. Veröffentlichung: 31.10.2026. Faktenstatus:) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 619.3999999999999 Tm (Fachmedienbericht unter Berufung auf Kundenmitteilung. Risiko: mittel.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 603.1999999999998 Tm (The Block berichtete über einen unbefugten Zugriff auf interne Werkzeuge und Kundennamen/E-Mail-Adressen) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 590.1999999999998 Tm (bei Chainalysis. Weitergehende Datenzugriffe seien nach damaliger Unternehmensdarstellung nicht belegt.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 577.1999999999998 Tm (Angaben zu KI-gestützten Angriffsmethoden bleiben als Darstellung des Unternehmens gekennzeichnet.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 564.1999999999998 Tm (Relevanz: Phishing, Identitäts- und Drittparteirisiken. Empfehlung: MFA und Umgang mit kompromittierten) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 551.1999999999998 Tm (Kontaktlisten überprüfen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 538.1999999999998 Tm (https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniqu) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 525.1999999999998 Tm (es-accessed-its-customers-names-and-emails-432244) Tj ET
+0.08 0.22 0.38 rg BT /F2 14 Tf 1 0 0 1 45 507.1999999999998 Tm (C. AXA, Versicherungen und beobachtete Organisationen) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 479.1999999999998 Tm (C1 | AXA: Neunmonatskennzahlen 2026) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 456.1999999999998 Tm (Referenzperiode: 01.01.-30.09.2026. Veröffentlichung: 29.10.2026. Faktenstatus: AXA-Primärquelle. Risiko: kein) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 444.99999999999983 Tm (Sicherheitsvorfall.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 428.79999999999984 Tm (AXA meldete 93,0 Mrd. Euro Bruttoprämien und sonstige Erlöse \(+5 %\), 48,1 Mrd. Euro Schaden/Unfall \(+3 %\)) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 415.79999999999984 Tm (und 44,8 Mrd. Euro Leben/Gesundheit \(+7 %\). Die Solvency-II-Quote betrug 213 % zum 30.09., fünf Punkte) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 402.79999999999984 Tm (weniger als Ende Juni. Relevanz: finanzielle Resilienz und Marktumfeld. Empfehlung: Kennzahlen von) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 389.79999999999984 Tm (operativen Sicherheitsereignissen trennen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 376.79999999999984 Tm (https://www.axa.com/en/press/press-releases/9m26-activity-indicators) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 358.79999999999984 Tm (C2 | EIOPA: erhöhte Markt- und Cyberrisiken) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 335.79999999999984 Tm (Datenbasis: Q2/2026 und 2025. Veröffentlichung: 29.10.2026. Faktenstatus: Aufsichtsbehörde. Risiko:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 322.79999999999984 Tm (erhöht auf Sektorebene. EIOPA sieht Markt- und Digitalisierungs-/Cyberrisiken europäischer Versicherer) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 309.79999999999984 Tm (als erhöht und den Cyber-Ausblick als sich verschlechternd. Das ist eine sektorale Einschätzung, keine) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 296.79999999999984 Tm (AXA-spezifische Angriffsmeldung. Relevanz: Cyber-Underwriting, Dienstleister, Marktrisiken. Empfehlung:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 283.79999999999984 Tm (als Trendindikator für Risiko- und Dienstleistermonitoring verwenden. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 270.79999999999984 Tm (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-i) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 257.79999999999984 Tm (nsurers-2026-10-29_en) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 239.79999999999984 Tm (C3 | AXA-Vorstandsmitglieder: Funktionen verifiziert) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 216.79999999999984 Tm (Quellenprüfung: 02.11.2026. Faktenstatus: offizielle AXA-Führungsliste. Risiko: keine neue personenbezogene Lage) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 205.59999999999985 Tm (belegbar.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 189.39999999999986 Tm (Thomas Buberl ist CEO. Zu den weiteren offiziell genannten Mitgliedern des Management Committee gehören) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 176.39999999999986 Tm (unter anderem George Stansfield, Guillaume Borie, Matthieu Caillat und Alban de Mailly Nesle. Für die) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 163.39999999999986 Tm (Berichtswoche wurden in den geprüften Quellen keine belastbaren neuen personenbezogenen Sicherheits- oder) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 150.39999999999986 Tm (Compliance-Vorwürfe gefunden. Ein Nichtfund bestätigt keine vollständige Vorfallsfreiheit. Empfehlung:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 137.39999999999986 Tm (nur datierte, korrekt zugeordnete und belegte Vorwürfe berücksichtigen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 124.39999999999986 Tm (https://www.axa.com/about-us/executive-management) Tj ET
+0.40 0.48 0.55 rg BT /F1 8 Tf 1 0 0 1 46 36 Tm (DubraSec | KW 44/2026 | Seite 3/6) Tj ET
+endstream
 endobj
 19 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 317.3729 531.4305 327.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R  >>
 endobj
 20 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 304.3729 96.32008 314.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Length 2682 >>
+stream
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 792 Tm (C4 | YNCORIS / Infraserv Hürth / Chemiepark Knapsack) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 769 Tm (Monitoring: 26.10.-01.11.2026. Quellenprüfung: 02.11.2026. Faktenstatus: begrenzter öffentlicher Nichtfund. Risiko:) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 757.8 Tm (mangels bestätigtem Vorfall nicht konkret bestimmbar.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 741.5999999999999 Tm (In den geprüften Betreiber- und Standortmeldungen fand sich kein neuer, eindeutig auf die Berichtswoche) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 728.5999999999999 Tm (datierter Angriff, Störfall oder sicherheitsrelevanter Ausfall. YNCORIS ist Betreiber des Chemieparks) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 715.5999999999999 Tm (Knapsack und ging aus der früheren InfraServ Knapsack hervor; nicht mit anderen Infraserv-Unternehmen) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 702.5999999999999 Tm (gleichsetzen. Empfehlung: laufende Quellenbeobachtung und präzise Standortzuordnung. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 689.5999999999999 Tm (https://www.yncoris.com/) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 671.5999999999999 Tm (C5 | DLR: Nachverfolgung der vorsorglichen PHP-Abschaltung) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 648.5999999999999 Tm (Ursprungsereignis: 21./22.10.2026 \(Vorwoche\). Statusprüfung: 02.11.2026. Faktenstatus: DLR-Primärquelle. Risiko: niedrig) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 637.3999999999999 Tm (als abgeschlossene Vorsorgemaßnahme.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 621.1999999999998 Tm (DLR-Projektwebsites waren wegen einer PHP-Sicherheitslücke vorsorglich offline genommen worden und laut) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 608.1999999999998 Tm (DLR später wieder erreichbar. Kein bestätigter erfolgreicher Angriff in dieser Meldung; nicht als neues) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 595.1999999999998 Tm (Ereignis der KW 44 gezählt. Relevanz: Verfügbarkeit und Schwachstellenmanagement. Empfehlung:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 582.1999999999998 Tm (vorsorgliche Abschaltungen und bestätigte Kompromittierungen getrennt erfassen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 569.1999999999998 Tm (https://www.dlr.de/de/pt-lf/aktuelles/nachrichten/2026/websites-des-projekttraegers-luftfahrtforschung-au) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 556.1999999999998 Tm (fgrund-von-php-sicherheitsluecke-voruebergehend-offline) Tj ET
+0.40 0.48 0.55 rg BT /F1 8 Tf 1 0 0 1 46 36 Tm (DubraSec | KW 44/2026 | Seite 4/6) Tj ET
+endstream
 endobj
 21 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/russian-strikes-cut-power-thousands-ukraine-drones-damage-russian-facility-2026-11-01/)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 175.3729 532.178 185.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 20 0 R  >>
 endobj
 22 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.reuters.com/world/europe/russian-strikes-cut-power-thousands-ukraine-drones-damage-russian-facility-2026-11-01/)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 162.3729 175.1184 172.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Length 6564 >>
+stream
+0.08 0.22 0.38 rg BT /F2 14 Tf 1 0 0 1 45 792 Tm (D. Vorausschauende Sicherheitslage: 02.-08.11.2026) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 764 Tm (D1 | Frankreich: nationaler Streik- und Demonstrationstag) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 741 Tm (Geplant: 05.11.2026. Ort: Frankreich, mehrere Städte. Status: bestätigter Gewerkschaftsaufruf, konkrete Beteiligung und) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 729.8 Tm (Auswirkungen offen. Risiko: mittel, lokal lageabhängig.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 713.5999999999999 Tm (Gewerkschaften rufen für Löhne, Beschäftigung und öffentliche Dienste zu Arbeitsniederlegungen und) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 700.5999999999999 Tm (Demonstrationen auf. Mögliche Auswirkungen auf Verkehr, Erreichbarkeit und AXA-Frankreich-Standorte sind) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 687.5999999999999 Tm (plausibel, nicht pauschal bestätigt. Prävention: lokale Behörden- und Verkehrslage vor Reiseantritt) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 674.5999999999999 Tm (prüfen; keine automatische Gewaltprognose. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 661.5999999999999 Tm (https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-sala) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 648.5999999999999 Tm (ires-les-services-publics-l) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 630.5999999999999 Tm (D2 | Dortmund: Champions-League-Spiel BVB - Real Betis) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 607.5999999999999 Tm (Geplant: 04.11.2026, 21:00 Uhr. Ort: Signal Iduna Park/Dortmund. Status: Polizeiankündigung. Risiko: niedrig bis mittel,) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 596.3999999999999 Tm (primär Verkehr.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 580.1999999999998 Tm (Die Polizei erwartet Verkehrsbeeinträchtigungen im Stadionumfeld, auf Anfahrtswegen und teils in der) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 567.1999999999998 Tm (Innenstadt. Keine spezifische Angriffsdrohung belegt. Relevanz: Dienstreisen und Besucherzufahrt.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 554.1999999999998 Tm (Prävention: Verkehrs- und Polizeiinfos berücksichtigen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 541.1999999999998 Tm (https://www.presseportal.de/blaulicht/pm/4971/6380893) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 523.1999999999998 Tm (D3 | DLR-Konferenz in Köln-Deutz) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 500.1999999999998 Tm (Geplant: 03.-06.11.2026. Ort: Confex Cologne, Barmer Straße 20. Status: DLR-Veranstalterkalender. Risiko: niedrig,) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 488.99999999999983 Tm (logistischer Bezug.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 472.79999999999984 Tm (Die gemeinsame i-SAIRAS/iSpaRo-Konferenz ist angekündigt. Zusätzlicher Besucherverkehr ist möglich,) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 459.79999999999984 Tm (konkrete Störungen oder Bedrohungen sind nicht belegt. Relevanz: DLR-Veranstaltungsschutz, Besucherströme) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 446.79999999999984 Tm (Köln-Deutz. Prävention: Veranstalter- und Verkehrsinfos abstimmen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 433.79999999999984 Tm (https://event.dlr.de/en/events/week/2026-11-04/) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 415.79999999999984 Tm (D4 | Köln-Deutz: mehrere Arena-Veranstaltungen) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 392.79999999999984 Tm (Geplant: 02.11. Placebo; 05.-07.11. Felix Lobrecht; 08.11. Hans Zimmer. Ort: LANXESS arena. Status:) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 381.59999999999985 Tm (Veranstalterkalender. Risiko: niedrig, punktuelle Verkehrsspitzen.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 365.39999999999986 Tm (Veranstaltungen können An-/Abreise im Umfeld Köln-Deutz beeinflussen. Aus dem Veranstaltungskalender) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 352.39999999999986 Tm (folgt kein besonderes Gewaltrisiko. Prävention: Termine in Anfahrtplanung berücksichtigen. Quelle:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 339.39999999999986 Tm (https://www.lanxess-arena.de/events-tickets/eventkalender) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 321.39999999999986 Tm (D5 | DLR: öffentliche Messe- und Fachtermine) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 298.39999999999986 Tm (Geplant: 03.11. München; 04.11. Aachen; 05.11. Braunschweig. Status: DLR-Kalender. Risiko: niedrig.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 282.1999999999999 Tm (Angekündigte Hochschul- und Fachveranstaltungen mit DLR-Beteiligung sind bestätigte Termine, keine) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 269.1999999999999 Tm (Sicherheitsvorfälle. Relevanz: öffentliche DLR-Präsenz und Besuchermanagement. Prävention: reguläre) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 256.1999999999999 Tm (Veranstaltungs- und Meldeprozesse anwenden. Quelle: https://event.dlr.de/en/events/week/2026-11-04/) Tj ET
+0.07 0.36 0.54 rg BT /F2 11 Tf 1 0 0 1 45 238.19999999999987 Tm (D6 | Cyber-/KRITIS-Frühwarnung) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 215.19999999999987 Tm (Ausblick: 02.-08.11.2026. Status: keine konkret terminierte, belastbar verifizierte Angriffskampagne gegen AXA, YNCORIS,) Tj ET
+0.39 0.46 0.54 rg BT /F1 8 Tf 1 0 0 1 45 203.9999999999999 Tm (DLR oder Knapsack identifiziert. Risiko: abstrakt erhöht.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 187.7999999999999 Tm (Webanwendungen, Softwarelieferanten und kritische Versorgungsabhängigkeiten bleiben relevante) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 174.7999999999999 Tm (Beobachtungsfelder. Eine nicht bestätigte Drohung ist keine belegte Angriffslage. Prävention:) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 161.7999999999999 Tm (BSI-/Herstellerwarnungen auf konkrete Betroffenheit prüfen.) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 143.7999999999999 Tm (Quellen \(Kontext\):) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 133.7999999999999 Tm (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en ;) Tj ET
+0.06 0.38 0.66 rg BT /F1 7 Tf 1 0 0 1 45 123.7999999999999 Tm (https://www.charite.de/die_charite/themen/cyberangriff_auf_charite_webserver/) Tj ET
+0.40 0.48 0.55 rg BT /F1 8 Tf 1 0 0 1 46 36 Tm (DubraSec | KW 44/2026 | Seite 5/6) Tj ET
+endstream
 endobj
 23 0 obj
-<<
-/Annots [ 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R ] /Contents 60 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 58 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
->>
+<< /Type /Annot /Subtype /Link /Rect [45 141.7999999999999 106.74000000000001 152.7999999999999] /Border [0 0 0] /A << /S /URI /URI (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en) >> >>
 endobj
 24 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.charite.de/die_charite/themen/cyberangriff_auf_charite_webserver/)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 690.3729 437.5066 700.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 131.7999999999999 484.03999999999996 142.7999999999999] /Border [0 0 0] /A << /S /URI /URI (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en) >> >>
 endobj
 25 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.publica.ch/de/cyberangriff-auf-softwarelieferanten)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 548.3729 364.583 558.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Annot /Subtype /Link /Rect [45 121.7999999999999 309.11 132.7999999999999] /Border [0 0 0] /A << /S /URI /URI (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en) >> >>
 endobj
 26 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 406.3729 531.3549 416.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 22 0 R /Annots [23 0 R 24 0 R 25 0 R] >>
 endobj
 27 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 393.3729 326.5968 403.6929 ] /Subtype /Link /Type /Annot
->>
+<< /Length 1793 >>
+stream
+0.08 0.22 0.38 rg BT /F2 14 Tf 1 0 0 1 45 792 Tm (E. Trends, Bewertung und Grenzen) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 764 Tm (Trend 1: Friedliche Versammlungen und Gewalthandlungen einzelner Gruppen müssen getrennt bewertet werden.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 751 Tm (Trend 2: Strom, Verkehr, IT und Gebäudezugang bilden gekoppelte Betriebsabhängigkeiten. Trend 3: Ein) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 738 Tm (Angriff auf Webserver oder Lieferanten bedeutet nicht automatisch die Kompromittierung produktiver) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 725 Tm (Kernsysteme. Trend 4: Aufsichtliche Branchenrisiken sind keine konkrete Unternehmenswarnung.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 707 Tm (Gesamtbewertung: Externe Sicherheitslage erhöht; aus den geprüften öffentlichen Quellen keine akute,) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 694 Tm (zielgerichtete Gefährdung der beobachteten Organisationen nachweisbar. Risikoangaben sind analytische) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 681 Tm (Einschätzungen und keine behördlichen Warnstufen.) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 663 Tm (Methodik: Selektive öffentliche Quellenrecherche; Ereignis- und Publikationsdaten getrennt;) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 650 Tm (Aktualisierungen älterer Vorfälle ausdrücklich markiert; Originalquellen unmittelbar bei den jeweiligen) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 637 Tm (Meldungen. Nichtfund ist kein Nachweis von Vorfallsfreiheit. Ausblick: 02.-08.11.2026, Termine bestätigt,) Tj ET
+0.14 0.20 0.28 rg BT /F1 9.1 Tf 1 0 0 1 45 624 Tm (Auswirkungen unsicher.) Tj ET
+0.40 0.48 0.55 rg BT /F1 8 Tf 1 0 0 1 46 36 Tm (DubraSec | KW 44/2026 | Seite 6/6) Tj ET
+endstream
 endobj
 28 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.axa.com/en/press/press-releases/9m26-activity-indicators)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 234.3729 397.4545 244.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-29 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 105.3729 534.8067 115.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-30 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 92.37291 189.7275 102.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-31 0 obj
-<<
-/Annots [ 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R ] /Contents 61 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 58 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
->>
-endobj
-32 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.axa.com/about-us/executive-management)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 640.3729 330.8087 650.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-33 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.yncoris.com/)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 511.3729 202.6653 521.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-34 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.dlr.de/de/pt-lf/aktuelles/nachrichten/2026/websites-des-projekttraegers-luftfahrtforschung-aufgrund-von-php-sicherheitsluecke-voruebergehend-offline)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 382.3729 531.145 392.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-35 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.dlr.de/de/pt-lf/aktuelles/nachrichten/2026/websites-des-projekttraegers-luftfahrtforschung-aufgrund-von-php-sicherheitsluecke-voruebergehend-offline)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 369.3729 328.3521 379.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-36 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-salaires-les-services-publics-l)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 192.3729 533.4504 202.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-37 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-salaires-les-services-publics-l)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 179.3729 181.0897 189.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-38 0 obj
-<<
-/Annots [ 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R ] /Contents 62 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 58 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
->>
-endobj
-39 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.presseportal.de/blaulicht/pm/4971/6380893)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 760.3729 337.5526 770.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-40 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://event.dlr.de/en/events/week/2026-11-04/)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 644.3729 302.7705 654.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-41 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.lanxess-arena.de/events-tickets/eventkalender)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 541.3729 350.2342 551.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-42 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://event.dlr.de/en/events/week/2026-11-04/)
->> /Border [ 0 0 0 ] /Rect [ 93.06989 438.3729 302.7705 448.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-43 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en)
->> /Border [ 0 0 0 ] /Rect [ 141.4407 322.3729 535.1342 332.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-44 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.eiopa.europa.eu/eiopa-risk-dashboard-highlights-market-and-cyber-risks-key-concerns-europes-insurers-2026-10-29_en)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 309.3729 237.7708 319.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-45 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.charite.de/die_charite/themen/cyberangriff_auf_charite_webserver/)
->> /Border [ 0 0 0 ] /Rect [ 246.1356 309.3729 533.0766 319.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-46 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.charite.de/die_charite/themen/cyberangriff_auf_charite_webserver/)
->> /Border [ 0 0 0 ] /Rect [ 59.85827 296.3729 117.354 306.6929 ] /Subtype /Link /Type /Annot
->>
-endobj
-47 0 obj
-<<
-/Annots [ 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R ] /Contents 63 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 58 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
->>
-endobj
-48 0 obj
-<<
-/Filter [ /FlateDecode ] /Length 696
->>
-stream
-xœmÕÍnÚ@†á=Wáe«.Àsş	!%!HYôG¥êÀRƒ,r÷ÏJGm‘`^cüÈ^œñÃÓü©Û›ñ—ş°^æs³İu›>Ÿ—~›çü²ëFmj6»õùz4ü®÷«ãh\6/_Oç¼ê¶‡ÑtÚŒ¿–“§sÿÚ¼»>æùçêûe¹êNïGãÏı&÷»îåÿg——ãñWŞçîÜLF³Y³ÉÛr‹«ã§Õ>7ã¶ü¹àÛë17i8n©\6ùt\­s¿ê^òh:™Ìši,f£Ümş:×¦îyŞ®¬úëµ“ò™•n‡¾tzáha? uèGEûíCÏ‡ë£tš´‚¾áÿômu¯»ªï«~¨z^õcÕ‹?İVş¶­:U-UkÕVµWUßT]ùÛÊßVş¶ò·•¿­ümåOô§¡é/KiúËRšş„ç™èOxş‰ş²”¦?áù'úŞc¢¿,¥éOx_‰ş²”¦¿,¥éOx×‰ş²”¦¿,¥éOx§B¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üAÀôüAÀôüAÀôüAÀôüAÀôüAÀôüAÀôüAÀô_'Äu`V`Î½Í õ¥ïËx†á0x0rv]~›—ÇÃ»ğı=ÍŸ~endstream
-endobj
-49 0 obj
-<<
-/Filter [ /FlateDecode ] /Length 19346 /Length1 36600
->>
-stream
-xœì½	|Eö8^ÕÕİÓÓsOfr;Ä„+€0	$I!LÈA‚ÄœºáX4 ¢²ˆÈb@t=â‰ìêî²àº*^»ˆì~Ù!i~¯ªgr º®{ş?Ÿ?c§¯ªWï~¯^ÕŒ#„Lh	"(7gRBRá€yàÉ98
-Jæ×ÈD„Ã»d^½‚*ƒRâ²à^-¯™5÷îóf#ÄÃ=zrÖœ…åEŞŸwÁı„ÆÔT”—Ffå ”YïWÀÓvİoá¾î#*æÖ/¸’;´î; Ş¾9Õ%Å©ç/BhB¼ÿíÜâ5üoÅ»Ê÷JUñÜ²ê‰Ã=À»Uª©®«¿~MChm¯ÔÔ–Õ×ı.W­EH¨@˜7ãµH€ëda3Œ¬ÉoP9g*"!Ïqüg¨êú¯Q×u9¢(–GŠ1·<½¹rıºèPx‹n.ş¸áë\GÚ?Œ0;‘ˆevµ„=å€<Œ("’Ğ?öOdd ˆ&dFdE6dG^ÈœÈù _ä‡üQ 
-DA(… …¢0"P$ŠBÑ(Å¢~¨?ŠCP<J@‰è”„’Ñ@4FCĞP”‚†¡áhºD£€ºT”†F£1(e ±hÊDãÑ”…&¢l”ƒrÑm(MBùh2*@SĞTTœ¾İ¦£èNT„ŠÑLT‚JQ*G³S¡vt>/¡½h+ŞwåğønxÒÆD+P<yÇ«¸ğlº„NBËftœìåØ‡ög]ÆùèÀHÁœ¢yÄgó‡ø<¾ÿŒ?†ğuü	¾ˆ¯ÃÉä1¡@ØG
-ydú&p¦€êĞQòI&Çø1¼}@N½è…øÇQÚ.\¹Å\<y]8¶À§ŞŸÀÛğIÀî(^N£‡ÏCÛği ë8úZNò¹FĞ¢d®ğ`€ş[Pş4hƒÊõ‡g€=Œ5“ı"„Óìs	5ÂÈùh‡Ø.:tá0
-åØ.ü
-¾ ®Gmè$¹ƒÜMÎâ|8¿›‡Z4"Ô°·Ğ>b9^´ÓÏb
-›Ïá½è¾H7`¿J)‚1qy@Q9:Ç|Ñ
-4Ç+È*À”¾B'tãùèt÷ÕU“Ah6\-FûÑA4€lD- ‰Ñ+ş=·òÍ-ø~îoèWÎ_^ƒ’¢=«pÅ)Ö\dfé×mS•7
-CÄİp«XuÊ”{À´Pi¿~=w* Hé şáw½üp@Ü„Ü©Ê®ô1n¨éEcàÙ¤©pIïà1<OÃŞÑA‘ğ_fÑ¥¤B¹Ïz_ø°û¬eÃÀÅq¨\İÈ—;ÀbuÈßeä¯!ñ–„FG	§.Ü‚¬§.œºèeµE†ÚBËyÔYG:?Q7êÌWşR+Æ‚½ŸåÆáı$`ØŸå–#û!Şêî›è•ì?{ò$ÉPº~İ}ıc¾A´Ú£À–MD”q‡Hˆ¿^×ß¥w…äø'†Œòç§ßm÷CÛ©¬í­-Í÷à+C[“+ Ç71`”/
-°øŠ¬ıbh?€µ¯µÏxÈ1 Æ í1Õ1¹îŒqÈ‰I0*°ÄÈ¬Å©Q,‡~ÙYu¨­f¸Ö]ÿX8£Ë†çCÍ¢qÃØZCB(¶Ìï•â/ÈVn!ğÁz˜ÛÊˆQÂkÀ…NàB¨3´”í|ƒ[¸–µ=
-cîà£¶¸D‡yÑ¤ ¾Ÿw“ÿ¯~GÈ&¯5ñF½)H	ÖKÑ’$EX½HV”‘híìè|ÛúÚÅS­m))vøÜ‚Î«­êé‹vŸŸ”D—Ë"XD‹Îm‰¹ÏxŸI'‹²N6ÈFÙ$‡˜9ÔÆGù™üBü”aÊ°Ğ‰!•ÌĞÌ°Ù!³•âNİ.Åw:î5ppr’·;Ş!8NbxXTô `œœ4xĞÀ¨<$‡‡‰N[øÑ¯~÷ÎY²i÷°Ô”]Et­ÌÌ]“Z¿`xÙESØ$-¿{ÙÊçø»ß8ûù¤º¢„ÛúEÎ~ tß³~¾;‚ƒî¼}TşÈ!Ã›ooÜ4«fõòkë©3åÀ›‚’
-§§z4ÈeÑ¡åüRNÒ	˜€“­ò§q½8´pÄ…¤ÆˆÎ·ñadP¹2=Ğ–l#á:~ü¸ã1§ª
-§»îVÆelô*ÙË}ÁÆĞ¡4àş)–J¼ "ã%:†=Â¯üÛa Ôy*÷e/»,‰z—>W_¤¯Ñ·é¡×MÇ¶p°–p®ŞËEì…¡NsıéÁÆÚ†è#¼ c… "×-Ô¬ãƒô‚Ÿ‰köñ²8m!Áş>ŞN‡—İf5›ŒzÉãPüe_Q±v¾íCiqjÄˆÎôoGÒ…¤¤D—Í€œÁh09x›¿İ"áé8”„p¨W2õcG¸;…²ƒ÷QßÏÇ‘c*pDeÛ,<T}4T®h›¥õh…ú*.ÊW_À•åd…z4«Åx»Z¼E=¸Y‰·Ñc3ÎŞ‚·C@{Õ“ü\ĞçPˆÁ	èy×ä0´-GÅpƒ„ƒ¹„Ø„ .66!ÍËf“byQß/Tà|š¼Å&ÁîŸ÷*+êwŸ ‘Qò–ƒu±şv{˜UO°.J2	b"•…Ê[ b˜pÀr±æß>á€…	G@.ª—}FtúŒ¸|şÕ…§Î_Hê°RS±§ØRl`p‘îRgå¿ÔYÍ_Ú|RºOü—…a8œÄcªå>6M¿%;áÆ	mÌtÄÆlÂÇ6ŞGq‡Jqå¯g—¿[ış›¿{»túşI“ºãã÷>~¯´~Ñİ6.]¬Ä¸¹R1~#bßÆÇ™ÿô9ğT¿x^~hëW,á-¦ÙSŠN«9¶ªiSi²oÒÅBÄ4@öN2Zåa‰ŒŠŒ²DGD§¡ÁÆßïû`„ø ñş(ûš˜ˆu£C"õÄä4ëM–PSs€Ér‹a Æ<j0·SÎÁıc¦LŒ·P®v\¸|Ázño)«@Ó¬ç“.8ÏX/j\¾¤ğ	ŒŞá­¹‚è$oÍ; ¿z?LÆá^½Ş	ïN))™2¹¤dò¶£Ï=Òvô¹ÎM%3§L))%·´uNkÙvì¹íÛåÖmøé²ÖÖeË[Ï=÷ÜÙ³Ï;Ë·.ûé†?]º±ñ›ÿMgŸ{şwg=§ÙğRğÕ*ğIñ	×F6›lv›¡I6Øí6}Ò;½:,JMŞŞNÜ„šô(88H	áBƒm²—fG|6/Y'q¢Şæå%s˜#H{Åù:áƒ>M³ôDDr0‰qšÅ˜h±Õ·kô†ˆu¾kÌ^r¼Á¬Gñvg´9˜ÄÛ£CÍ6X=ÀzD‚S§.€çfÌm¤
-IÍùµóûøk}ê¨ı¯›Õ‚¦˜}N}ŸIßÒbú¤ûiaØAKÆÓ]u!Lˆqçcè‡úá(û04Ğ>Æ0âiòdû4ÿi!…‰³‚£‡Ñ¼™Û$µÖ;[½[Ã6ÑôFÉfŒ6Æørz?ƒŸÑÏètz…$E£h«·÷óêçˆq&$×´§xJ¯ÏrLpføå$àiúBãd{¡×!w&Í6VÚŠ’ğBã"Ûz´oâZ…­º­Òvi‹şaÃãÚ¤¶¤I)ÓÑtÌL´iˆÄC’EN‡Ã£Ír{iQÊ©E!‡7şËí“Oµİ¹+S]Œ;‡§‰GÓ±OgKÅùåVÙÔ”˜ôûöI;'OÙ6¦rùp~Û£S|y”‹kéºRx¼ö§ªúõãõ…S°×o–|X2êŞ½q8á–ê©É³ nC¬ÀÕ,VqÉø§h)Oƒ“ ÁBÄ&—+	5ÂZ¡MYx€Ğ Å–PÿÂ-í0çâ²ˆ¡Mf“»ˆ¼d³õ
-0eÍãYØ5õsç“.Øh¸£é9§ÃîÅhÂ-nZ¶|EÛÆÖ›Dû§êÈÏ>S‡ò'üÚ>À`¼0^5/"*O‡‘ÁÎ{IÆq¹®W²·İéàtáƒíƒr; dëÆ¶Ë—‹öêˆş ûÓ'øÕÏ>Ã/3:nåÆ“WÀm(Ûg5oÔëx¡d³`3n–±y]2ÊD/Ú&rXxƒŞaíÖS#Î'ƒÃ‡¹gÊ¸S\;.À¸OÄ&¬‹¶	Ñğ‚y$yEİŒgSÔª†áYêæa8·çò¼üÊÌãj3^x|æ+/—ÇÕæã·3àLÏ
-<øÑp—éñV8'|dÑ)­ç:!šÒxq
-Î‰ØÁ’†ñA¡6²ŸĞurw×In€ÀwÜK/öÂÜ£m×íø¤‚—ösÉ6´\$4÷õu§ŞÖ88$Ù	÷ÒÉKóÔ}ê‹ØÅòÄ¸FH”Á³F[9Hyë¹·İé2M¹€®O¸å;(ŞgáÏ~Ú>‹–s<(Å”Á¦©µªÒyøõ4î ÓË.òÇà¸ü	"iÜvPQa’ĞÁ„
-Ù×‡ƒæ¤½]W@!¿™«ùÒfÈM[<1Çå%¶ÙQ›q}¯>ĞL¾€Áeªßçi¨HÄaœÍjON‚„…‹NB6+Û„¿Üê­<ÿ=òÈ5¬W¿¾vMıë…\õ„ú6'`èd<'·©uj“Ú¬ÖáûñB¼ßOéş!~Ğªîr¦‘6k–êP›^
-!yÂë)·5`j:4¦$]¦Ó H;d!›>$Ô&ŠL¦"UñxĞ›²·ğøÎ{ùºqíã®ŞËôfnüx 9msEûùß@¨‹Mø4ë£¶¦6Ç:fğÈ
-1Aô±1ˆ½ŒŞÛKÂ"è©/¾È‚'Ã§Ë…/ñ@+óÉØ•4™/
-t‹øEÂ¼€f?Ìïıx˜èÖ£ybƒ]@}à2Ôä·ÌYÀ²Àİhw€Üa$1h0Â2pxºA#!çiV""¼Š{©3™\<ñ‰¦;O.XtjêçØ‘~»ŸzyïŞ½óñºas7eÎß˜6úí[’>ù5AêŸı[Aæu@ªqÅ#§—Ü¤iR¼Úœ¦6ız1°MY¾N\ã|<Ö;Ğ‡_`”b$½KÙàïá€q X nÄ‡©Ü…óŠYYxÓ’0ğ‰úÒàâb¥4”Os*>´÷Ä¢?¤]ô!ŒZ÷¸úúùŒ×gç¿1÷…×ìÜ¸uÛãMz¡¶îÍÂO±ñÒ±öı¿DF¾rKÒÆ–Ÿ¶îš_S·8"ê¢¼{ğ'©n—‚œw€^qàı–º‚°‰˜!¦4Dº6˜U,Õc£ŒE‰72ßkÈ÷$GFJØ©à”XÄ>O=Twù&ˆ÷M*Ô~ÔC…0‰œîC:oÜEáşd0ÎÆ9ÆS.ÇxYM L=dèÉ6:A¡¾†ˆ*‡ÕAêéÓovÍ";?&':“w«m¸è&£m £RÀ=Íp…óş:[“5È¿Mçh³®2qmh©inG°O –I LÄ`k'î-k¯b¥6B²v\¤fLí¤vhò¡NÈF¹œÑ÷•ÇûÄ¯«-njÜU¡R¿šñJÅ´ïúÙ[oıì¶Gó…Ó{Õ-õâÿ¬şUQß’xxëÖÃQÌ¯´ ş™_‰@S]^"25Q›·Øè½ÓÚf\¶.pM¤1LèìHBC"ÁÑ€"g®æ|çùr9£ãøw‚œàÇE ü`0sÖŞÉ'f9G<¤„+Ô-…&ys;Vnß¾¬Ïz8ë“–áïúê¥Ô.õ"ÎÅY“áG{ô¹ç}ì(·°="Jı‹úÕ”éêWúTı#sT3ñÎ`­
-ºtªä"¢—¯`ãGl<ødB‚ÁÁ‹:˜¸u°¸šğ-L…4õy˜|Òà C:“mÈĞB—}*‡Eâ/¤ã„Yä : ê@g@88‡î&/v}t«]ÉÂé‚«KšJ€÷_<^Íxó°Ñ®H_àp´Ø< Í¾.xMôã‰¾Æˆ~Îˆ@‹<9¸sKh -(\¸ÜqÁªÕ4›ew)`¬½³yšmE$³|^ÇÌ6<,ò//OĞnõÚ;×®İµSİ¹lºşûÔuK|\ıúë¯Õ¯wŒ[·|ÙúõË–¯ã^İÒÜ¼åá¦æ-ÊÁ%Ï¼óÎ3K*a¯µœùüó3-¯áâúeËêáğäö|3ĞäËô&\â‡›_›¼“oC«¼CÚ¬ë¼×DêC½‚QXX ‰©à‰PŸªõhw‡ßËş/¼øbĞËÁ!º½öcö/ìôfÓq»—;±DÉš®„EaaÀ…³¶N mvpÎÔkØúÌ#lêÓê'Y[ñH·F…€®@¾b/¸[şô)öfÁm»z{0·É£O”¦K 8¯ğá¬æè2‹Ëù]ŞYYÃW²B.’D£Çe-ÈSqéäIêùpU«#ĞÜƒõ×£H—dºmür´¦.ö 2ÂÒó4J{i€X6r’æ# ªëŒ''9ƒfgMtõã¶à­óôÄaAĞVQHx#ìŸĞaEğá Õ’´´Â=cá¿ì™}Ğ¹´sâAX8{í
-/]U\R×©ëãwwáw)gp‘p–<ææƒ	Ò!q+$ğ(œ²¡#©»	>‰~Î…sU%í¾´×ÛypÏqõ·"HÃˆ°pG[!·
-"Çá4Q€”Sàwã't"ğu”C}wc­`ï5SôÙ˜¼H.Vv©	‡ñ\&ƒõ`p@/	èe™«D°^äå /9š¼VZ[}ÖDƒüMz—ƒ±)ĞŸù¢(¯HYŒÔ{±h	éâfytöÇò†‹S/_´€G4ı=¼P¿H^¤hµ,¯p0¸Q¸oü§i™’&K¸ùøñW1tÚ´”äåsr)ñÒ¬öÆM›š-‰¢ªâu[Ê–šqKaUÆèc)C_Şµª  aŸsÄ@-ÿS·êî’…Z]I¾F¢ßãç {²,“-û÷qî‹Ø3dôÄäÁş(Æ.úcüûÇdÚû÷‹ÉŒ»u¢õÜP9p¥#^cvG™|ªƒ>úòÔkÖW/&AØÒ‘V`µVÆñòdRÏ£‰×_ÑN„Kó†zKvHvBö¨lœ|/ƒ©ÅF¹'ƒ’µ’LtTå6-òæéìÑG¤Î*Z›"'Æû€³Âôíê÷,¾í¢…-\èˆ‡gíûÍoŸœµuxËƒ;G¹*ÔÓTôÈÓus+±ã‘¥ßTL»W=óĞµ}É’¦•?YŠó?…ïZ<!G}Yıœóky|ÇkvîPÇMÌüæ7®NÈZŞ¥xğô]Çr—¯Nu•«?i»úÇÙs§ÜV]<kù½÷âÌçãñ÷66ïo›ùébõõ‘òßJ×íX"£—]©È0=š‹b›Lddã g‘u Šô¡ŞFd‰¾€,F×JsVYÑP/È)wh5Ãó§.Ø{ºOÒ—p¤éıAÅHilá,:‹dASÑ<TƒÖ ½KœHô¼7öã
-ğT.×8Wpğ<îRËÏ×-šñJn‰ñ!n3ÙÈûhIePÎS/r‘êâO¸”_¯ìºsåiÁÜåGö_íÕ¥,~½	±ôĞ.Á,Røî‡Ze}«})n•b3Hœ—_ˆ€ÌŞ‚_`¼ÚùPê„¨	Ñ|“%İ¬‚•’xĞTÀ\NS•î‹ÈĞŞ,¯Çcä‘ÇÕc¸ÿ†uë6¨ÿìê’{Zwª—®u}Î½Ùõ~óê5+¸ruduíİ5»^|zÕcåøCoü”®DƒğCƒ]ş¦GÍûåV~íçÁümküu~&”è°úSİáH«®%²„p€ÍQÜyÉà!Ns÷·]şÙ²ëH½„­-û¬|ö—?U¦.ÂMxRÓ—ÂÌÓwÎP_W«Q_ŸqçÉqãğv’ÀÛÇ2>
-Ü|Œw9Q«8h•8«Œ?S
-Ôóv6‹;Ô˜±æ`‘c˜;öE†²s,Æë/ƒQ?T«i0ÎA¼Q­PsÕb!áÚ|ì‹ãqöÙ¥nR—¨?Q72ŸLå¸Æ7ĞÑÅVkEK¥Vşg²€õ:ÈOy#eÉ©ny%1Áè,÷to’]şÜë])Ü•Î‘4µÌØÛõñŞnøá _b]v7|şg8pY®‘EA[½A‡¿I¦uÕp¹]Ş¢PÇíí‚Ü²¤¹SJq)HÀ­$ U²?jÛïl5¯“Ös(Ğ6Oöõ3X!¹¾Ğy¾³£[¦ê)æÒ"YÍ \[Š¼Ooùò¯¨‡9{ƒúi›ú˜Ú€Wãb]uMçjõ¢ú%öÂö»vŸÆëvu5NšŒ7ã¹¸
-o—ñ›;‹Ô_ªïª¿Vé¡]ÎxçrH­ÜÏx´Tpa¨{XÛÉ2ˆçá"ñ`.ã,LmÉÚâÄ›oq¿ë­®0 ¿k+Wzµ?å²6^ÏêñÏ¢§8
-·¬l•…Í´Yí»L‰‚VØj¶"…PŞUÈDñõj9ƒc@i./‡t­Â´Ô(HbŠÅ>0Ï³‰
-å!…mr™rME¦ÓvƒmİsÂ7ß:ññÄQMU0Ğzõ/—÷n|¹›'³Y½à+WŒdƒŒEg!äÛ<3M‚äƒ §ô"$¢D‘0hZÂ¦s#h­©gQÀãi
-sP"Ô>èà0Ïé%o.Fˆ‘†pƒ…ÒX.C-Mæfqó¸ùÂrn¥Ğ"mà–>ãœà#½@ütxf/‰ú‹ıtƒùÁÂ`q.Ñ˜J\|ºà]:—q&)‚Ä,İ|¡Æ¸š¬[t-Æ-äñİaòsİ«äUİoÈ{ºÏÉüçÂÅ¯Éá1núİhúİÀJ},“ê6Ìwõo]ÉT¶«¸ù]ã:?æ~Õuê¶Ê'²F#3H†!Ö¬´õ’D—>Q—«[B–ğ¼¦4`ˆoq¿é¼X~z¯CFô×@bÓI:Î†9‰§—õ¤d}š¬ãˆ— 	²È”ï&j;Ô[S¾Óùt¯jwwòHgFkÌ”ó„† =';9‡ÎKâ¢tŠ.JVäºAr%w·X·P^Â-Ó-“×rŞ<6/@Âq‰–bôñR êË¤ÙúyÒBğƒ÷“Vü0q°¹0ÖcÃ)÷ğ |/nÄ^U«ÂéN‰\¹Ú_éD<ºúa·%3¿³Ğ¬³Ñ:›òŒ4 HD¬ãùÁ:·êÔJ©	le²G»˜V…P—äJÌÕãÆê*¹rİN'b½èÄşbÎ§à©b®Š+ğ}b+Ş"n7XÖà¢mLàØÊmìP/uÍl¯…ğ^íÏx-ü?[»îUÃkµ£V­†çgI&~N«/C¯Wº¨dV½‹ÖÜûK¢Ï©]˜œ;‡±zı†¨+Õ×ÔWiUÈRÛÕOÔOÕv<ûã <n‡z»ºÎvğ˜ÃÙ‹øûY,òBÃ\¾‡h8²[e‰ãi4e£áÈ¡y-M-XÏe°8Cœ£œw:Ÿr
-,.uÇo"w` ^¯Ş¿eËıêPüÆ5Šá5õ-!¡ëW67=¸ëã³ïÔµ›òB½âæEÊsõ³Y96šŒfl2Ó,ÁFÆ_`)Ø`l×/€±(Ø#Aê!¬ŒQ)½(8X%¯ë¼´¥‰r}8
-Ë—ß·jüÃÃ)?ßı6¯şJ}ÿ+˜³ìÄÅ”‰Œ©ê¸¼ôBèi× Èóˆ,Úè„Ç4‘GNÂ;[õVÓR/ˆÄ9’·YıüxÛ(‡häƒ£;(§mZìAÙmgûz§­¹‚Y*¸ÈHÀ$:Ş‰œØÁy>EâH.ŠD‹Qº()J¯Æƒ¹œÁU|ƒ0ßk¥¸R÷ø.d:+õùxÑÕÕşl‘\¡iX·XÉı©‹G8ó‹ñ«œ{¿Qçò®Uêƒ­­rÇ¼×şD­Àgv­N¿÷Ûûr9]›—/_Am’Ö«ùF£Ÿ¸F˜ŒœÙÀ‡KzN's!!Ái²!8„wbä|Ô±Á·ÕÆ·¢‘œÅË† 
-ğ3Ğù9Âb¬ç:@àçéŒE‹G—İŸ¯u»¨Şëlta’£é‡Cbbsb‰–Ë±BAÈMŠšÚn	Z=áÇÕ½}çÎgæïZôÑoÔ÷ÕÏfµdñ…ÚŸkŞ²ø£·°Ï_+'ìxuÈà%óJÊBüúŸ9|æ‰	ï¤g¬üIÕ=!¾^|òµóQ4Æ^»¢ûth¼Ë,jÎÜéK¬§Îwgv””ˆ'i}Ibõ%	Iú’Ò‡ +¸UïÒ×è·ëõÓ‰{åCä¿êºx¼ë"$HWOÓêFÁ§ÄÂx6äryKœÍ€„Vó=Zj—å¡QSí=a-i&ÉeÂD6Ä«Åk»¡aE›Â#Ó,åàñı¯¼¼ÿ¸úÂ'êà|.<y‰¬î¼C=§¾‡ûáŠƒgn$¢g]Ñ<óÄÆ-Òº÷Ğ†1J#<~
-Ñ	 #ôÌÀ	GœÉ•¨ÏD¤Ë¦‘{Ér¢‘“xêœ?ï/ôCQ8Š‹åc…HQ‘†¢dœÌàGCÄq(§s™|¦0V,Db9WÉW
-‹Ğ<˜-ä
-âé!´IŒ€ÉæCÜø®×Nâ3øw¿îz|·ÿ$NAH·‹ÆV¼Ø•)ø‹ÄSŞ_ÖÙ sş˜î¦iÈ{Ü!×­mÓdHqDˆCÉhõ’¶oÄ C&ë)÷®‘II7¶İçî) b±÷/"'
-œy•l—c„ˆº#¹‘Â@9QÎâ&
-i²K.äfsw	³ä"y1×Èİ#4
-Kä\«¤Cz2 ^èfP¬ãA÷tz¤çeÙˆÌşÄÉ;%?£Õ¬ğ¡‚"*:E
-×GÈ‘Å¬˜GpÃÈ >YH”ëS£Œ‰æ”Çs,gÒ à¦I.É¥#O4ºÌ.óTb¼1×\ÎÍ"ÅüL¡H,ÒI¥úR¹Ô0ä°˜[@æóõÂBq¡n¾T#-06ÍM\3YÉ¯Vèï3´˜7ñÛÍO™o§–ŠˆJ)\ÃÇ¼n:åcúç„ºJßı²
-³óéùõê%mı³;//w‰&^D²TïÌq-A27,“e T‰¤åNu9Xšª·tY®
-‚³ÒY/tÿçrÀ+’ô¼	z^ÄœLDl…n4)’xé\‡Î¨
-‡Î¨w¨…¿ãœî­GÉW¸Å]+Hõà3>c±xƒ+ÆcN 'Â|¨"Ii4™9ïÀ›èôÌ›Ø¿ß„LÕe„À9¸A\"—’Ëà\œKpI·q·	·IeÜO¹õœÕû“9
-Ç’!x(qÉ0g%H¼]¦"„qüoÃŸéºt¨ØÂ•wşf¯k9ìÀç–ƒ­u°üS¢E÷4	< i@åpD™VÙh}IfË¢¶4wŞÖ=İí[…w¹@Ïu¾ºXH/µ”lœ¤ˆABoâ/Y	†A$EeKÆK9†É¤P*'•Rµa>Y 5¶¼İÅyº@‡CëøÖÎ\òúµ[ÉÎYÂé-×ª÷ná×u¯÷Oà·‡»,üñ ·=SW2Iİ•A6/ê½©€yÔÎ·“ØºòeV¥õÜĞx÷¥K*Àkù¦³…Áï³>øàş;kÁ¼à½l1˜®‹ë)¬×Ù^Šk¢ËJöàƒÅæE÷Ö8‹¶‹îz`»¯ØÖ8† †©0L
-qÕêÔ¯¾W~ß"ò-´^Kvg™÷uÉàªÑRÁ óçŞfX½:æVjrŒyS§{“wÄ«Õn ÕãjïP÷–Ÿ£=à÷y+­%@Öˆı¼ãÚoÕ}--š¾ìå/q«Ärh{‹K¡gx2óÖsîî*¤™•yVväá£•)¸ûoVŠåê}xÉö™ò‹Á'F¢c®h¿ƒŞŒöøˆGÌ6¥)ähà‘ğvÛ#ò!¾&½d!’#=
-˜òö)ğ¿šşA6Ùy™î¢u_M¼\U‰A‰Á‰!‰JbhbØ¨hW+ØâR\¡®°Ü ÜàÜ\%747,7º&zEPspsH³Òº"lmt[ô¥è`OWO'O‡¢à¢"¥(´&¸&¤F©	]¼$d‰²$Ô·÷ZÙ­xª»Ú§´Ì½ğÁ¾¥Õ›´·:¶rßñ®k˜{bSÑáü²¦ıß%.¹|ñÌº3‡b³º–î-/~é±ç_´7®ßİIóUºÏuèòÕ¡.?rÄhÑñu®±´lòCvûX_£(ùg°œ4é2«-œ§+Q¯]L<\¼$¸-˜ õ@³Å<H¬éNTjä“'|ğ	zt=0ìéÅo£ë×ß^üô°#G¸„ãŸ}v.¯´X=¦^Ï±âÒİ€¦ûêÈg C?4Ê€šğJŞÜdZ)±ñG|ÚiáÎnBãéşÖÎóÂ•–äÿz‘NK¬KÖ´¸WÒ—ì.à…¹xä³ìGrŸyíµgrÉ¸szd1°8ù1~Ğ¾şı?>qâãşı÷FD AflÇÃÂÙ\‰îEZ5~ùAfÇAZcnÇ› İF7Öf7¤1KJêæWG~Ñ2'Çf&Ş½ëåä±ööaOßsü:º~ü§»^ÎíŞÜ#‡¹ß\Ø]ZŒÇ`	>cŠU§›n¼_€j\ÿë›¤•‚sñs¾GìíÆ5NNrJhg·¤2;Ü›/_Ğo/këp±£‚j‚Ú‚Ş	º$ŒB£ğ(n”sT€§Kôqr5ªÆÕ\µ³:@?ınÊâP–D÷”GAtŒí:¾±ó ñÄ³³_ŸYòÎ]êeõuÛùÖµs;Wn9bæfL{áõ÷÷‹ÃC±Œ½ğhõıM‡öo£~!~xí…
-]‚¥="nF›Ìâ1™óÒ!^LC–ƒú9™:eƒæ”Íìšm9îèÑÑa×¶'Ñu¶$;Kt]Î\g›“N	 É ¬%Õáƒ’©yqW”LÄ	ê»GØÿ¼èØœ[QÒÒ™@ŞmÉ~îIÊkµ€Ÿ¼6 ÈìÃıŒAz{“—÷9Ş}LÄò¼P”’ŒcE»]Ieë·š:tœ×B=ÍV^@+ú-é×Öï+ò±r=s“[±[UìÚ
-ylgë†;7´îlWÕ«Åûn»m[ŞÏ¥¼ç—¿¼ç`J;wëçÎ½ñú¹sR?R¿
-~&®ßó¿¸½d&¤Htµ{ØÌ’½l;ä¥Œ¿Áòõˆ˜±Øl¶µ7Érlê3Ø´ŸşºM÷%,r²:t¸MCÙF7p3_Ä—¶ßsOë¾#GÒixé5nG×Ü¶íÛ^ØÑÕ,:º¶••~Emè%|!ŒK×ûÃÌèşitŒ°Ä£ŒîµÕó´À`íŞ»-°Z[j}©şñE×ÚDÇ ïúYµ€Á3 ã
-4p:d~Á¨kGÇŒO[%« æ˜°dDVı<Ûï^CgB€l.[®­ÈVcÓrxê™Ú€ÿ<ã–Ê,6êš÷^ÜZ¼YŒùyx¸Æ–!ÒÄ~w]óÚä)lJ(£oaóüw6­l•çN“%o.š‹úKdĞR7_XÆ­Ös…MÒãœV39‘u1$š§µÌş:—±‚W‘Aß/¶è¶Mº½ä	á°îUİ{º¯É%ò5‰÷§UJZ¤¤™*Èôè.òO]û¹».u½~DttVâ».wíãÂ»Şz{dö,ÚÄQjº÷»¹LVÁ³—ò’ ja‰o.¸y¥»	CÓ\Q¢]ïkAbÎilRH{À1?«Ù,’$æÚ$Kn /„pV
-éì¼ ­ºqş2+HR%ty%FäFÔD¬hƒÏ/">ˆ¸¡­Ô–[{ëf’:5%MqÙS/©mhÙu¤vşı»u`á¢'Éª{æıõ#ª²n¥*Ëm{ìá_<ŞÕÌíŸ5óÔ-ïR Áîk3Çnn3ç=6s¨Èù+'w£Õ8ÿÕÀĞÔh4ÿŞÀ|ø/ñˆ1¶Óz¡İr±;ÓoØóç
-å·-uR£¾Qn4,66šÍ–Fk£m±½Íï’Ÿ­ïnœ>[ë6ì{²uı¾}ë/a»zñÒŸÕ¯°|ğÙ›o~öù¯±U}C½ ~	Î<|¶e±ñ(øÅ€##]ØØn^ƒŸ'Ç‚ .e²W6a=Ş]z->ş!˜ÇÓ#»™ãN%ú¤uGôdÜPO~±»k¿(ïí•Kà?y¤»»ı6ÃÏ“ë´[Ö<ïw,ˆe:c!çé½=ø½v~ßZàvrºÀ<1›«ë‰äÃÚÛ»3®ı½ÂxéŞoşæÑ-2ğ³A.ï`Òln×ÓÉ"Lı2ì4Œ0ßqûÔÛ4PÊõÚîEµÊóJùñ!™q[Ÿ N]áHÙmÇ_è:
-U^"l¼jÈ±^‡ñ¢ÑgîºÜ$wYnROYr¯U¼£É¹Ê—æ^‘í=u¹¼ É¬“aé1¯S}êrßşJ“1{ßºœ§,‡¢©c›(ñPÄâŒÃõÃåá†áFƒ‚ÁÅÈ1†~^	g?ï˜à˜X%64"ºIn24›LvJÇ‰²h Fb"fb!VâGüI 	äƒôÑ	±£bïŒmŒ]»6¶-öR¬/Ìşî¾± xÓ¯K÷ÈêìİÓV­š¹aTÇÎ¯;í•9å¯/[Sö¤ëÉ‡şğËòCü¨ı11ùù®ÌPs¿Í«¶aĞ ÂÛ&äFZ"Z—mÛçŞw6”î/Â6ğ)šÉBö >&5Ëà2X‚Õn¦¾‚%)Iîi¯¶bìSZŒ¥™‰Ã{8ÍS¢ÑÅ†çãÅêŠ	uÏ?ú±æfa›úrKWÛªì-ÛÍµà‘š®³ïæ1?å€Yl`§Z#ãcv#ø)‡!<V†“*{Š¦Wç“ºİUµóEê®¼l½*î)ŞOİÕÏÚÛG?İğÒøWø(·««xûövp‹¯µí+/¹Dv»ë-“Á<òš+úÆZ†ˆDZËi-ã´LÈaG:ºkXî5¿väÓ=¼İóë¿S(Ä®Æq³9Zçjâ–pë¸œDÒ=«‰û>
-ÑâF,¯HƒĞ <Œã%Z»Ê$™|†0NtI¨ ’B>W*Gå¸’Tò³„
-±Hj@õx1YÌ7‹Äh^EVAdm7¢x·…<Ä?$lwOˆ¤¥¤ëÒHO­
-‡ßú
-g¼¢Şq•/êÌ'û®µ1) ñŸ\™Âd­8YÖ“É´8ùÕq“z"åâ„6º_ÇŞ½sÇ 1’rk_Î2¹·öxøû—!±ëºÀysŞB˜<HÎä2…Ù%ßÎİ.L–så*®J(—‚4
-B3·™{HØ ã	¿ä^'¿‚NODŞ È’A'£“ó#Ş¼¿ è§‘®^„sÑ$”ÂÄ0]¤­CáÆ2˜,¥Ğº#7dğ.>M[«•ÆèÇÈc´æHåXÀåò·	yb.Wš¤Ï—'JP).ãf“2~¶0[œ­«Òf«Í¨/äî%ø{A¾â"]£n´Pß¨_,Ï3Ükl¦«ÇæMhŞÀ­'[ù‡ºj²Yr%l4n7ïB»ğny’RØ#îÑ=)í0>eş9÷4yNh×ÿÂÜÁ½BŞæß2Àô?nÀáíŸ~ræÓOÚÕ³gşü—3 Élz\k#;gƒ;Z:bÀ£]]Îäm„×Ñ“Àcb·AKÙ¦—1=dP½&MÖñ˜—ÀÆ8÷˜„Ñ£ –î­]6­ç±º‚\‡Íç†øUâÛVøÌó²?ï”£ä[ù[äÉüİT¹\‡ñótõòıü2y3¿ß¤{P^+ïÂ{ø§øºÇå69P&¼ 6`ğ'NÁ©÷7Ä’(!RßÏ ˜†á2D¨£õæDS&ÉÒõã.S!µV®L
-ÄB]T /4äšªMp£éa¼A÷$Ş¡;`ú•éÓuSİîÄ…³ê˜%_ªŞ…÷QªGÏàgÔÚ38ÇòE]t½„ÛÕqÜxÎ[½·0_¹õe¼Ú5Z'qz²P6#d1Û,Èb²MˆÌ&ú-^˜mšÉ ·"ƒĞL7ÑïŠÊz°VÉÂ[V $ÆvC/¶´úŒëîµ[Ÿ…¿¬QøÒ'‰òü’ˆIÔ“·ìc²šÂMƒL™rœmš¦Ÿ&Ï–›MKLëMv`i³Áâƒœ•·
->²Ãà0ú›ı-Ñ("¯Â+B¬£”#ÆhS?s?‹bŞr—È'
-CåÁ†ÁÆ¡¦sŠ%Ñ–Š\ØÅ¹ˆ‹w¹-0MŸ.5eš3-.[>ºßÆM&¹|.Èg2ÈgŠ~
-Xádc¡¹Ğ’k+Çå\…\i®´ÙKÌ,«Ğ}ú†ÆU¦UæU–ÍúVC«q‹y‹e‡a‡ñIó“–¶_Ù>°]·•,3Ö¦i£0[àÖgo¸gıœ¬üäPu¸æp+ŞX´e\S>Ÿİ¹ÌÑâòTÈ³Î‚,õè—¿¤ísI“ö cd Œx¬•§ÚöG5¸¿ëÅ¬¤#©ã;KÕiÔ'Fqc¹L`,_ õ—Ã`’"%(¿Ò¿FKSH¡t§¡qå¤ˆ/fJ†%†§}ŠÕw“Ù]YÜ¡Î{¹C]e|ÑîÎ³ëw“H #õ ïó±4ß5ĞÏâ4ˆ‘z«3È (¡öèÑü¢Ş¹ÇëéH£^"¼ıP,xq¤ø–-B$UDVĞÖ¾œëNE´®)î½¡:è¤ò{J÷.Ø”D|Bétf&·bÏ—BàjğpwU…íá¢¹2ï3ò›=s¸õÖ–»ö|3rÌı·WUO+¸ÿ…µŞÿjS}K]ë¥÷×·L½ÿÊ#ø<°õÊıS)m¼„÷‹Aìw0zš}“Oûİúrº-dÿ^1èŠû7Lzó¢Ù58$2ÀÛh‘N?/(ùí	@{Â_°ì±=èçï´`HÁüávù‡8Gƒ©ò‘İé¯‰›U’x3IÀ7SnÊí£<¼q3dH<îæ7eH‡úŞk&O«®6yMÆ¨o˜óÀÈ‘Ìyâ›Q/´\Ùú@€ß\y`JËú÷/µÖµÔoúêılO5>)œ%·  î²bk€yñ[¼¶ƒ‘%ØJ·ÖYOuº`}Q“+{FGÑOwáØÇ›~ Cálå3ÅUåáS÷Í¤wëeA2?<£`¹å`Î˜á<G„‘'ÌIÁ.³hù!ƒÄŠVVÇy®pÿ’G'$\Š„R^²ëÔDE×ÒæìL¬„ã:wïT„}ÙÙGkÆ*ımîiF×2ün
-Ãe£&T$‰5¸†«jDi:Nv†ÓÙÜŒãÇÕ…Ç‹Ö·Şz‹êI‘äyÖ¸îõ†S?d½}oõëêÑÍb¹º’åÚ¿Ì×c…3Œ;]&ıRäºÙpJû1‚Sn6˜µ¬ìæl0{Øğ°}' ¶oşM:İ„3¸›5ª›5Â™ãÇµïa=3ÚK¶}§eÄ_QˆfZ¸únŠçüõ{YæB=ıZ7¤î_‚~º¹jBfõë÷®Şf.tÿòPÏ¿»ø¨œ[ÎòŸ »;ÚÏ†óĞİbıMT*Èè(¼G¢Ù^¡m‚Ú«ÛmnEK¹dô*	AàØío…÷g ı6îcTJár‚öÍp|ÇF8¶ÂQ
-…ÓÇn8VÃ±Ú^‚c…á9øQh=PÛ,,DVá^ô¦°Õ‰±p6£7ù-èM1îyô&w=®oFÁóxş´é„3¥ã¤vZà™5ó_¿*œE)LİhŒ°İ
-Ï:á|¥…âç×Ùøèú k/åô=Ê—ŸènÊ#î]”@¯oG¹ô—rı,ÿ˜v­;ÒçŒ¯Ğ¶#ãá¾?ª&áhãõ1à×jT çáôšOFSŒ¸ƒ˜§gm|ôá:„:ò
-CCQ6*GËĞh:†sá³·sÜ;¤”ˆ™¿*D	õÂ6á¨ğpæáYâOu¼nî=i°ô˜ô¹>OLNæa:0SŞfoÇÛŒLq¦;LM¦ß™%sœ¹Ô|ÅâoyÈrÁšd­µşÖ6Óö{»·}ªı¯]^WÓGtZÃœw8k[¼½ïñ~ÃÇáóŸ·|ã}gû>èûß8¿r¿7üyÿÿ]şˆø}``àŒÀKÁ\pGÈ^ÅªüDÙjÍİúë°¡L+ï"ù¨?ª@F¶“3¼“ó†3ıİ%˜@{t÷!œä¾Æ{ì¾æ 9øÆ}zj×<\s_ÈÈ¹¯E$sËİ×²Ìµk
-"È}m²?3Í}mF‡Ït_CLş”ûÚ†øá¯Âˆ˜×C·D6:½ÆÈw_sHÂ_¹¯	<Wİ×<òæÂÜ×òå2Ü×"rpsİ×
-ãp_Ğ0®Ã}mŠF‚İ×fT1ìŠûÚŠ¼‡or_Û4ü94U£´Õ¢J48\ƒJP,œ“P"|’áj&´PP´©GupÔ¢2TŒæ¢8xš‰ª }<\¥¢9ğQP^7¬:vWç2è3ş–BKùŒ:¸{Ô|iŒEAª
-ZS<Š¡Ï?6â¸šı
-P´(¶ÅZëQÌ(R Jü­63n%´S 5Œ^ÌŞÁÔatuÍÂÚÊYõJLI¬’”˜˜¬Ì\¨¤UÖ×Õ×–ÏS2«Jâ•Ô9s”<ÚªNÉ+«+«WV/«ë`Ú5¿xŞÜÙÕU³”´âŠïè8¦lvqAƒRRQ\5«¬N)®-S*«”š†™s*K”Òê¹Å•U€Y_'1Á5¸;O*®‚›4 ¦İÕÕwı°.?¤Mãvğ¨šq0	xLkieµu•ÕUJR|ò¾ n t³±Ê4M¦õnóŒ[^],ª#&÷zÚ0” ŸR7Œy #úVÃ¹$YÆàÕ2™ÇÜ2èƒ*êëk†%$”ĞyñuÕµ%eåÕµ³Êâ«ÊàuF/<:âÑÓo[}Gõ®ŒénhP5šm©¦şkôBoB›
-Ö³ŞÕ0ºê™®S®Õ²Ô:(Ôy7pòF:zì«¡}}5tßÚÍh×t ®zsíÛ–.£ÿÄGşAŞã_ï³n.ïš+áÌ®êÙª…s¯ï‚gÕ ¿‡¥,—Á›Ë õXS%Ã©‚½+sÓ5‹Rå–zœ[îš´´Ñ4Óô=áUÍ¤_Åú×¸-V¡ Ö»u¬Ò­Å†ÆiÙ³aq£>•°vT5è´µ†»¦ËeÌà5İë¥%aLr´o);×1¼J O±›>™YA	hè\¥½ñğ§®æ¸-)¦Ç¨×¢ø×ƒşjÚOGìá	}RÃ¬¦F(a½=Ø”2
-ê™®Í„·õì­6†ü=#Ä¹­¹0k`P4Ìg:PÁ¼R½›3sÙ³Şyh¨í£•¶Œ‡q½¤C¯ç2yj²–{y:è÷tÄuÓ™À<ˆÂ kö Á®tsµ¯ô¿Ÿjç4lkº5ºáÕ£u=Ígü˜ûƒFğXC9óêUn
-ËzXÊşÒ1âØ™rb6´(ağ´6ùQ=ãöl	•°±KÆ•nL‡1ëÌwcGŸ´šy†ôöE=ø¶'¨‚öõnk¨ëÓÖc+=ëíz÷SÍÅs™ùæ¾º¦qC‹%Åß#Ïj·ìç²sÿø!²¨g‘ˆFÖb7Eñ}8õ}})Oºc‹6:åy9Ã±Ô­Is˜Öv?Ñ0¥<-í%óŞZç‰ Å,"V2Ÿ1‡İÉİ•2L©¼ªzqcVŸ¸ªäñ¡ÅL{4İõŒq#êş.M,e7=VÌdôÃ1è;Îü¸nqnyÏaı*¿Ã›ËİÒ©e~¶˜ù•¸'uİé±—£G™ÛÏ•1*<#ÍgT•²şa7‰‡aİtßØC†whÖKË4›Éº!¾Ìdö^İ×·xôd¼­¼	ÇÊĞÆç*·%×ÀG‹^ÅÌ£–u÷è-wgÏù¦–RÁ<¼ÂÎunË˜&}—x|İÍ|w)‹ULî½ùu3®Ê½8×[†?ÖVë˜×ôÄêkóXÍætçµî}!Ö0¾şÎrKL‹‡T«än¯úïôTßMÕL·Ô»ãay7§Æ¡t6NÊ†;:NÜå£)Gæ±w™ğL<.ŞÀıì1L.©ì}Æ¬q
-\Sˆ9h2ƒ¥ÁÈƒ¿v!<¡°vOï&@ûl€Eû¦£©lŒt€6	0Ëk
-{"<Í‚sº»í1L†{z=Ñ,Tşw>³Úâ¢ašÏ{Fí‹U&ÑƒÙD¸ËøãÜoéï~g2xÿ8–Ñël7çòtÊ#
-™Âe±;út2œs¡İ$ÆÏTF³†m6£!Şk´¤34Ihf¿/^ÈZĞ_Ïg\ #å»[Æ19RzÆ°ştÔ	¬•†Y[ÊôºJ¼›—”ÿİ#ObôgÁGaôç³ß6§²Iø¸İË P¼eÆÉŒ¾TÆ‡6BkG¹Hù™Õ­qy½¤2šñ‹Êb>†”Ê82é¦”x õ–ÎÍ´Cîa,£/q*‹µ|L‡ö™İO4}Ìd´vóZƒ©é½¦Y½¸;šÑH%{ŒšîÖ©TÆ»¾TP9Maø÷P¡I Õıwt/õH?Û-]>ùläü›pe
-³ÅtÖ*•ÉzR·d0ûèÆ|r·†õø€ÉnıÌéÆ¬/=väi÷C|‡Ë3v_	aú”åÆpR77´ò÷ÀÕ|W:Äµ6Ï©ïöÛ}#wï¬±'íwÆõòµ½3ÍemçŞĞ®ç©6[ÒbVÏ\§wîv³¶gv¬åò¬·'ûĞ|·6'êõ–²ü\Ëëº³’j–Vwg&óÙÛ˜^ã®T÷™çÑ‘‹YìëË‹z`iye1Ëèhu7áæwG(ù[3ÃïµQæ³ëzwfBékp·¥Ïİ0öÔ¾-å¦2ğĞr³Ì¡7ÿk™¼kÜs©JÆašOÆ»áÖ"Ï¼¬‡'”ZİmîRïÑ>
-mº±ª@y0«æ¥Œ×2ÒjxtL™ù+Oë¿_uúW×¬ÿ—êArŸzĞ™×¿¯$ß´¤ü‡ëAòªõÍäKzáÔSëğ´üaÔ›UXäÿZ]IùV]IşÿëJ½êJ=†ÿoÖ•ä>ö¿WW’o2[û_¨+É7­+õPôŸ©+ÉßS/øÏÔ•dôÖ•zVş•u¥{ë[Wú®èûİÕ%m~®eÿkÕ%õ­.İ¼ºñŸ©.ÉßÃ]¥ÿ·«L2Ó±og3ÿù*“ü?\e’o¨2õÌuÿ“U&ùïV™”ÿX•IşªLÊ¿­Ê$3 Ôñ[Û©ğş?W;’o*óÿVíHşVíHù¯Õäï¬õÔ€şıµ#ù¨}ÜoíÈãY¿;¢|»â#ÿˆŠOï*Í¿²â#ÿSŸoÏÙ~\ÅGîUñù¾ºÃ¿¢BSÿ-ø.ÔSiÙ8ô.¡¶A‹nU£›İº÷Ç)1ueeÊÌ²9Õócã•°±-^;gaMER9·¦º¶¾¬T)¯­«¤Ö–ÍsoóŒÁ6Ò5héz#Ë=£”Õ+jİ»ñäßûOşö¾½¼åO¹aäÊ:¹X©¯-.-›[\{—R]~#YÎ-«[YÇ6ÍUÖ)eµe0Ö¬Úâ* =h² p¬vVYœR_­W-TjÊjë CõÌzàX%° X)¤ehY_QæáSIIõÜhNÔW tàrYUp/Œ±$,€•*ÅuuÕ%•Å0\Z]Ò0·¬ª¾¸âS^9„C!²Ê¤êòúùÀş°X†ImYMmuiCISZ	„UÎl¨/£8È}:Ä˜Kæ4”RLæWÖWT7Ô2s+İÑj5VØ†:hOÉ‰Sæ–Qªe¦ uq½Æˆ£c&T×*ue h]	¨ºÉ¿ahŠ€­¡Œ®—5Ö±æW€b}«CyCmXÆ:–V+uÕqJ]ÃÌÙe%õô	¥¯¼z(%¨¤ºª´’ÒQ7L–ó\ñÌêyeŒM‹İJPU]b¨ÓR©Ôôh€öN©«(3GYææ VRÜ‡Îê*Ğ‹ZenumÙMÉVêÖ”•Ã@ñR}ßÎ-^ÖİK+Ë+©¢Ï©Õƒ Z\ZÊ(×XG´¸ğj˜S\+ÓJËê*gU14fi¶
-¨†— :ÚÃƒOİ#Q2ÀV<çæ Ü}<xô@ôªæ,T*{©¹LÉ©-£ÿKgÖ–^ÔQFR¹xÌ£t®¬–uš_][Z§„uÛaÛóB£fÆX’ÉrÛËÌ2°$
-µd@y2¯º²±²õ`1JqM˜WñÌ9eô…F;@¦rP*Šë•Šâ:€XVÕ‡'Tëz´»Ti¨*u#ÜƒªÌÓ(ü>©ÖUÏ¡VÍÄF…T¬Ì¡ŞlÅÓ°¦¸ä®âY@ØaUµLUõSª>CÃËæ”S¤Æ¥+9ÙùÊ¤œŒü)©yéJæ$%7/§ sLú%,uÜ‡Å)S2óÇåLÎW E^jv~¡’“¡¤f*2³ÇÄ)éSsóÒ'M’sò”Ì‰¹Y™éğ,3{tÖä1™Ùc•4è—“¯deNÌÌ ù9¬«Tfú$
-lbzŞèqp›š–™•™_'gdægL@.OIUrSóò3GOÎJÍSr'çåæLJc lvfvFŒ’>1ˆ @£sró2ÇËƒNùğ0NÎÏK“>15oBœÀr€ä<…5‰,†’^@;O—š•¥¤eæOÊÏKOHÛRîŒÍÎ™˜.gäLÎ“šŸ™“­¤¥)©iYén@Êè¬ÔÌ‰qÊ˜Ô‰©c)9Ah3œvÈ´ÃØôìô¼Ô¬8eRnúèLz|ÌÌKÏZïYİÑ9Ù“Òo› gˆ8yÊ¸t6
-ÿf˜1ò³\
-'?'/¿•)™“Òã”Ô¼ÌIT"y9€.•gNÓ€ÉÀO*¼l7¾TFôÙ·µZÑŞnÇ¤§fÀIx ÷iÚ•¾ ¤¬¦ê¶Û¸5×ÈÜ¨æ;ã˜ÖjN Txl®öŒ]BXËbQGón=›†ã8Íõ2÷Ú‘Hs½¥óÊÀÖQWR]+WSg2¿²Y:„À¹ÕZÌSêŠçÀ`Ğ‹Zk¾²xt«ëF³AÉ`XS[	]æ×VÖƒ3QŠàimå"w®u‡)FÒC¥Ç9hø×–ÕÕ@”ªœW6ga<´­¥±ŒaRYU^];×M:c_Iı0OªP¯ÌbÀK«ëåêÚYñŠ,³ŒëŸN~èWş5y¬åAÊÉƒä<Hù‘yüí<ÈíäK¤:OÌ¸I‚Ú“°ÈÿL®¤xr%ù#W’59üÛr%Y3Ø*W’ÿ…¹’Ü“+)?2W’ûä?"W’¿+WR~x®$÷Ê•z›oŸt	â98‰Uº$»Ó%åŸJ—ä>è²yã¿:e’«ª•:e’ÿ¥)“ìN™”Ÿ2É7¦LÊI™ä›¦LÊ?’2Éù©ÇçP´SÇı¨ìHî¡üŸÉdOv¤ü3Ù‘Ü;;R~Tv$ß4;Rş™ìˆ*kCéN|äïL|” ñ‘¿?ñQ~@â#³Ä§oîğ÷šzO{Käx8Åÿ3ßL`u»»àH`µ³R¶ªÏÖWkàYßÕÂïÿ†aÂüÊ»**ÁY-ˆ¯©¨Ip{Ìõ]N¢}úúoÑ4t“íÜ×õk*¹ê ßD’+IäëäofòW•\VÉÿE’¿˜ÉŸ7’K‘ä«ûR…¯Trq#ùr#¹p•üé*ù£J¾F>O#Ÿ©äÓ$òÉùIÂ'Éyhx~ùø£áã«ä£ò¡Jş ’’ÈïäıäœJÎÚÉïî%g#¿UÉ{Ğü½{ÉéSc…Ó÷’ScÉÉ_'Uòë ò®JŞQÉ¯TòK•œØHŞ>,¼­’ãÁä­$ò¦J^[a^$¯z“•¼¢’—Uò’J^TÉ/Tò‚JWÉ1•<§’£6r¤)R8¢’ögŸÚUòìáéÂ³Ï‘g—ğ‡)îºN»øŸG’C*yf#9¨’§Ur@%O©d)ù™™ì{2RØWJÜkŒ${íd ½ç*Ù­’'T²K%;íd‡JÌ,<D3“GKI4iÛH¶«dÛ#Fa›J1’­û	[KÉÃ[¬ÂÃ~d‹•l–ÉC*Ù´Ñ$lRÉFi…N­É†õfaCYo&^%ëÖ>'¬SÉÚ–éÂÚçÈÚ%|Ë‘BËtÒââˆ$÷«dÍêxaJVÇ“û€ÌûRÉª•a•ƒ¬4fxĞ\Jš€SM‘d…üT%Ë—Ù„å*Yf#KU²D%*q]ÿÉ½÷
-?QÉ½÷’{JÉâ|§°8’,RÉB•,0“ùF2O&*©¿Jê®’Ú«äî«¤F%Õ*©RÉœPr—JfÛÒ„Ù“H¥J*î%³à¦\%e*)UI‰Jfª¤x)ºJfÉt•Ü®’i*)œ*…WÉT™Lñö¦$‘•L†‘'§‘|'™„­Â$_’ç ·÷nSI®ä¨${¢UÈVÉD+ÉRÉx3A%ã3­Âx/’d2­dœ‰ŒUIÆF’¾‘ŒQÉhn€0ú*I{¤N .•ŒRÉÈ[íÂH¹u„E¸ÕNF7	#\×-d¸‰SIŠJ†qC¯’!ƒ­Â<È ¶’A20˜$›HÒ-!I%·Hb‚AH4‘‰ â­d€Ä%‘şı"…ş¥¤_¬]èIbí$&:RˆI%Ñ‘$*Ò DYH¤D¨$\%a
-t†Ú‰RJB®’` !¸”™H p0P%W‰ñƒ?•ø–à”Ïÿ«–n¢ Êò@P]6ñ`Æ&¨eÛğèÑ~¬nâTÀÕ8·ÿçıd&ù"û(_YÄ,.b20‰Ñ]Ç•ôä\8‰!ævÑtÌÅ!±½±^t3»Bc³ñ,x‹¨=×B¢áÊëîÿ ê×6uûd‰ûendstream
-endobj
-50 0 obj
-<<
-/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 4 /FontBBox [ -1020.508 -462.8906 1793.457 1232.422 ] /FontFile2 49 0 R 
-  /FontName /AAAAAA+DejaVuSans /ItalicAngle 0 /MissingWidth 600.0977 /StemV 87 /Type /FontDescriptor
->>
-endobj
-51 0 obj
-<<
-/BaseFont /AAAAAA+DejaVuSans /FirstChar 0 /FontDescriptor 50 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
-  /ToUnicode 48 0 R /Type /Font /Widths [ 600.0977 317.8711 611.8164 633.7891 612.793 615.2344 787.1094 500 629.8828 600.0977 
-  600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
-  600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
-  600.0977 600.0977 317.8711 400.8789 459.9609 837.8906 636.2305 950.1953 779.7852 274.9023 
-  390.1367 390.1367 500 837.8906 317.8711 360.8398 317.8711 336.9141 636.2305 636.2305 
-  636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 336.9141 336.9141 
-  837.8906 837.8906 837.8906 530.7617 1000 684.082 686.0352 698.2422 770.0195 631.8359 
-  575.1953 774.9023 751.9531 294.9219 294.9219 655.7617 557.1289 862.793 748.0469 787.1094 
-  603.0273 787.1094 694.8242 634.7656 610.8398 731.9336 684.082 988.7695 685.0586 610.8398 
-  685.0586 390.1367 336.9141 390.1367 837.8906 500 500 612.793 634.7656 549.8047 
-  634.7656 615.2344 352.0508 634.7656 633.7891 277.832 277.832 579.1016 277.832 974.1211 
-  633.7891 611.8164 634.7656 634.7656 411.1328 520.9961 392.0898 633.7891 591.7969 817.8711 
-  591.7969 591.7969 524.9023 636.2305 336.9141 636.2305 837.8906 600.0977 ]
->>
-endobj
-52 0 obj
-<<
-/Filter [ /FlateDecode ] /Length 693
->>
-stream
-xœ}ÕK‹A†á½¿¢—	!hõ¹Í€s…YäB&dïh91ŒmÓêbş}êëO&Eô¼Ú]ø@/Îôæáö¡Û›é×a¿zÌÇf³íÖC>ìOÃ*7OùyÛMRÛ¬·«ãùÛø¹Ú-ûÉ´~|=óî¡Ûì'óy3ıV.Ãkóîj|}¸Í¿–?NËîğñzÿ²~?™~ÖyØvÏÿ¹åñÔ÷/y—»c3›,Í:oÊŸ}ZöŸ—»ÜLÿ}îÏ]ß_ûÜ´ã÷Dôj¿Î‡~¹ÊÃ²{Î“ùl¶hæq¿˜änı×µÔ^ğÌÓfõs9œï•×¢t*İÎ’ Ûñ÷û´°­cß]¢­:ëUGÕU_V}UõuÕ7UßV}WõıŸN•?¥ªÛª¥j­ºò§ÊŸ*ªü©ò§ÊŸ*ªü©ò§ÊŸ*K;6ıe”¦¿ŒÒô·x.-ıe”¦¿ŒÒô·xF-ıe”¦¿ŒÒô·xv-ıe”¦¿ŒÒô·xî-ıe”¦¿ŒÒô—1™ı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğ+ı
-¿Ò¯ğ+ı
-¿Ò¯ğ+ı
-¿Ò¯ğ+ı
-¿Ò¯ğ+ı
-¿Ò¯ğ+ı
-¿Ò¯ğ+ı
-¿Ò¯ğ+ı
-¿Ò¯ğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿ÓïğıĞğıĞğıĞğıĞğıĞğıĞğıĞğıĞŞçM€]µ÷¶ˆV§a(;jÜãâÁÊÙvùm}öû§ğş¤µ¤endstream
-endobj
-53 0 obj
-<<
-/Filter [ /FlateDecode ] /Length 18415 /Length1 35520
->>
-stream
-xœíı\eú ¿ï¼3sfæÜsàpÀ#¢¢á%*(ŠHˆ×Ô@8
-â¢™šv¿šµ¦©Y^rÍÌ5R×ÌÔ¬¨í¢]6­53ó›V[dm?·Œ`ü=ï;çp1kÛ¶½üÿŸãÌ¼3ó¾ÏûÜŸç}f@„Bf´T0~BJÚ´É«€;À>©´º¤V	UN"„ûÃî,× ^ùL?	!.ö¢òÚÙÕWss¿Fˆß ı·Ï®ZPş°÷ûûàùĞû*¼%e½æäAh8…7 nX4¼‹Ğˆ¸îQQİp]ğ+iOÂõ U•¯´äÏy/Âó‘oÁó7ªK®«Ÿû"”Má«5%ÕŞº¸‡>ƒëC ?£ÖWßpñš†ĞMèóÚ:oí¢’MŸ"tsB†ÇæWrû‘ ø¤k`†hıLŞCå\P`”yã?E5ÿŒÚ/*=Šy¤š
-Ê³ËŠÔ‹Å-¯5Tã‹¾xñ"Ò0ÂìlB"VXk)»Ëyôë~$"’ŒdÈfdAVdCv„‚Qr '
-EaÈ…ÂQŠDQ(Å –±(Å£Èz¢Ô%¢Ş¨JB}Q2JA©¨JCé¨?Ê@Ğ@tÊDƒĞ`4EW¢aÈƒ²Ğp4DÙ(B£Q.ƒÆ¢<4å£ñ¨ ]…
-ÑT„&¢Ih2š‚¦Ç¯FÓÑ4]ƒŠQ	š…JSÊq:.GûÑ_¡=mB­$8Â¡r¸KÏÛqjç³ çü­¸ÎÕüfÄÁó%ü Áát€v-´Üüf¼íCgaôx™0Z˜F{3NQXß
-/â¯…L.Má«ù¡üNşF~'ôhäËùQ3¹·ùuüBşM~!šB1Ãyt§x µxGk¹µx$vá‘Üô<Ã^‹¯¯£cè.€ÛÑ|NÁÂßà<ï„Qß¢oq\epøş0^Ş&S­EËq\íGG ï³èTÏT´\8Æõ¡ÑiôÜGhæàEú
-Ç`ûmEs€3§1'C±|9wµà›¹-Ü9Ø‚pps&9Âóâï„§ÀÌ‘tC†Ãq:í!Ãk‹Ób9^ ıè¶æiá^äöÑI fç¦s¹µè$Ş÷ÆİŠwğÅ†Y|Z+®å§ s”7èmîğ£€ñãnt·Ø}Ë‹èk’‡‹ù­”cÈ-<¦k#¡UxŒáf ‘h!¢ş*FÂóú½$1
-­âÈ#€;Ç-ğ/@G¸L2­cÛ
-¼­@{Q=¤çÓQà	‡Q’jkâÜ¹eM«¦¨¯Lí›tÉ¥j3¨M¨ É¼@İ{ñbÁ>B˜Ú$D6·ÔÄ»ãOÿÔÃÓ}“ÆLQ÷â^Ù#ı`³‹GÂÍ	S I¯à6ÜÏÉÑY›7üË-nRK+Ô»lwÅºËæÔ—jº¶Š/6ƒ0 ˜ıˆÇ="î¹KÂRš¶ôC¶£-G[Rƒí±vw¬=¶œGmõ$¢í¬¶Ê`¹ğM˜¨{˜ÜD~ÇíXÁÏ€a8v£m<F)/Ãøó0FÖmp;5!ğL.~,ˆb¿ Ô#Ú¨8Òn›Åúôc}¦@ŸÖ§Èßç ë#GG®}±úŒAÈf@^tœYfn-ÀCÅx¬äñn´Lâ‰s"RlG‡´¤eföC)gÚZRq¬Ä 0L¥"]ÓÒq…¶Z8Öş¢6oj?¬­ÓíøE²T LÊ¯hUÀ÷ò ñÏ‹D²µµ}@Ùu@§b{<ÛHÅ—¯	À¤è®Ã¹¸œ(¿ƒÆzú¹ü»ÈPC°Õø»h‡LĞr»9&:*2"<,Ôd·Y-f“"Kºf…‹!ªíèáPŠû3iG‡Àlşc*&±Áé$ÖËöø`¶gÄ²ÃM²¼K%'K°CÛ“#µ¦â“ÅÚ…âSÅÚ_ñèí,.,ÆÚ…ÿAm	¾Q[rL;÷v#^B÷÷pĞ1|cû6íÚ ½ò_Ş|v½gX¤"º#Âì¡!=ŒQ}ø0QNŠç„UâÊ¤ĞUa+#V…$­€ÖG¥ Á"öêa—	6ô‰&(EUÓlG›Û†ir´­Ù”	ÿ€Âæ¸}¾Åö÷söLØ‚B3õGA™™©8$ã{4µ'$ãŒş†át\9èİĞhìÄn³3Ø~%tèI"6áÅŸûê¿XûÕ«ÿo*{ÅÿTíÈùï6š˜ÿõäÉÚ;¸¯œˆÅÁÃx<Pì½ûñ]¯ÊŸ~,ÅEh½Sí´ØëÙ§÷¾d!Ã±Àgg¡=¥}‡94møÅ/‚4Bä‹€è–J=Æğp—ËáF›’[ÓëápñaÓš° Õ‘áëú»úõ‰‰äeÉÚOŠ‘ûHVwÛÍ-@ö¹o)İ”¶3iç‡œawlçRÁÚ6áKºOÃq"˜6 (LHsÙñq=àŠÓc»\‡vé'¦Ê7ztŞ¸QûŞ}wß¾÷ŞkwŸ$¿ÿğ‡eûÛG÷Ñùù£GËç*ÖÕ/\X_·pë_8qâÀşãmïˆæã¼ÿşÇ·.ª«_¼¸¾n‘®×/~,nú{¢T<À3Õ„ÍF«,)VI–’ú&§ğ}R­£^81Á
-Ãš a7ö•C}Tß–ØõQ„¯³¬æå„Ş¨7¦öˆ
-éİÃÊcAím¶›úÙÚZšm±½|)ƒ®öL¦1/Ÿùö`‘Çt%4Sç–åKhvœ€wmMÛ)%`4Ãs‹ˆ¬ÄÊË²U±åcªAã]r”eŒLu£%Åèî9LfôÆ*ccSÆ¦NÃÓ¸‰†iÊ4ãÄ^Ó“§§NI»&­Ur³Å†J¥ÒXÖsiZ’lT\Æğ„ŞÆLcFdjTjtFŒ‡cÌMÈí5Oæ¦¯N˜CªŒx†Œ¯ÄcEÎ€c,8^E ¸L»ÓÓœ¡ödÏ¤H˜Zƒ,’¼&c €Z}¥Ø­M™UùÙMÚ÷Ú³Ë7õî¥½sõKsgn-7±ßƒYÃ·ÍÑFNiWæì¨Ù£™«¬Î‰'~wzNÆœA6GEiŸ§&7Y{'eş¨úM‰‰ %ğy¸‰ù<‡GÁ÷¢e<ø;ÂƒtÏNnò»8èß¤}Cxˆ¯fêuÑfÃ£æ%d´ó6xÈæ´ êvmÌëöä2úQj!A„×Ş[ó»«qâÒ¥K´o¾Ã møù¿©>yR¤Ç˜ÍÚ7Ü;ÒcF›ÅG-fƒb±€÷Hk	 ”ÑŸKˆu9B8Ãæ¥ğƒW¯øİí›søå“'ñK_ş]vâ„6â;n"—É‹ ·v”ãée3ÙÀƒ«UL~o7YÖI&…È¢`Â!+o”Íb„æ´`e~‰r£9şQÃflpc„„¾x `O·»yQÛƒÇäi»¶i;óp>;lÃãøçÿ°cÙ^m+²wÙ?,Ûƒ§h[÷0œ Š	'|IœÇ†ä1o$qŠh¢s·iu??Î pø08z;y›SÚ¿=×ş-§|ûù–öóœ©…3Q˜ÕÚI.ßÊå1‘ÇÑV‘ğÚ‹Àµ£‡ıÌñÁoãŠï•á›µ7µ»q#ëÃû¹¹S AOsO°àÎ×;Ã»kh¿‡;¥Ôyú68:Aö§ÑVN£+MŠŞımba‚Åtmrq8×Ât,øi4ŒC˜¤43q?œ
-Ép<gù°ıo'…cßWS?3b~ŠßÏÆ{‚åíV²İ±Îº:9M¡¢3($fb
-z†:ÑTlë	fc·QƒÁ6«";;’•‹Í™³háˆu‡´÷µãÚ!ìÁ	¸'öp-8ììYí3íìgŸá0m™VWàzÜ€WhÕ”>X·	<à¬ ^ÙÁs;„e´C–ÂÄp‚Âlî´4ë§g)T¬]`9”=ök\¤=Š¯Æ5¸è‡¬—FcqôÚ·Œw›`z
-èCw{Q/ğ¡Ø%¼[C–û¬ÆíAëxô$æEr:p„…¸lŒm2My‘‹‡®˜
-Ñ´…ºÀÌùáª›+d±ÃÓ“ííìJ²„
-a¡¡¡aq(.4.,e„f„Gc„œĞœ0ë4SÌ1¤ÀM„Ôt•§A–ËçîÿáE.67gYã´w¯¿I»›pâ¯áH)"ğéá7Œ¬\:.îÓ·åëßyŠÑxçÅùs@c/”çéƒÛƒåUÊSæí¢º*æ©ÈíÁMñëÄÕ‰Î`W²¹œ=mN£ÊÑ‰¶¶3ÀÔ£-ºçg">C3íïàóÁòhÜçcãzÒÄ@u}p†Şè†5Ù÷àÃÚvm_ı§×V›½æÑÇ]»éş{ïºaÆÁ™uUAìŒ½‹¸_ùá§n7N0pNiyå…«gLšÙ;‡«ês‡n~ŒÅ¼él½~Zf4Â£âX31£XBÌnDŒ†&ËdlR o“xS¸@0İ–4&–34	ò…÷Gs™&jà1â©šØ¹o´ix‹o?vL{ }¿º}9ÙÑV¨ıUûÛğàã#`°ƒõõPOoˆZ¾İ`[e_²İ°ÓÌ=‰–™WG“8„CJ²ECbÁÓvÎoŸP¶ig 	j“ÊäAİøGÙvœhŸ—4NÕş¨½¿äû…×Ÿ(¹gãÆ{&ì¯ig?5™µ¯Î£ë—†SrrîlœwGŸ¾”?K ¿xáØj4ĞŒ¶;Åí‘¦Uæ•¶íqë"W»Mr¸‹¸ƒÃ]¡1=ÜÔnÏØÎ53ô¨XÏ½K…Ú%sÁz4 ªiUİ˜ÓœÜY/ü”{½xŞ5[¶²_{õYìÒ^Ö.h'µçq#ÎıwúfÿwDkéÛç¹ııúiç­ÂwâJ\‡S©n‚ıŠ(Û*¸8Âñ.B8· ì$†Œ¶ô¼_·ll§`<Ãc4p¡'É 9D˜ëÀ±8öNŞÛ¾O»“Khï';şÏï·øÄ|Y<JA£<½ÂL	Û‘¸=5õ+^æM¤G¸µw¸£§‘@Â­=c{¤‚!€£,
-
-¤ˆç[ÎĞÌ'³;ÇÜ4}è«ÛªnjH(‚€Ü«UUsëê´EwÜ…ÃAÌV~÷«—ø!°ï½‡¾)>mÖ¬iÓK¹uójjk|K·-9ğòK—lKì}à¾?şøÃûà‰S‹‹§N½¦˜Ê~ĞfÙ‡é²7¸¶+°î^Éo]Ün[ç\ítÂƒCQ\¸™É¾¹­íŒNHsÀ êz8’¡8H†òë‰¸¡G¦o-Ü~È>rí´³Ú§8pìÑîÒöUÂK¼å åå±8¤È;-ßÿÓæi«µ{µ©1Ü¹›o¾é–[nºùffÏgáÏ³5^¤ÇÂmE»ø­¢€a9K<°XêPı1ngq¥ö İùbm±¶ƒs#ÄZ
-‡®?İ`	b-¸»Â³%h°Â€±
-kPˆRzäõƒ¼ Ñ—ÂõG`Ş¢Ã¥yÁPáÿ'ĞÍM iŠ@ş(î˜ˆ7Ğ4ˆEÍHBdÎ3°p¢minÕÑvk{Zñ›-øMÇã8A8ANøi5£Ç¸=âc¼$`I,½a‹–8Øv\à(¤Vœøâƒ/Œ(@~$ğÄ»"0Ì@tàœ)By‰iÕúµhıZÁ‹Q\–ÍÅ€D¡X4Ú“.p¼è²¢{¢m÷[Wš6/‹¾[‡»Ì9­1ˆ‹Æql”F8 ÑP·ñ%;š‡Å²ea·˜•FíÀŠ!€ÕÜKÚƒÃçx23Š']µ¿|Á+3Îc”?Ó3²·.S|¡_á’YƒúOOÎ?b8Ô»×Ÿ›õĞÔÌ+Çö}V8t»¶Îà6€ıCUA&+éŸš7.İæ’#È^kzª¼×åHİk}z`½§G,ÏOïŸ.†™z‡£ŞAÑ‰á½rƒzõNì?4Ÿ¦×@lÚ—ƒXäÆ±[Íçlà³Óìşå=¦â.æ‹©uôô/2ÒõÕnBÏ”f–]‡:yjD¡"×#AÏ»ô ^Ğu2˜S<V9mêœ¹Ó¦TâµÑ·NİşŞ_˜zkôÛ‹î4øíã-G§=ğû¹Ş2LVÜĞ6uîbíøêg´½K—ŞvÇ7àñ»?Â5ÇÓöiï%pï]~ı‚eË´i£ÆÿÊ+­£nnüêÃeOæ^ËĞÁ³´Wÿ¸Rû¡lÖì™›Jfß¼x1Î= ©ñâEw<±qÖÙ´¿iG)_„ÄğÁhiŠC”(
-J”¤ ´ÍEñÃ.E(Q²ÂóÄ­ğh‡Ä/9E–Ì@d‘@2¶3†àÍşº	ÕİoK_úWƒİƒw¹CÓ£¥aJŠ2I)W– %x‰´DnPîRÖ+ÏÁö&l§[)Ç˜ÜRoY5åò9Â(i´<…Lå'	“Å
-RÉ—³ÅbSZˆ¯ç……Rƒ|'›p›t§¼†_%¬”ÖÊ{¤gä×ÑKø%îuÃÒù8z¿Ë7“Ş—SXâEb1ÛŸÓ¾åm1—ˆ_çµÅí[ñšÃØ¦}-kíÃ¹¹Bj×í‡œäNà+xÜAèëAñ™ğeò3a",&‚¢MV9,‚7g´Éé°œ.ş7–úì"‹nN°e¦zdg‹K‰+ˆãñìO«ìÁ†u%Â2DÏ­‚®9óêcÿ×ĞØĞøÜèEwhhï¶ßÈÇqh9YQ?î*­¹½~ViI‰¶€sõxaÙ_
-Çö¿Y½†ù”rˆÓÁ¸Ğ`O¸É&#'1C¸ƒØvÈëÈêğà¾&$ö	·Áj2äkÍ¶—t¬Sw§D\Áán¶~Ö“}åL-š0}Î'‹µ»µ<¼7.şdÎÜ·êßhiy£ş­¹…¯À±—ãWÔ^Ï©]øìSíÂÈ\æ£€¯b&ãk(Jö8Ğ!y>ä”8§‚„¾¶dä”‰¾ò ïà^êÎ$Øî7V,
-ÕW¦"pŒzWË÷¾lÿ;^…‹ğ¸ù•åå•×iM°Íáw¶]ûù©?Ãñ%^íÂckßyJ( ş4àaD©şx;„–I‡,È QDLL”ÍÍù¥î±™Ìµf0€@Ô¢Û~ŞÚ^ÇÍn_Ãmşá$q'µÏaßFWpú¯Ã2êã±wÌ!`6¢OÀÒŞX`¬5vß\[ İ~»_¶­ÌÏõ¸]áÎ€xÃŸ‰ìpdt„«Ÿ)¥÷ûDÃ\âÓ8ÙÌ–s°ùEM¥½óš`¯›_Ö|wYÓDZh½O{í÷LàûñM+±}Áâï}òı×'‡ÌNü‚›âËÉaB¯ÄP¡ÊÑ.~õ¥¦Ym8¾ø`¼¾eü¾ÒÌ’òh™"' u°›%CÎ~x´–d¬¢Õ`•
-ÌÅÀûõfåîã¹+hµıÊ¢ö?q™`Ã€IÈ?'7”­‰“FÏstX?m²m²]Ë<„<WLÕÔxMğa3ì§P©G 8—iåey‚2^@ËL‚$b§ÈpÿÌæÿÊŠ)2nö€ş0à4V0U¦“¼­ÉrİB˜j?¬HZpüm7p¯ekã!óÌƒ çeÈ¡xQ¢tuíak ß§=“œ‚S´™†Á†<2Öp5™"Ì0øÈlê;Å
-C±i	¹Î°ÄPkº•¿MÜfMàÒ¸ÁÒpn¬TÄM¦H×HÅ\¹P-Õr×‹]"İ%,“‚g0–ãXXTaã}ğsíıˆK‹nßÁ¸~Š‹mÚvËkßİÁwf[
-õ©ÎóØIÁÙP^Ÿ	$~3›òÁ`Ø8õ&ô†'0Hn æ$z"œ¬Èx€¢ÈnÅÀ$;Œ‚,ŠØWú!0€6İõê<iî¨["’X_XÙú¢\æ¬’Uá†)Fv(}¸aÜhn<—gÈS&sSS•
-Îgğ)+¹û¤ûäÇ¹&C“ÎcÖùNì"6Koì&ƒp=d”4Iš*X*ğlâ•æÈÅ–[¥»ä¥0ˆ>Á”{tåÏXø9¸©Iø¯ÚÚÖóÚVm…p¬í4‰iíÃl;AÜ?ìïj/2Zä‰2 o@"â¦Ä?/	"6pıxC?İ°Â„Nuf—µ0Ïh5ĞÚlEDF—x…Çˆ“ğT±À8WˆÅÆ}xhqqá†+¹tC.ï1Lä¦Ê¹Jƒ‘‰³w:í\®Ö
-ÛO3Œ cÔæ?>I,÷×“Ò<Áâ ´Ã´.hu˜Ü×:ôuô¹¤ä1"Wh°Í•âæÀ·û­:’@m	¤¼é…šzá…§p^­UÀ‚c6¯ákm-_hm˜ÿ¢ó8T+ÓVj«´2¼ÏÁsñº@¬a1\AÁ¨ŸÇiÚa0î@Ëä`³K¶¾¼QC
-ÑO Ú°"ÓNäÀ”tˆy°ÕØÈ³Ÿ[‚£p?XP|¬Ñ·;Çj¯¿¾Làó/ÚÛ[ùƒÚ5ÕeeU:?´cŒVfyÂÍÎÈ¶Ã°­¶DZlvõU÷åûD‚ËUuïÆœ$™P”Ëd‹J@)Q“LÌå¦bó|Ó|ğ‚fƒiªqªyjÈ”°9ÆJóu&	ä$Äw0-„¾?~~.Ö–kåx¬YùŞk¸¯v¿öqÓwc#ğj\EYÌ½¿M{`ºÖ$òÀÜ¯/ê¼õÇlÄbv$ºİ“ÎEº¢œ¡Î°¨ĞP§ÛåT‚ÑYÜaZª8ƒÃˆ-Ò%"Ş¾=Ô&œF¥;+ 24Óo”ÏìT—…¿ş.!,’ÚfLDX„+<<""<r€c€3Û‘íœä˜ä,ˆö:¼ÎâhkGåâbíëòĞàX‹;µ ²rÁ&m	—‡pğòûÆ/ö¼­•ïxíL2lÚìò)ÚÚ·í™_~÷ƒ}ƒ–Ü¨MÁõµ…Ìw­€ØÚä–€óôFn>$Ì®£cx~‘w¼¶ÃÎïp¯³¯î­c"(Âe	1¸âzÙ>hi>ÚB_ºeú+jOµíHS=Eµ‰83*3:3&S=&fŒ:E™5=zfÌLuZìœH_”/ÚS¡úÔšØcƒ©Á¼(f‘º(v•ñAÓCÑkcÖ©kc··˜¶˜·Em‹Ş³MİÛkM‹o4b•»	v¶X¥`½t‘Æó¯/ü¼â®[¦6nşşÏÚ	í{µÿ[¾İpÛÕw¬üèM¬bËBÌ[´æWä›vxÿw³óÆåçäEÇ¦şyç©¯İŒO°¶æ°µEºÇ"êNş
-Èk®`Ù;¶IphaáP`!–ÕpÏÓ—º;=rgW„bÍ®-Ñl4¿ù!Ÿß©ÇÁ‹ Û°CíF	–ÁÂ!Ëj-’œJ&AŞ$í<uù©{<ÁµÁëƒõüI_ÖÙcıqfÁw-€hû¬¯Õ^ ÷uã3ë×?C–´İ¨½¨½†à¡:Ml½$¢›=	„ÖŒ¹(Ì	ô„8‰8
-:¸©è*ly¾{9‚…´Yøò1{’gãT®‰ãÁıPFÂøP!FR¥QhMFóÙÂq2B–Kö@ĞÀ±
-¾ßƒïÆ7·¿§e@¨ÜÉç·öÑãìP„¤4^âjÏ1
-â¥ HC¼TÀ^ ¸p„SÈ
-!E8t:Ln’
-‘†QÉd„uşÕ…Ñ€ÌT~r•áÕc›Œô`êLlÂkÚå£ëå(?LĞ"Ø›âVTØA¨$Ò•TØ<l›ÉÍJ”½ÜSJlá§@€—eÁ(šœ\	å]‚C
-‘Ãá¦®Ià{	°d4¥X@~Æ§	©bª!UJ“ûıÃ,¹$‡-dËcŒtı7›F&ò…B±ĞP(M“'g˜|È‡}\©à+^©B«Ô+M>Ó|2_ºNg¼Ît‡áVéNÓÓÜ>²‡ß+<%4H†	Cñµœ®‡Ã5Úm$¬¿Ïk#AV/òCéqÒ÷ÃıºÌ@…8–K~íÉæ£¨"Eè¢ÜˆŒr”$#zRdöR”Á ‚úYFnX…#^1<ÏcÖ2±A0ÌÍJ%eï´¹æš;r!¿¬º,Í»‰¬STS$b%¢Œäb“SHOY•‡tùR /'KåçH“l—9²PY‰àBø)Béƒ`İÌ÷İRkŸ!R
-Ì^4Gô™ŸáşÈÿQÚ§„Ût¦éÿH'j>íQm‹V-şd&9ø®µ]ÄšÆq­Ü	-Ÿ¦<»Ø¾æ‹?+=½ºÛ%á$$Q}–˜]Šœ$8Ñ ƒĞb3e‹•±ÅàwEA¿ÌRİ ^©œ‡+àŠÁjX B'nÜ›dàA$U¯øª\ÄŸÛCğï!µ+Â[ÚÿÄ2ã.¤mCûİ\£.{úãZ–ÓAF@¨½J {Î-÷$‡Èi!ÜŠ
-¸”Ñ*‚K	v¬»¯à‰ˆQrpÉM¥$SfÌ!£¥ñÆIä£ÏhÕæöØ[ÏÚvŠ\Ñú‰mƒ”ò¯mµ“%¯ê8ÑwÍQbızÉcã›ÅÍ\3zÖ¨ÄlôsœÃiì¦¿€Iß‘6qÕÚ§ØÕ¾B9İºáô%ï¦ï	î|÷(àtÌYÚ¿9ÉYŠ+¾¯Öç½›½‡Ñ¿‚97ÃÜJÈ3C 9ÌŠlZL_ÈÂÎ]h_]Ú§0û7§…b:ï›d«p–ùë0BxŒ–À%Ö§	Ë8şarŒ³ıM+×fÃA¨i2 w¸¾¤EñH£õ[ËnÊ~.…®’NÅØšŞj'„~3ùsÜ
-±úå?_F/ñÖ’ì…/ÈéªFŞÄ_<ıyØ<WØ^1Ó‡—¹¿;œ'ÜŠ^€Ã›µåb¹v¾NÏ§§\ü˜‰_1Éöô–EäŠ1¢?‡¾)®·¼eWÇ¼¹>ş5ûjŠ%afÙlCÌ!ƒ{ÒW hÓìzB«¿úäÜ·ç2ıyH^JÂPuhì°„qê¸ØêŒØH8nPoˆ­M¸G½'öaõáØ?¨ˆ= ˆu¤E§ÆŒˆöÄLˆ.ˆ).¹5ziÌŠèûb6EoˆÙİc£ùGà=ÉPìAùË¨=bÓ»½.ä6Õ^{õUŞ»hExôîwÇV÷Îm÷Ö¿<±ş³œ‚ÍøBŞ˜‘ãî¯N¼½ıÆ-å3^ßôÒŞÈ‰ã““±=2ê+Æ“íÌ1Bz…'BÜhzËŠ6:V[_‹x4ì-ä	3ÉæpK8!1`‹Möî\êîñÑÅÑ´¤ÕåaoÀ K ”¨vT¿`A}ıÂ…Çìn|+Ú·o6î£­ÅåŸnİ°aëãë×?Î›5C{Zk‡íé³6‰!º>Sye€¼\h 'ÆGyËaóQe£ß
-b
-77£ÁİëmçÏÙşˆ]±„ÖÚ:ó8VséRyã3rWŒ_õØc«Šôıa²ö¶¶Ö)Sà‡j¤¥>ùğÃO¦õÓNÄÄàØÛÀ]‡¦ÓwG€ MçWèFô–Å¾QxKZmy?JBxdæ<áÃƒ)¿¨ÎPWsæü™Û™N~±õ“*Å&=ÍIº2pıaÌÎÆ7µo±òfÃ®M”uıÜ”ï[6•NÇ¹˜À–;£íUÊAºô[PxúÕhá‰E¿`ù°tTXoÂï…­zÍ´:2ÂÁI3É™­ƒ#†Í]^ÒQî£•Ê¨aQMG¬ş’«“q*t”¶gÍëî¹öËÅK ×|K{ÅqXÂCµûæWÜdãÒËo¸aÄH­%µÎÀ¡8Ò^XQ¾¸±¦#f“eÀÇ`t•'Ò&`“´QÄëÑ£q—ÂAÌæl«1Dÿ| ùi¸ÒÒ6¤¹Y/ŸI£/©ÒØ‡wa©a©ÄŞ€aÖóáx{:}A–½œ7§iohkwî<ü®òÅÀ‘ùQÛRŒÁı<Éd«å~H¶ëéi%ÈqØyÔµ>(
-ÌB~Í¼+~cĞûè-ÒÓ„ÌC.NøŠË]ÒÚßÏÑEˆ»wqoÅ—½$d¯Abõ÷„Ù¤Ë+Q²Ä~D;MGw5xBÛ_Ù\:s÷ÕM›[|‹®«¯]´èà¬éxDë8kzé–6»öö±‹Cd¬İLÄÍ«Ö®ß¼rÕfàïvˆ‹AÀßP”á	3ó+'‚Şr¼f{Ô‚93e7›­6Z>Ğ-zHàM½[êîb×R—®¢öş=tûaœ¤†í‚´Õf›ctríRjÂWí©yáUn[û$^³¢&<>ákÚ‹!í[gÍ8§û8P<è»¼DXÕœD»øG9J¶nï-=r\,×ÊKe¾s-³—ÓY´µ|ñÄşwq¿–Ã`‘õ¸hõp½`ÈÂû¦Gm‚$š±Ù„l6^™ÌcÑoïè<öb{­}©]Ÿ'DôˆáŸï/Gº²<Ï?çîÓ_~1ıvÑ‰u.€yt'„Õw¡GD3²u/ ¡ÄbqAírI®a™!N1\ÃJˆKÈ<~¸Ğp¹•¿]¸Û°¬V‰!áNÎ)’Fr£„1Ò$n†4²%¯0Ÿ«åæ	‹¤Û¹;„»¥ßq
-Iî¥DÀ¯ÃÚOrùZ¾6V[+†´=…Çº	¿£õÕiğË#úiô(GÑîøş	X#µÂRÁ/Æ~1äûİf·!dØşÅ*=‰ ™7 U4„YO¨oÅ“×¢wE‚á†™$³8:Ä4:&Âeë©WrÁv£¨í¶¡ˆÿ3Ú!CÎĞ¯GÓØG´ô½¨Ç“šPP›°4á¾„'30Ó:S¿@ğ‹µë¾Òîÿ6¼ù¾‘ÏÖ>ÿš¶ãœür§­öÎ®…ËŠáOÌnØI¶TTŸû¸}7Ú>îÖõíïs£÷Í}üáöã|ñækŠkuú˜Í }—ÚÌ®ËÛÌ™l3`3İ°ÀC7¿O <hİ¯¯'XÜ„6š^£u¿áÖ<2Ü1ø’ºßÁÃ\£è:½ë÷]K~Üóó/ß¸hQ#¨I6,×OijÏàQdá7>AwŒ´W´Ø^ÁWàØ®ĞqÙ®Mf.4ŞöDuÆ»×,«ñ‡dWÄ:‹z]2Û™3—†<w;ü¹ApT¹ Ê—.éÁfúq/„½Mí»Ees—ä€¤ù‹xÔ_ObşÚ¨ãæÏ]Â@d®]ZWG±ÌÅ9L—hÀ­KúÒ•kÁ]¢2õÕ±Ü>½u€Ë‚¬ûæÕd~ ú¶÷éÊ£À-ÿm‡>‘àò§İËOD°¼&ï2(¢I¶ jÁÔ8$öqó†ôË±fÿËôKU)”´¤ÌH¹k%åWö®ÅA½{‘§ã©ß··ñÅ{k¼D óÎ¼iÌ›€>ğxÌ&Îb-ˆIxe@LL´[¯¿±œ*ä°ãhØz;¿ŞıZgnBD¡%ÄP7®û¨¹åL÷*Üßi–t¹o˜é—ËFZmœ)Ë²"&£Y¶
-ñá¦ps¸%Ìš$%ËÉJ²1Ù”lNT3¥Áò`e°qiy¬<FccÍj²û¤}ò>eŸqŸiŸÙm-‹d‘-ŠÙ8Ğ<,ñšD™Öºéxç¥Ÿ×éE:úåZÿî5å¥cK†áàƒÚ­Õ÷åâ¹§*çäVûêĞù¶Ò÷!çû:55=£O²QßğÄ®İññØÖ¿ÿ ÌÔ³½é÷;·GS¾F€<7@ÎRí	·’•l´ã]ÒF¤HF™“ÁlA–¢.¯®Xñ`lSË],,wiîÌ]š[èïd°wY°ahX0ı•,bµYí\)psÅD'”Ãç`hÀ:€¦4v._«-¿rú^íÈÑ§vîÑ^¸ˆ4wşÀ‹è©£øFøJ¦ƒì÷YøböÎ:l:òVèjŞ$r(Øj¶ßf×íCwËgÒ:=[ÄRšGƒş…Ğêw¨ÎŞüµç\ÁYìÎQàÛh°¸êÕ/¼wsÛk¯Ö¾L¾}~D|Ïík¸Ä6lbŞ#H£à#¢w.­’nõÀSİêëY=pı­6«4Ğ*Ã$®œ[ÊİÇmàšüÛ!ØŞ‚í#¶}›K@‰ÖŒ#I8ßõÀ}H"? õÇ™$“O•rP†èÍK×‰·ã;ÈíÂâ*´
-¯!kø•ÂZq+ÙƒŸ!=:ë‹1†C±ÏÖFióùâ¶V"ş°A÷	£!†Fı&|Ó%õÅşz}±?­/ö§õÅş?Y_<uÙú"-Xı¥ÅOŠªdpBª2Š¯Qª”%
-c  ›LŞVŞR€…ÂWJ¨“uO`m &HQœÆ¸×GH{K}äF·)Å’2pn°0Hd(]afÅéåÄQÒhÓT2‰Ÿ$]-§š®±”sÅü,¡X,6KeJ±±‘«åë…Z±ÖP+5(µF‚x‹t§|›ñnÓrËÒC¦û,[¸ÇÉşqá÷Òãòã6ˆDÜ#=cz7“×øWÅcÜqòÿ¾pVú«ü‰ñsÓÕL\˜şÃ±F;Oß ÷}ºv\[p`¿¶ D×FøvkûaáÚ4¿ş* ?#^àÉù©úb×dg­1Pläñ)ÅÀZX0`c÷bc=„t®ušş¨âøDø>¸ÙFbd•¤Èédˆ<‚äÉ…dº<‹TÉõäzùF²”,“—Ë¢ûÈ}äAq¼^Ş@”›İ“évˆ"oÊoÊo‘·È)ù”üùˆ|%%‡¾&ß‰å4PLŞ$%˜‹ä#¥`%ÆBçûH=4?Xê¯¤šGrcù±ÒHÅg¾-å–ówŠË¥¥Êƒh%·–_#®•V)‰MÜsüsÕ«7ù7¥CÊ{è-îÿñ”ô–ò)úˆûŠÿLüJúHù}+Ò‹,ã©á?iUxáÙÏğB8oÕnmû^»•ÊÅk»q^û©öçñ,íjw.XÛÜ¬x€g„5
-YÁÊLfb¡_¯_ê†¬ĞÌÍê¶(œM@Êzé}‚vÙ¬£,QŸŞZyé)„fŞ °_şù)‰AÀ”˜¨6wº,ZõrÜmà´`nkw·uÔï¶Âx,A 3’;‡è0ôzˆ=ÔÆ® Ä†LK¦5eã1dŸ-d‹³9¯xw›p›x‡ùËƒÜ*Xj¬1¯±lå¶‘müã–Ç­ÄûÉ^¾InR3>c~Æò
-÷ºùuË«Öw¹³\f‡k³`}µ4»ÀÇõ…0S®%:ğĞ›µWO»h—¸?xvåƒÆÆê³|ğ]FwzÂYi–iİ5w‘´>ËãnõÙÃi?YŸ9•›d¨äÊ¸y†[+¨¹dÃÀ=«ÁfìI¥#-Ü‘®1Ş+="=EH Æ¨°ô1i‘\Œ”@·‘¼İ¾“Ëosrùí¯óÅ­ík/¢V®­j;ù°Nêfzú¹¬£è–Ãm(£ Æ$7O£fü‘£9øQw”Ë$+Bg0‚T—]±
-nÛÑ!‡!Î§Ñœ‰fNAú¯ Ñ¯’èÛËLı»PV$E‡âÀï@kÀ`ƒ½¢Tò;¿ÿJÕ½C‡Ş[õÊûÇ³—MœVã›:qYõé¦ç­j<Õ°êÈóO|ï–‡ïuEÜ»nËòÉ”÷˜×¢ğ§bı]—=¬JÊñ6ı7gë¿õéÇbÔ$¡nô{ÒbÜN“UŠ0:\V^P	Šhv½ñY›íº#]á’ÃŠãƒxã€TÙÈ3‚ÓÚ†ÖÓDF`7ŠõÏCÕ©‚ŸÌÉ¸ƒn'%³“î>€PÎ=§ù|Ó&Ş“Ó•öêÉË·¬»7ÂuïÃ[î|úÉç¬j8Õ¸êĞóMô›_¼S8A
-a¡ï­ˆ0¡`ş±ÓcÁÑÈ­ÿRĞÑ–Zl‡ã±ƒ&0	=éF—•4ÁuÒNÌÙU<w¹E2Xš9eû¬¹;áÊj W“'…ç²‰„ˆCÇMèh¥ë¥—„Ád°ØÕ;¦Ó·¸ãÑ×¸D?^n;Úñ«¸¨KÄf®?˜•º%äR$¶ ğ—ºM´Ô-±R·DŸ³ûÁéx7ì/}ñ¾û‹/Ä~ß~û-È±š?G6±šúÀ§¹ª¦¾Û]Åâxîv¡-o¦Åsö7¸™{­mØ~uÈßQŒÄ>Où¨õíÌÀù»º¶Ö#òl† ‡ôg¨ÖÀÚb¿«û>ÍzÄÿ×:¼üTÎ#T#ìD„%hŠP¦p¯B–½Çğ}Ğ‹ânt·p?Ú ñh¸ØŠrõèE²5Á¾™OA‰ğü8QP5ÈÜç·9úVë~4öOaßû°O‡ıØ—ø¯Ã>‡¤£³°ßHav~3ı½it;ÈO]h¿p
-•‹›á<_ßÅûáz'ÚÏµÒıâ21îC?Ã·ğî‹@pR?‹‰ğìE´BhXKàÀ”ŞACÅ>(Axıb‹pM§´Pœá|7Ìÿ&ı£°ÏÊûĞvş ;O§|!°cíh;wî÷…z[š„¶ÑûŒ‡0ö#ßÀøÎwPãï@c(C£…Dm¿•Â‚Ä¤óôÌèGè%ÿ_‡è‰®Dhªm5Ú£ñV®	"½Éryƒ\à|2?’ŸÎ?Â®6	ÿ'¦‰÷ˆ/RwvŞM“r¤Mr¾Ü¢ä)«•Œã ãÆ7Œß˜’Lw™¶˜“Ì·˜ß°˜,u–Ï¬‹¬Û¬ŸØ®´‡Ùw9ƒŠƒn
-Zt0è£ óÁIÁ{Bøüu!ß8†869>qÚœyÎÎÃ¡CB—†¾V¶Á•çÚâ:^‘Ù;ò“¨áQ›£öEGFÏŒ~$ú]Q9ÉG}ĞuÈj#A_r±p¦l‡õR@?Wã4C÷±¿ÍA¤úŞß&âµ¿É 7Áß‰»Áß‘•{Âß–;åoé_¬ğ·ÍA÷ºİß¶ şƒ—ûÛàSàoÛ?øDßcBš‰SÙì´‘¿îosHÂ_ùÛ©Xó·y¤rıüm…qeş¶ˆ¢¹»ım	ÅqÏúÛF4ˆû›¿mv"cımªìö·mÈ9¸Ùß¶#iğghò¡Z´ Õ¡J4U ¤¢^¨%Â9¥Â–­YĞCEÃ¡Oª‡½yQ	ªFIp7´¬%C+UÁ¦¢ÂXõìÊg/Œ™Ç2è©ü‚YtÌZ3Íƒ¹æÀ˜èMñ(1ÿÜŒ#¡5ÆMBĞ£ú–0h^6¢„Q¤”8ÖBŸY ·ú©0Ş³—°g
-B#|µê*gW4¨½JÕ´ÔÔtuÖuxeC}C·¤:IÍ­)MV³ªªÔBÚ«^-ôÖ{ëæyË’•@‡•Ì«ã«™­/©ø‰#½sJ&5ª¥%5³½õjIW­¬QkgUU–ªe¾ê’ÊÀ¬;‰õp[<¡¤.†1U@î«*û©!jg·.ƒÕ_=d“E=pĞÇø›IGá·®¾ÒW£¦%§ì9 ·ï¥p)Ø¾—Ã¤œ× Á¯\Ê}5ÀÏbJÒ "„R`+óÃ˜0’a¬Îu v/ƒWÇ$àzaªhh¨”’R@ç5&×ûëJ½å¾ºÙŞä/<Îé‚A@¡JıcÓ¡Ï¨’z™¢{Fš}©Zÿ6ÊJ!‚' OY	Ïj]Ì0(×êØjJê¼K8y)ÆØØÍŠ¶ËÑ®«D	´ºríÇnAøõ›ò‹\Íoïà./ïNš+á‰ÂZìÕÂjÆë¹pÏøG¸PÊ
-¼j­Ó¸*Nì™×O×l6K_êI~¹ëÒÒgÓuL×÷$†—I¿†¯õ°>ƒ 6øu¬Ò¯%†ÎiÅ³aq©>•²~Tuè´·»®Ë^fÿºîÅuÑ’8&9:¶Œë^¥0¦ÄOŸÂ¬ 4´šAi`Oü)‡V•ß’zuàØ9õiÿĞ_]ûéŒ<¡wj™Õ”Á¥lt ›2FAÓµYğ´=ÕçP~f†$¿5—fŠÎ“ùL*˜Wjğs¦šİëJQ€†ºnZ©cÛÈx˜ÔE:´]Íä©ËZéâAêatÒOĞ‘ÔAg
-ó *ƒ¬Ûƒ»ÒÏÕîÒÿyªœÓ±­íĞè†W§ÖuR4Ÿñ£úÍ°†ræÕküz»ÌXÆt$v¦œ˜=J<½O@~å,é- ¡R6wÃ¸Òé fE~ìè‡ó1ÏĞ)ƒ®¾¨“?ö5Ğ¿Áoõİúl¥“c]}@×q*£¹„a®0ßÜ]×tnè±¤ägäécQPõË¾š;ıÇ/‘E‹D4²–ø)JîÆ©ŸKy²À[ôÙ)ÏËe~MªbzZ×qGÇ”ò´¬‹Ì»j] ‚–°ˆXÉ|F»R:(*c˜RyÕtáÆìnqUŸ)àCK˜öèº˜ãRşÔÿCšX*~
-:5¬„Éè—cĞ}Kùq9Ü’üò®bã*Â›+Ò©c~¶„ù•N¸;õ°—K£‡×ïç¼ŒŠÀLóUel|Üeâa\İ—PàY ÚÆuÑ2İfò.‰/³˜½ûºàÚè·ƒ€Ìƒ§•—á˜–¤şC{×Â¦G¯æQ½#ºÊ]Ç9pG¹¬¥T0¯²s½G/Ó¤ŸÒ“€¯»œï.c‘ †É½+¿.ÇU¥çºÊğ×Új½?Wı”¬-`I4s¨êÈ=êü#ºC¬e=³ıÓã!Õ*¥Ã«ş;=ÕOS5Ëo#şxXŞÁ©Ñ(›Í3åÃg<\¡ÉG²g¹pO…<®L‚+ú'HG2¹d±'ôy³ÆÉĞ¦Ç£‰–£öT¸Ca«ìš^…şù ‹ÍFSØÙ m`6Úö8¸›çl?:bÜ™×´=
-Ñ,TŸş!Ô"f;tÅEÇ´îwÎÚ«\6c ³qpUğGûŸÒ?ºšËàQü“X~DÛù~<uÎ2è”G2…90ÊcWôîD8@¿	ŒŸYŒfÛ|FC<×iÉfè’Ğ1Áş¸ëTÖƒşÙ×"Æ:S‘¿g“#¥g$OgËzé˜÷K™¶;¡$ûy©ãAù?©cæ	Œş<ØTFûÃ²T6Y ? 7 ;£Š·Â¸1‘Ñ—Åø0Í0œõ£\¤üÌëĞ¸Â.RÁøEåF1ÉfÊb™pYJĞºJçrÚ¡tÌ0ŠÑ—Í8•ÇzO >fCÿÜ;º>æ2ZGøy­ÃÔõ^×‰¼.ÜÁh¤’½
-fÍöëTã]w*¨œ&3ü;©Ğ%å?èÂ³Néçû¥À§ˆÍ\t®Lf¶˜Íze1YOè°‘f¿ãü˜OìĞ°N0Ñ¯Ÿã;0ëÎß€úıß¡Ã
-Ìİ]‚#™>åù1œĞÁ½‡ò3puß•q­”­s:üv÷Èİ5kìÌF»æI]|m×L@÷Â£XßêKúuŞÕWKzÌê\ëtÍİ.·Â¬õ\>õvfºïÖ×D]³Ş2–Ÿë9`}GVâcy ¯#3™ÏvÆôZíÄ×mGg.a±?©c®@,ê„¥ç•%,[ ³Õ_†›?¡”­kY¼×g™ÏÚşÌ„Ò×èïKï_Éj8Pÿù±ÔËÊ @Ëå2‡®ü¯cò®õ¯¥*‡i>™ì‡[‡ë²NPèu·êK¤Ş©}Ú tiUò`vÌË¯¤×ğèœ
-óW×¿êô[¸ÿ—êAJ·zĞ¥™×¿¯¤\¶¤ş‡ëAÊ/ªuÏäK»àÔYëôüeÔËUX”ÿZ]IıQ]IùÿêJ]êJ†ÿß¬+)İ"ì¯®¤\fµö¿PWR.[Wê¤è?SWR~¦^ğŸ©+)èŸ­+u¾uú-ëJöÖ½®ôSÑ÷§«Kúú\Ï$ş×ªK
-ê^]º|uã?S]R~†»jşoW™¦c?ÎfşóU&å¸Ê¤\Reê\ëş'«LÊ?¬2©ÿ±*“òOT™Ô[•Ia<˜PÇ0lungÁóÿ\íH¹¬Ìÿ[µ#åGµ#õ¿V;R~²vÔYú÷×”¢vôspÿ½µ£€gıéˆòãŠò+*>]«4¿eÅGù—*>?^³ıºŠÒ¥âósu‡ß¢BÓğ#øÔYiPØ<ô*¡öı®~×ñ1Ú«ŞëUgy«|ó“Õ_ğ\²:ªjAmE½ZY]ë«kğ–©åu¾j5«Î;ÏÿX`öÕ]£şÕ]×i¥söIŞºUG­ãÓ=¥ïÏş(?şÈï¨^2se½R¢6Ô•”y«Kêæª¾òK¡(J·®º²}CWY¯Vxë¼0×ìº’ =	h²`p¬n¶7Imğ©%5ÔZo]=ğÍj UJÔR@ZŞ ŸJK}ÕµĞvh¨ èÀeoM=p/±$.€•©%õõ¾ÒÊ˜O)ó•6V{kJ(>å•U ¤^" Nğ•7ÌöÇ%2Lê¼µu¾²ÆR/SV	„UÎjlğR”n’@Ì¥Ue“ù•¾Æ@¦ºÒ?¡Ng%€m¬‡ş”œ$µÚK©V˜‚ÔW$u™#‰Î™â«Së½ è]	¨úÉ¿djŠ€­¥ŒnPtÖ±‰æW€bıh Cyc]LèeË|j½/I­oœ5Ç[Ú@ïPúÊ}U l” R_MY%¥£~¢¸’Y¾y^F®E%¨ñ5€êõ»T*µ ?Së+Jªª”Y^?× °’’ntúj@/êÔj_÷²d«j½å%0Q²T÷§Õ%ÀZ`xYey%U´’ªP=h Ğ’²2F¹Î:j %u€WcUIB'*óÖWÎ®ahÌÖmQ-) õtD ŸúKg¢ ˜€1¬¤êò ücxtBôjª¨•]Ô\¡äÔyéÿ«ÉúÒF=e$•KÀ<¼ sŞ:6h¾¯®¬^ë°Ã8:wàGÍ6±$“ç·—Y^°$
-µd@y2ÏWÙ˜÷º°µ¤¶Ì«dV•—>ĞiÈ´¡t
-¥¢¤A­(©ˆŞšn<¡Z×©İejcM™áNT†œNáÏIµŞWE­š‰
-©D­¢Şl%Ğ±¶¤tnÉl ì°Æ§PUıç”ªÛTà° EoU9Ejt¶š3>¿H0>§hrVa¶š;A-(?)wdöH5.k\Ç%©“s‹FŸX¤BÂ¬ü¢©êø5+ª:67d’š=¥ 0{Âe|¡š;® /7îåæÈ›827”:Æå/RórÇåĞ¢ñl¨Tnö
-l\váˆÑp™5<7/·hj’’“[”0¹B5K-È*,Ê11/«P-˜XX0~B6À	`ósós
-a–ìqÙ@ 1¾`jaî¨ÑEI0¨n&)E…Y#³ÇeMRØx ¹Pe]’K€¡fO¢ƒ'ŒÎÊËS‡çM(*ÌÎGûRîŒÊ?.[É?1dVQîø|ux6’5</[ÇH‘—•;.I™5.k%'0	í¦“ÓÉ…•Ÿ]˜•—¤N(È‘KÀÇÜÂìE¬'ğ8‘ÇĞ1>BöUáôL‘¤LÍ¦ ²àß†#?È¥pŠÆu 29wBv’šU˜;J$§p< Kå9>‡iÀDà'^¾_*#zïÇÚ½èh?#³³ò àŠÜPºõíÊ¾®Ô[Û@uÛoÜºkdnT÷ILku' *<ªW¿Çš–À²XÔÑ½[gÀ¦á8Iw½Ì}€vC$Ò]oÙ</xÀzêJ|uŠ:“ù•õÌÒ!Vûô˜§Ö—TÁd0ŠZë¾²¤
-†Õw ÙÍ ”@0¬­«„!óë*À™¨%p·®òz®ó‡)FÚI¥Ó9èø×yëk!JUÎóV-H†¾u4–1L*kÊ}uÕ~ÒûJR…u6^ækP|u³“UEa×¿œ:ıÒßømò EÏƒÔ_“)yú+ó åÇyßÉ—2Hõ˜q™µ3aQş•\IäJÊÿF®¤èrø·åJŠn°ÿR®¤ü†¹’Ò™+©¿2WRºå¿"WR~*WRy®¤tÉ•ºšo·t	â98‰ß*]Rüé’ú/¥KJ7tÙºñ·N™”Ÿú/§LÊoš2)ş”Iıõ)“riÊ¤şš”I¹lÊ¤ş3)“R”5iÜ˜ñí¬Ñ¿*;R:)ÿW²#%©ÿJv¤tÍÔ_•)—ÍÔ%;¢ÊÚÍP:å'õŸH|”ŸO|Ô_ø(,ñé;üã„¦!ĞßÃ’%NÉÿÊï¦°ºİ\ØSXí¬Œ½ÕKfïWká^÷·…?ÿ†)ó+çV¦T‚³º.¹¶¢6Åï1Õ/~²ßDf?ÿBÿ·ôÿdİÂ-Å=‘†v#;{àX`€€{ V¸ŠGN8ÆùïÅ±~´M°ÊÇ gá3ÅF"#P4ÃÙ;†±c(;:ÙÑC :ØmÌÚAìhÅ´[ÙmlÆ&tÜ3³{ftñØ„h*Ü£O—Â=#VPO¸GŸ8zà½C°ÌFJìh@&v¤#Ä&YÁXdt	ìÈ³^„QÄ±;˜‘çâbrñJ¢i¤í‡$¡M#?$‘V|a”ğıbraù®•|«‘¿kä¼FşŸgÉ7ù›F¾ÖÈWÑäœF¾lQ„/5Ò¢ÿÅçŠğEù\!m%Ÿİï>ÓÈ§­ä“Vr.ÎjäŒF>ÖÈÿiä´F>ÒÈ)|ØJN~&œ,#„‘¢…eäıãnáıVrÜMşò¶[øK+yïİá='y÷˜Mx7„³‘£ï…£*yÇHş=şÜJŞøo»É[˜„·âÉ›o„oö$o	Ş!G‚Èax|8Š¼B^{õYá5¼úÊáÕgÉ«KùW<ÿä^™A^ñğr“—5òRi¾Ï&4käÅHò‚F×È¡ç	‡ZÉsˆD¦‘ûíÂp²ÿY«°ßNİgµ’}&òLöŒFöjäiÙDş¨‘İÙ¥‘¡ä)ir’'Î“­dœv´’?@ÿ?DípÚ¾˜<¡‘m=ÉãÙª‘Ç4²E#¿WÈf<ºÉ"<ª‘M²ÉÃoFml%`È†h²Në[É#@ü#‘äa¬{èYaFZ;CxèYòĞR~ír·°vYëá×hd5hÇj<˜LVÁÀUÑ‹d%]©’LdÜZ1–üN¿ÓÈıÀ‡ûä>Yî&÷jd™FîÑÈİ¹K#wjäÛİÂ¹İMnÓÈ­¹%Ü¼ŠÜ¤‘5²ÔE–(ä,ÖÈ",l%×·’™?o‹0_#ó¶Æ†¡±•4DúVR·˜\«‘Z_’àK"5­¤º•Tµ’¹™£‘JT”š„Š42[#åiÄ[¦^”)¤ÌÃ—ÎR„R™¥’b‡P²Šc»Pì ×(d¦Ffhd:\O×ÈÕÓ"„«52®¦E©™ÒJ&kd\{.NÒÈDE“	!¤ğ*—PØJ®‚W¹HÁx—PĞJÆçÛ…ñ.’o'ã¢IŞØ!ÏAÆ±cCÈ˜\‹0ÆNr-dt+•"Œrœ’İJF°#­d„…ÏrÃ[IÀÌrÏ0«àÑÈ°+-Â0+¹ÒB†1Cdˆ™.#ƒ4’B®ĞÈÀ`2 #\à&ıC„Œp’qˆï¯˜…ş!¤ÿR>=Í$¤‡tŸf"ıR·ı4’
-ğS·I&}“	}[I’Ã-$"}ÊHï2’¨‘^’j¢IO•¸£Ix`@ŸÑ$ŞNâYˆk%±VëáÕ£èhé¢Ü$Ò,DºHä^ğ÷ófî+„/&.˜Ô5–„i$ÔNœ0›³•8àÃMBÊH°iÄ×vØÊˆÕb¬ÁÄzˆ·Øˆe)o†'æVbJ#F Íè$Æ¥¼b&Š‡—5"iÄ QPQ#‚BÏ·RF8Åià½Ì¶d&x/.»uîóÿ?è¿À¿ñ'
-ı¿£8(endstream
-endobj
-54 0 obj
-<<
-/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 262148 /FontBBox [ -1069.336 -415.0391 1975.098 1175.293 ] /FontFile2 53 0 R 
-  /FontName /AAAAAA+DejaVuSans-Bold /ItalicAngle 0 /MissingWidth 600.0977 /StemV 165 /Type /FontDescriptor
->>
-endobj
-55 0 obj
-<<
-/BaseFont /AAAAAA+DejaVuSans-Bold /FirstChar 0 /FontDescriptor 54 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
-  /ToUnicode 52 0 R /Type /Font /Widths [ 600.0977 500 711.9141 687.0117 678.2227 600.0977 600.0977 600.0977 600.0977 600.0977 
-  600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
-  600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
-  600.0977 600.0977 348.1445 456.0547 520.9961 837.8906 695.8008 1001.953 872.0703 306.1523 
-  457.0312 457.0312 522.9492 837.8906 379.8828 415.0391 379.8828 365.2344 695.8008 695.8008 
-  695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 399.9023 399.9023 
-  837.8906 837.8906 837.8906 580.0781 1000 773.9258 762.207 733.8867 830.0781 683.1055 
-  683.1055 820.8008 836.9141 372.0703 372.0703 774.9023 637.207 995.1172 836.9141 850.0977 
-  732.9102 850.0977 770.0195 720.2148 682.1289 812.0117 773.9258 1103.027 770.9961 724.1211 
-  725.0977 457.0312 365.2344 457.0312 837.8906 500 500 674.8047 715.8203 592.7734 
-  715.8203 678.2227 435.0586 715.8203 711.9141 342.7734 342.7734 665.0391 342.7734 1041.992 
-  711.9141 687.0117 715.8203 715.8203 493.1641 595.2148 478.0273 711.9141 651.8555 923.8281 
-  645.0195 651.8555 582.0312 711.9141 365.2344 711.9141 837.8906 600.0977 ]
->>
-endobj
-56 0 obj
-<<
-/PageMode /UseNone /Pages 58 0 R /Type /Catalog
->>
-endobj
-57 0 obj
-<<
-/Author (\(anonymous\)) /CreationDate (D:20261102050201+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261102050201+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (DubraSec Wochenbericht KW44/2026) /Trapped /False
->>
-endobj
-58 0 obj
-<<
-/Count 5 /Kids [ 14 0 R 23 0 R 31 0 R 38 0 R 47 0 R ] /Type /Pages
->>
-endobj
-59 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3214
->>
-stream
-Gau0ECNC.L(B)O^d$Lk,G22J6gCBhW$'8U5+NY,*;lQL%>A\/f>O@R&KV[bNn$u?NZ*S[/$j/q-pHuNQF72+j`%8d_f_q<tN'4db_\Y%c'6[Ze3"%NcrA-OMIe*B"0H(bL-tct[jj@UthZ[:nQS4sZQD`\$+62*h&r#A?LfqXd/.T"2PWi?Qg!pb;(hNsNN+f%I*Yh@%Sm^<_[q)gEQ@sNG.44DmJPF6^&K?j0@rKiD=Z=n/9$Gp^'ZCJ&3\B_>]22PX[9Ntp'E6SK%kLA/8X'q0m/"K`qOcipp4dQ!:*rR3[10<m["?8$MnDP^2QKO&&P043Qm<>udmku]o9=t!.*8e%$POW$?(W@-oXh!Q20R_$l)pM*io,Z9[M3I+[%&`8g:eg&4+$>gq_&mo9IAL`a&,#A-SX8P3)!Ss+5?//Yn#;D/0&35e^(l[jrQ8+]PC8E;IJ%:X;S5j3f,'SYGGi0Bil()ESTGCdZ](<mbAeQGIh(:+dT.)\iC62n=gbL],1#$lY[Q_ebk(hab-EeZ1d/$q/7F',OD_,bNaa9P*De>[`5A"]tM#PjZ9mcpoO"(^a^Lm?kQ&\8uPIm/l^NhL0N?jl63m=j6qM$^4e=LiZmXM)m8s&1pEESF\TdHSO]"@bU^k/nk#,5Q@^7r#%_bV/"r2-dMVLsA+S)l,UQ1Y-O-IH_-W=.[5q_L`@\9qj]3e,ph\'$(#&/SWB7KnfpNQ@?!Bs0OYrl)$^a^2V4,[!65gLkLE;09;la]hbIUS(W!#<cIDXjqNKZm2;O+-"8rJY>`=SW?0XE'2S]_31\?]:/!9"]U<NK,?G,c<]!ZPt4!=R*Y=W?_+@#&?tn\daf@5=lfZOgY:@^\1DWOp[ffO-A>'Q]></P"V,fTVXc&4YZkZ!&?&pDnl@MNGe074g]CFjHB;)G_AY[E#:UQdWsTh<ZOH\W\T3!I2hHBGZa,aWa309S$-.L+.R0/03\9;N1J\6k`pB1d:Y\dITf"]^O2td3dIZ>D$P7\"0#K'BYh>B/.t#>$ANn-c=p1m;9A]!g$csg@@:pMrD&**C\9a=3V;J`VC(A)3<8AJ=&di%k`bCA[+N=mn*XP-'m6f%Nae*k_2D,.Q%Gf]#o1WAEQjq1YjYa&+8=d"=(o*ck7(KX-71DWKqDCcBMSup?;c,GcIs<gJ64MeCQb>J&dR0MQj-<Qfo7hgti[.QYH,Ei(NHmMDJd]=/F:<Hs-?Pg$Eh7R?H0Ef20:pC*?Dn\c_QsPskL3'+V<Y#^kT0LNnShLNfb:p/]oKCSV,n162)]KorbWl5k&D\<\_Xo4HH-p]?@h&AS<HOQD[YX!#U&I"Ygc)#H)0:^5$$)R$>@*@P++kT>Ve*.]`"obIKl%)nHjj6Ya8CkUukU[dbndAGc`1^Tkr-N!'[NW*\/.9,(KTg5)5&#/$,(7b*AKX8*)hP**XLVaE$h&.HJ$K`7k)0#6J=VY%j=9-&^+q6#)f:,I&+AN$"6",AUK5j.e*lLp;9SVE(^!7\(Va&gQf:69lXL#aC]bNSYL?K''K"P5*m(J)*]E+Q+lQo.e"*Ep9mme?cnaHOC`qd+<SM_h0fQU6cS``YqN^`X&-U`[\.C6sGRXG`G,;b9@G^bF:mCS=Tk(hPHm#76^h:@SKFB[77G8$/ToaF98pV$g;&p:Y*6Dr%apNjPDrZPm,g1i;Gh-X$WL36P+UsU6g@4r!H42Ga9DM=P>oq'%HBTJ=d3<]jS?2'Z!Ruj/r=pWr_haea644;77i8,%\+f;8];pe_X?(-`3^QUr*&iJn%o?F[*F%Zeu9b>1^rp.o`8U:kZ>M/_,B"l"ZnTGA6"0`4Lr.D8F&Z>X*e>8f0(.fe]6m2MpD8Did'?9DFIuiT\5/E#SBb`<.c?eZ,@j?=c!Qp/"Da8NL^%)h3),AUG`89]<=;oEd=njFYs0t(<b0DZs^,lL]d5J)1lj_R3od&uu9G9%8N2bpcL5pHMK*1lWme_UcF7o-F/S.T!E1VoWStt>!?+C-))!qaqPUQA-<2C*7YG!Beb\>b>#g+tbS4\uBQqX5k.YXlU7X;_79!]*:-6K)]-o-gW0[7V4^R$-qS=rU:RO#YYUA/Bh#R9DNPc=[#BV^8"@>9sM]YJ/\INk(C$K[3k1ZhN>6])@27EBYk6O,UI20@^XAA/+\RH:g;H6+X!@Th``2$'Su9%X,c(V%V3O.)^SGJU@\1WW*#GfDRkg]1?B%bNXC`;T47MVaDk,YrlneBZGWIKd_W:$>O3$%o*UpTAW8>&sdRAbgp]6'OHjr/qDqU,P[_d[$\*)2V!pDWuQ561!kc'puk:7jI5,Mh4>a4[\sV"UlDM<,Mi8\MJUaq)++u/Z0;!8LGBN*rFKdUc05NFCRVMlR?mF'Rm':86Vr-h5G/UKk5=#*d\saWqnmVpF%;C#X$)i,^+;.V3'i41QNf<%rVbGQq-3(JknaXg:0ol,<IS9h,j+3A"p_-TeESSm'J9#-C(P)4pm":K";Ca4Z)P"67rG*HnoNl.>4@6QnUn1XdmpNQj9Yi,at]e5$k?Z*Uo`a6*lFGek8i4SIX#N"2en,d7*sLn?/;?_lB1-)n>\91rVoW@quNi`#J#&"OQM7akd-=-g^d%'ttEdXq>%2fq#-[1K4goHug8oMCl1g')0rkaJD6B%s$/2@K'T_]16o:L/DDt$*n;r'$teFN&qR(*H,:l?<giB\UrRu^0WJ`ksdDe[bTH#_=.jGa0(LY<5G-1UkD)._Uf=n@DMm6bO`30(KU]^p@G+.GfV0[n4LZ+/&!d+Hi36dT.NBI#`R7,;Uen[Ki^*q58+kZQ6_60j9k,f=\??$]`Kl])XI8#=1l8RrRd.ogTJKll\!FGHJnK%;BNDl:E1R'-QXW)2rQ#8p>b3SAp6QJ8L!j8XbP-?N+c7g=OsY:SH'r*bqV<[]P<^]mNKbce",8;i].q?_B!SF<aiklD-c1e7u%_">=%CfT0!VD.%\pB.@2t`$$HFhZqW5^^NGhTDXd1=gGGIaPqQ=uXtQr1e*5;QDo`*iD!XY^,7$D6"BaD=%\X-,[B(@V9>=bim5>WEV[Q-Lej();,M8PqQrFg_/,;c@2`-#8PA*h($W>ha34h3-m/@'g]lMU8q#7rqEYJQRi!#TCj2:8Na^H:N`OhCX8Jr(NbrHfOf:0+pSMJn3a6T6l8rWPYUEf)b%at`VEdeR\N/I'(hOj^a7h>fa2J#\`#7bIQRK~>endstream
-endobj
-60 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2721
->>
-stream
-Gb!;d9lo@7&\[L3oMJ0_&DnboP@SAd>B7\uM92W"^'r*a#nn0&K7OlEo&K=f!.p:`QFO3ni8#kS(kU5mYIe/V)4s%hp[-:P8T[+ld0H<AJ>O4[OW2^?#J-ItrH@=LP9_!cjMk'`V%`c%G_,9ISgfOaG7m^@1ep2XOsE5V'M#kVq;^tK<m\`%G''J^s2M^8muJ.1b;5OY4&>^TU;2ce1eDCb_Pc=1*f\jP8aFk$9f(8X6-e^2cgqHm1cdQkoLTp''_tY,\SOLAqa+.>$G7MW$Vc,Il!HHBTg:n_dklm<1ADu5,:OIGne5EqG=hN7+Fk^H;S^t[(5-ZuY!3EU-m^fc;1'Fk7r`<$K[C;,Yr-jhdc].ZS_*IuUk]pSoa6.EUDC4+_!MB!<2N*$FL*lbIcfSS/r&6_iF4W_d;-q#Fj[,edN+tj$[#$B9b!FGHu'L[5YB7%F9d#VEe]jgSP.CQka_+\P=Yc;g1k[2>C8)Po>b`j8DD'WXFHr:mhX2"<F0$1k[Q[jSrPu3jh"b20)\FX/-T0'Ppq5;]\L8:@33/[6*-&F[1T:PIZKaHnC=JZ:iH!:.e9.SB6bZMcJ8_OI\56f]"0.4Nm4X6AW2m$q4CBXEiBN2:YB"i#!^V3_O>fQ;CL>(7Oguj,B]4E;:pO+Kqb!b^r/cR].(ZC?)a[G!>gS>UYB&(_X,j4@?f_&S+(2BeKS?%8s6a%G6EesPf3_$W#hBp=h'!4(3o9cUl)<,R'^`&!`)*QO&?eBlqHk]Dtp'G<Fp+e(!*HF!&$MQ'EF<.'tbbbp@`:V:J4hHA`1h0j=R*kjt`%j;(ajZ]VH>@W=hf@Q\I1OTGn>]\QmL!CV*G`7Fe+`$P%Z"ccEcOb.O$><:s.0TE/jZ\jt1;JQdR_]%LnqEp6Vk\M:`e]b@FJDq-kJ;,r-JECrdG?k2)j`Uc7.mF&[!j<O0*ln*[@-Pb5Kb1c27k[Pe$9NQ1:?-kt=m57pd<><)lWr^h"2%t:q-AEW(-BkLIG/Z\-g]$"p!V`+*ro<?HM&*@U;ZLbkZ^FW_mZ=JPD=XuC=:j5;cK[jD89<F->VC3lmjk<maBbCF"?.&"BeADoSBr)B,^rL,a6-KZ#"X=G"#"X]N.@(C$'tK7hQQFm;V44hIibG()Fn5F^`U>66u>R;D9>rWn#&Wq%PGlCGg(/Tq0ZbtVS4%0[bIprdB]q:#,ECLG9KJ_68Vr_B!a!WILu>F-j_:#,kTi.O1KF.hpEM$G;^KIh?eI#K(g6X!QNQIC^`6/qWi1SQ7W\&2sk.lp%EcJS_u"&`&F5bDpG63#1>ZO7?H;1I7J0YVQuG`7bCQ,l_$?;YnT"^\c%=n;qfqCnes`bcum_qqKbQ(n2MWh?s]6dh=#4+%)&<-GA^"u]W;[:(+*\NUKeD;Vkl445$0^MQktD5V.d-]@qK-naccDn!3k$WUKc^MG>ZX(NM1JHRF6B'W/dYKA+6M6\>hW</T:B\O:(%#f7%MIIDCpH#,dWJZ##'h\QNCF])<O&\<\XNcQoOBf]`W_m&[U)@mJZ2+9p/MC+Tc$8^r[+$fA'-iPCt`XO?2O1/ZQn;8X+>2cUg=?t/QPXl<ZMq4^f2Qmf1`6=iRDaa>)>JaXu&JWHQ\CG1M7,CH$$DELB.hi<c4P)aZh[dLdX7pDp[`CMm*.#rhGZZA%91(YG5UEtYoZ]kGr4ZO5WG5T:r56l70cAc'g.o@#2<q\Pl"r^.FX<$_Xa7l+N+.\LDi*H#)#\*bq=pkc(9=blh[Al!n;)psq8:ig/\pE,3E:T!ArodA5%+;UeZgIU)\SIL3g,:k/mc\4uZ[PD/U:iBBH_6R(N&ALBL5[^A]lM&$a&a4'/'Q4gEEB7(Zs9?s6ug&U%6M!#mpur?!O(!d184=)KLQ?ei-d$kigt%0[8JQ(Xlq-/CM#H;ZDiUm6[\g#c+coTYkDS'&/iQR'jbb#W5:p@8:ka%*m&g^fd"E8IDn^:Q:`ZH5&L*@Y1mN7&lCPo]DOB:?6"]TPkncV0Y>e<glpu+<E9ai5)OIb8_Y\<.iBh]gfb6:bJO$#f4'DDkY:6n>T%?ZGBnkFh>-Nbg>"NBol=+P-h1p7q1"?!j"X;,8,+o7gaM\?If_ga(tuMsc3!/Hkm1e;I-hb')M^Bn/`j'T[%ZN8:0UEMc%R`JVU%FtQ:HT""<J#lPP=.cBZQr^"V)56(2(EfG3pVPE%2cU.j`?Y4k%Ntd@42aa6uS0"M5MZp#1c2"P>WSmj./`":6j*29qU;1lIuPn&pPPLrR)&:/$WL;ECVZYW!(8a[_"UpGSI8.q7j(30c0r._[*i1Fr9IBHAj&9*&p=mQpHSH_P5s9QVQ1T44\q&s1s-Q!UCiV1FC@G4KVH^f3<*Is]6Ag#ra+NF1%<`FnmlD0tQ"5#&.ZBOA!sXL;&KVPUDHkFB&HlY<bgI'n!;#iQXgIXuP&P6d2.fuDnH./@=WT#?J7SGj*q%,B3*a2^0epL?-QrX9]dc\WKgq&4?6DiD#RK[c#b<=RYt;=D'"j\7G'-rHS]iM=h;Obl($LjA9]VXJc-852<>hspF;g8481:^Iq[,J#ZMoE[Ea,;]c('U@p0aZFP:2;`P+^VUu"ipMuDTED!%nSUK(Z`F.U-X=Ks=&f/X@-u!,6R(m9mY/?`Cqr+s6a^%(d9RhX^*%E:m(1"p,+SOfklHX3cT:6QCS]_6m=E>?k+:[WbNYQ']&'%qIWsaFBE&'KoR,W~>endstream
-endobj
-61 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2904
->>
-stream
-Gb!$GD/\/u'$&o,;p:^4mT$($#<hlhfs0$&&mq0]D@]0e?mVqN4crB[GA5%5IJE]c;PL,.:)(UUCD&TB7IJIFcMZfhN2VBDOoIGeM9^"<rApZ$VV<OgBpd?9>Iq=-qXZ-%%!lp.949dHG(p+shr>+:iTDF[h'<t^#PcdjG/?PK(K!r`1^_^1TBr^lFE<*M_mG1`I9n@[qE6U?,A\<9/?+t.j00I3HUGBh@8m)&L\bi:TX*hW]Gqf/,KKFHV\9Yk.?/?YFK(hT1,Y8A/?>u2r'kDKN]V7L8%SXXh>WE4Bl4d\_Vm3:IVZh?WLTc[Z,h9FV-[`CNBjB\p4i)KiT-q+SaKks;]&N^$=b0jI@!%FmI;OXD$OLqLHhaX<K^\5"h]IL>oH;X^SFWL*(d!'VH49QBnW&q24]mYVkiGZQ[b2D/'Yaa<9acaE920ubt;d9^<lMLcqZ.I6o]RF$X:B+YET]4`6N*[e"Rd_:6[U7P@$n1EmjHkRjFj?M2f.`:.^+G@nU$n=fH%EV'<%]EsK<cX>=ZR5/MP,,Ybu<YD&C%/0jKA>](V)<TTpJFa7=2/27sF,%HP7J%6&,E0iD&QteFYRuA/HPc!>2/+Qq[gcPu/K?WDid-HmA/&Z"&R(UXrOY&WW!8+,%G\DZ)i38a1C%u.0?Jm#7:?=UUmjHZ1;nna.Gkfu,Y#lB/3.E`>Vr$Q0C,);!jh8X"FsUdaQ5kHdMO<cWd\Eek)t]W!oX+`oOt_oj?;*qX+I."?qKOn=,b#0HH@$Nr<XDjhfTTJ7BL9Ed;.9$K]E:r4KkHJ0c7SET]=hCM_QhEp),=]]g%9:UZ0gZdZ#5UA)>k'a]`%iiC7E-."2`S]pVR^nh#oq7j)-o2:R.WGQenV-'"Ag%.dD:4cXQ_]?/M3d]mOsKJg(c/[)bU\X5oL^73^5-[rA1bPXQ4p"3e\dI5`:CrmQD-1NpmnLHnEge&n9/"j-sn]Q>o!@#<hYdco%NT?Kk3RtoO<YC.Eqn)_[BmGQ]sS.!pGl&WJPg#ETFAPnt:K`\_/1.u89$-H-"2$.8eEBntsHd@Mdf20#_)kc\3-QR15!e!)"2XjgGo;7nd'bHJo%[7o%_?!$@je^/)#`6r&:9t#`Y%@##2%pIXG^B?079rU0Ki@`/^bKGnZk"9^/fB1AGDe_!MCI.@(mT/;JYpsH&2PV$f:iFQ8&$IcP0339gtGK;8g[*QbBO+,4":K'bQ>`bOrI2,9?L<-r9W5;29VSg!%IZ!%=2m7mnHuO%5)SZL+g'!V@B3H3D.ePS;r$QOq\\BFc3D52N^\GI=O5U7t+VW<]O1D4`'O2efWg5!4u:q$\pt\*-se*4)*?.e,E\XR`f`),8PfB)r,6r1-e#+p<*k.+?jfCP*AX*8Z3<!7J:+,4a$.cN.*F(7JEZi!O6=:Nc3[@%\o@Zj[DnbG7.JgdF]WWSg`9"#_6Kc(N*0VpR`0>7*?hJ#F%\RTX7J[f>uuWU@mbFJ<9CCU,*MFPfn(`,7de>H1A-Mg&obfNLpfgY;,\cEpP>-`f%jYesrg4>/I1O3FdRt:L%V;';7e<@P(6/T4XWq^1tLOs!"rc.LT!!7P\V]PA2FELa=/J5h.lqcjDVqC8[N)*qUWmXSmA<\uTX4kd?sHj7.*(dG=pbP:T*&3AJApB^]jlK3>%T'=VS72?:+pFRt)1n0jKXDs!p@^0@o"EWWg1[mb<hi94?R9.aE_T\"6rk=X'(F?*dK=UBEoGa[B\X5PVf[a@M-ea(\1:VQi]T)fF.1bX_+/W"P'--8o]UBrcgh"O@e">ej-;AF7QL"3Pk8T9KBDf^WCWj2O=]5b"jp6.f2.I:q&qL?LjW6u9UHoNb4>-;[g<*J^YerPqZe-V9d)"/(oYi<J'F+FA1"FTMdn9s.[&HlR_7lq2qBm;1k#RZa;#%B^WN1U4i@=iK5?'.KW"C)]:;GR@^UG-MG-?5QQ#96[Go*i-Q)fVtbs1XQM.oaO':0WZ>lUNPfh.?j2a^QMR0R.5lGfgA2jbHYq8bt*mJR1e/5VVe_r[CL2(KrfalV5SZ)#N"As--*GhTIgG&)<9JW?mo<C7J*J$LnW1f8&;M$oblZd:O"%T@2h?o*\:,D%Uo6GnJXFNUJBCG<h;2l1"SFO=!an!VTF:64d9T9NiIJ1(upS1^1mQd^d4>.*^9hX.ZFDL1NpmL':rnrV+A&:L3hUNuqSj%U)_>JK*)\T\7'.rk/@#X'a*kj*naLR^NE[8)?jW]D](Cpl7_Z&+t5<lM\[rOkiYnIL%PZKD/pXRout^1Q(/:%qlG(&GbZr1hC^ml#%PMbog^H20U/")Z0m7O&E#*n>@C`L6TZniMomSDL1\E]n1]WANiPip+cSZQcmX_1^,X-nAMSUf%ULmS#A^Rl%@n8-dhN31Q&_)X=sM/-+!@L\Qn34*;#EE7.i?d8=%+bgE,JW\/6H2auol":S=m3B!qf9e/>nE[eTO4`T=^IJ.%.Qq#m-eBi+JPs&O'eq7gcPeF1.'_7[i-$*WUNa1h(hZg^W^qnZ9-\Uuk'P3cq"-BE\X$:>5-`p3(`6D5@$=F!.=7rd^'dH-FD0JgV:`hAp'R<#oJg'6s,0p)TNQAdY3\L)NkEs%,eMjmeR[I\j8i3]jRnLa[`r$5&\==TNiCQ/N;c:)6M[m!=a1q?FFH@,V#/m2%Pmh*'>fVMiRWOM*_Z/.7,bIuN'<Sdn'^mA1iJpM\L4Q7n8I%_WVWsZqCU6P&Zj`e[K=UVC6H:uRXZT7\q1`OW4FXu7.rRgA"J)>XhaUbDC'g5K`VVs3LUe`Gg#UqpPnp_Ng.TN_fThdKDYO+OZ3/U-Y&U$>fKUDsa24J(a6Fd7[:.dQ#-2m-3J#a"onf\hdHAn)oJLp+C_Qj`E8>Xb=%c+/@Gkge:#1:hJ!GW]pA,~>endstream
-endobj
-62 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2932
->>
-stream
-Gb!#\gQp;J(4EBi303]*fs)PZ[sk?/JnB#'-3\Hn]I8VQX(0=jaf[I'oC9/JS2^i(eHDbHf)Q0cg"*_$Zd4q($Lg-!IkOHhlT6"I%k3J$/u:8qA%I"]2g6(Q?MM?I'TEdsP;ilG'DsrO"a^4.6;oZ3-clMk)c$Qc1)bjG;A+b6*0,f0[=[NWf[5aMpbh3)_JhU]P?kt?\FZNR.ZXEPS;sIg=2Lm!Y5sX9WCc:%P@s:"Lq-d=V]Z6O5I<m;TBW1iA5T:!lD<hg^%r\e_a+u)UEA^f(V9JOa)c&N*;S&tP^La6>cL7kI'h#A85$_@FJ"+pjH$1c'^=ti((HHNq;F;*i[O\#Qc7F@",]186Pp8b0)*ZTdin[JY5Wn3IB8BEKO3>02-HX68t$V\DtU\=Q'Rm,V,=5G.VY=b%tEKW-opuU%$J^XJra2+rQ#`K9,GLN+!4B:nOLmLTl]hg(.jk(2TYYID07b3+S*FskHt-Y>c\mDiIB>1)-*YW'Haj+T(=nO_+1q1[ZNbe=&uH()6Ka`P-f&e5,9R61m[0-aDHVL96r0F8IJ\BCa"c;p!?4NGD)!>4rF-%?BrCUFh<a4+9Xr*Dr1<^c^%T[bD&;mn3\9S_/5ls;GD*+;JNj\l&F&GVN`!G<$_n-a@#$Vb`Si[pM06++b0STQh3UF#!&%Q*B&V*eKqnB<DeR\P]U1K,qlNEe)X-0oMk=D#$\1mW`TNbN2KeU9Q-aZOF:1@e(\.WliM,Xo>Y[JAM.]G)@fJU(L\Y7<Tf0]37q4@AJ)@:?*M1GeF[>JFDkb$"4H7$Qh@:DA=S7_:]c'hi86Mt;@.]c(C^1_!tX7o?b?AK[_Y%FUU"KEs1Tt?DGdUQ#_[%mJYgje`Kkh[4Llp,<9Al:Y&4]N7)PRKbcNC*jLV%%Rj$*./\qIY3C'`eHhOTC!W:tuD:pH%TQ:)n*1uf@_^mkhqGA)i+r^;Fn5W'-3:Nh;&FUC%?Vah$K5HCn#I475*BbV`^dDGegF%9qe93_eCc35>r$M>Q<=ZsAC)a@a"8Nm\\P`+L.sl*)OV/(o8#4KK'`*m":Z&j83Mul^6u%C?k+7$BrRBn1I%&5Va]b&h^!`X`@_)KLS&o49\1IKRd],UN1($=:@Go&@E=a1IoUC)K+Z"5sQFVSl9iE=PE,F1d^2KVGl(V"B/F5qmJRs#<6^kbT=6R&SNI+6^ja#@F7&+\H=$1ji?S?naJZ`R:mRARMY"b<!=-[Jln06;7(K)dq2lIr-a%PQXnDd+BW>UONV>oJd!upZa_9eIm0QGQ7QuG$*fl=rA%od/V')08joi5f''u,MJO,Ddua8ZAYg>:a/N\6b/d"$b7fM(R^cJ<S^TUms<qtKX=^+qq@$AMup)]8Fu!T"(T9Zt(2,3#\cpqk0clT"To(bnkf+j>ib$5^!O#],NVc9#*]GcRq4e%T[e1\&=Bn-CAu9nX[sgE[X9^[U/o]gNfDa+[k24J!gZ8TtL)mb-q#1O=u=5Sg4sO`?3p1I-VI>&Z$cl1V#ZmqQ9t\L=tDB6]l`O3;biN3/ZA"#*`P'j)snrBV,Pq(\epV^FT8\Hb@ti%qN$D<K:gEo>al<AGuIYHEh>J\PhZ%JaSFlbRgTO\$gnW2sQAq6A,./B+M0%(&9dS:T\YFSrWof7d*#!YM`#$O\t/C#^Jh7P^U@dP7nh7hVicFGN%33(qVMAJ)Y.]&X;M-fhd]dG+V-As6b@8,h.eitNt7kTK6/<)9]b3DTh^5A-Y"G7O!'7&#hm0>6TeGY^l#E9?!Ze(s@5i./t*[MYTRfg9"%Qqn`fDJ/SRVDpb?r8@'>bg)RN#'dV:US`[t32*S5eo;eY;%)`rE=s2'Je0dSbAg@.pJT#D%2$o`$\lhba;BoNRGVs?m0G<cLJ.j2r<cJn`r<Xa*9!8G*DRYb^jQmqBb\',N5(MXr2CX=8-`g&[uDDAPf\ncWSOP$Y_TWA)<fTke/KW_DI^AS9q,,CVFaXjA_nI;.M),!6U=c0IAOV<YJ$^Q>I5%<`tQoobZC=+0Y4o&$_1(qGk)klr,<I!Sp,q:E:P$%+?:>Ch6kM;,7^=p$u1@@h7CFNbRitKa.@ZKK#tVLdB>VL9cnF[4UX!HSf>Ld'$c&i"^br!!ZWn,D7&_QgbW)6@!:S%K&P#m<mg,nLXcc8(XR3D>&oujmgKsA!F/MOF+\2Xahi;ApDNR/OIn5h$b;C]HDjTm=CBghl/c5S*u$(JU/Zihp*pG2Ehgjij.V?!rK29d.tciEMJ=^MiY%/<m`rS83_+cj_'9Joit11P@0&r[]FDPdfpliJZ*/H>ZC>QLM"C8[6I-?AG):9"?'tj@=M)+s;g?XCLB2RW(-Fs)I<rdmmOA/qM6-J,;q<AP-/J3'Xrf7`P,b^i\(A&$6N>+RYgHWFH)/3EE&IX@F604a52A8bI#l)$gT2n?T/O:8*R*ORn2lD1TCN]:r.D3Xr![=63s?o&O1kM[aoc.d.M9,N.$8q:2)&dB.sm;$$-3(rL`6-31^Y<C;'D001^kJ=XSC77e.Q&CcLb$kYglXFcb*sI*L,(UrFS-g)$n]iAK_;8VlP/I/r]Ej?-C(u?6QuAGJ1S&NJ@i'*Aia(KJHYLX#P*u-',QZ!>K#5N.N=ma!BDqNs9tM#/Xt3DMka^+MHB)A?GLd[?:]!J%Y2%cJM9F(\FKh)3.%hs,Y5ZhNR=Qc3CTtTF\Tdna7BK&O*p^YS;2;Q6#=e4-8lI<N*$!BO>Wp^'Nf[."-(8kUX)l!8Z+;]g"[H]CCgq)L!Dgr2)jjK0R`_9($2>g4]#%BR=o)89B:?(rb;jG(c_bNdc]1[Un_VKULi&[*qm\4#Se5n6iNW4mq9$kbZku%(0h2SI_0ij]82uV<i<;?(!0TVXCTQO4AMGe:uYVZN>;g=a"UcBE)oTqgo.K0m3E'$X)`$Z=dFDd`&s%X!a-Y~>endstream
-endobj
-63 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2829
->>
-stream
-Gb"/(gN)%.&q0LUoV6&#Uj*V#q+6Sea(=EhQ6r#j8lZ32+ULLKe,Z.Q]Ct9o)^KRrN+9imXdY$9e3j@+!fcWsVb\O$Gkf=gJ'SIPdg:-RqVVT4R=cTl&PT@dHuel"OmD[e5n\eh8$P#:j(FE"i9'#i66*T8\<!Cqi48emc\DS]aEJjn$+Ft9N/qpH2sT@O$*E:c8Is>1#e0IG9/]F3JK+K=h>el+g(aJ6K7o3Kf/=YA<E$lVHj3q@cNjAG.:MZ';Au.i@_q/bf0<PhJLKjh?I8QU-GRIZ+*=+1%K2k[(^0AM)ihH_*9*MXIR^e_<Z/7cL_I6V#R9M<kI_RbDW(E*!(&W_r<ilDH8c2#$1c].TcVj2']=aWOR%75^E;BH]qcV"*Rpf<^@1c3&FIBU5?I%a4p5[#;c_kha%KoCHJ%Vff5#T,\CQ%-.`69cjkXXrWa*c6VRn=hd3.tk]s-tu#N;7Qrn8r4[-s;'N'js8$0#WK[at`N6NI^&a!/I^pg+EO3qslr)pYU)S?#Q5\`3/\KS1k7GF2%dN*#0#!0b'7f;,>"\SmV&\Bu'7q`_aPX.2a;"C)d<8\CY\q^s&<KoZT(hiP6iplUmNaZFIa<5B<.NFH6Xhr>8m/rl<uo["ZJ1KR7boY096@l]l)="`86/[BELT(#hhSgq#/!%oe/&ULn(<DWEX[;_a^6P$s1YT#ptBfDOg%LZT^+Z1c0#\Q92]GZ^@@_?//j_i/H!@AUFUU\EF/;stO<>nAiGp&X1;s9+QgnFoG;V?7$Hm2\>".bD^Z;P:l@tK^MrMh>P=$i>/,uR_qlNo.R$BcM?;kA'anHM3rR='8GEI:'I-P8u*?!;$N;7$_&N\D9VQuh4"bt#6J)H"X#m)IA&$MXO)T*+JJQQ"Kj_c7CU*YKj]dh`Z*EneA?K"hDmE:T$Yk)("0bBg8%CX+`ZdZ3cX?IV-R+b'GK.4%;Qfjg*e'Gr9P.Z=qAC`aR#5&Xia:]=Du'+hLcVju$,Zoe@BXpHJ\dr0Lambk[H.ZQd7?i,$C*Eiug&_p@'8(XLH^RgM,_!$.bk1QF+]BfV=elc!.1DU-5FR,2G%gSdhNdItqUIS/_,*tPer&0^5GD&-l)G-oY?]$kie,9D=;F&s)k7s:Gl,'CIOR`JH8YL:G`_Z1]?PplR9mg<7oGcD$_:SI6ZJPEk0hf),K]H+?7WQe?b"uVgF^0Kh$tktTQ6IJnL_mu.bIIZ8=bnj"Da4c-3RA4ZW&gFeP=-"K*ulM;)+U:&_oEqqNbA:b2+]!pFiTT>AN6<W.CN!fHP/q._nTb"[lV1JRti3Qa5J*\-:''ChqQS:(.tBRaA.^s1Q:_j<3]&)SQg0?fG>W2:SmsiJ;iJ(BWLTYMUA"ji:*n>/ZCeo>Gp@Bb5=RCH]D$h"Thm0at?ou0hI?>)0Vi''g"=)2^(7(>Q(fpdB@I]25fULbe%nHLgpYkZrN[YR`#Y<e]NSt8OeRCleZ+q:jc.%1o'hQn1N*_IDGTu<ICXc#6GgDVDX(i&8I$<q#@X.cQRc,RZ,T\7X0!8XR1,5DD!<'A*9uEL<DGQ7-Mr9'__LW/V.$4VMN@<l3+-qqV+K8c#ASaBOipKKI+,`QjBXLR5S!@!)lM6`Ij`%6FFVV*:$t:@bAGgaPW+Ga.m!3*Ve6A2]lrj`uW<W>('aL[aJuXJOg+=c"^HX+UP5PAcS%>qTTu[l7dSdD17OP^@5j-;jKI*0J;Mm",K:$cRBeBnd2.$VF96IOXAGO,#Zg)8sVtf+Vkr$&tfZS\X;BSWl`-ISIVBa;LtM88:M2aSl6ogVIZ$^cK`-_2Ec2qlDA,3M]@$(0rJj^)IGP]GLW`kY,MVeBGRZ2Y\BJd*`Yco7U-0KX$5YN;+iSK&#C%p35-"/peJ^Y;%gJAb)U(c\4+j:^#jN'8Vh`QG,B`(n+Z=R,htR"-,a!cB`C)2_dP8HarjHNU9GCI0BY"q?]VIi2>kaIrTOR+%N"5a\\(i58(WbAe;TfZ1;03D9Vp$4/='DPQ7.=lLAKU`9W$+ZEXk74SW)GfZVB(F3TE_Ha"GQCK7.uuD2`XQRe3+Xn?'geVpB\u-U2d=fofc]E+8!0n8HRUCR.ro]%1%cKD$8$YPETV1]OoG;f1:e""6:qKeK+gG_a0%qp!'6n_Ag)MTo+E0Gi;2:6]d`lkab:ECci@]]:Cg$D41?CCg2-GcOY]ebXk'LD<6aVm*STFr3k?6SjQ5n\B4&XF$Y@eVZ0pAMZ2"8Cdt]Psd?K7_\OY%S9:B:4Q_CpJGMLBq)XC>Y^aTVF34?8f(-Z=quVd74W!sDO*4d+u#+.@`2mOc(<mU=KePU91WDn!7Z/OHA?dD4N6^sb>_3!X>4A'/.Vhl%BdhTPnD/%K;F9RLSM6!N4@\Xd]OuGmZ@hahB"Nm@YZnOI9,`EeA>6:gSV*d/_V_>*.C23PiPJ*[;HiS!35Zuqi^>u,8eY3`@JOkcIrF`\s8/j[]H'nhl**BJ2JlR^>2kq&mA26O3KHPqtC!sCNmKX9gB^/qVm*2?+a-92M%S\D9<fqV*?G_M9q3]&e64o?%tgWd?]8M&Y$4h7Zj4uf@>#M+bBj;oo7lFph_Ui-W=_hq%o!E2Uu6DbMVars8.>Zk@Rko!_(]XCU=9&isqc&/`"QgL&[d\\\bKW>uYV;:DM$\bdpHFbj6VB$&gW<YoK=Se_]]BZ#*/go]Z5!gHL=#SMh8jZoLtE+Q7Hp;%X1eY5Y1&F<rAWGYWR'b(W:*mt`K&rtWL2*d1$i5#C%teP7$l_?<%ZZ%^q1>!#iXlT(PsJ7pT6Sl2ATc!ADnp?BpSCSA$lkh<oMEF@bh5<Og>=T~>endstream
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 27 0 R  >>
 endobj
 xref
-0 64
+0 29
 0000000000 65535 f 
-0000000061 00000 n 
-0000000118 00000 n 
-0000000225 00000 n 
-0000000430 00000 n 
-0000000689 00000 n 
-0000000949 00000 n 
-0000001224 00000 n 
-0000001499 00000 n 
-0000001728 00000 n 
-0000001948 00000 n 
-0000002227 00000 n 
-0000002505 00000 n 
-0000002790 00000 n 
-0000003075 00000 n 
-0000003366 00000 n 
-0000003573 00000 n 
-0000003780 00000 n 
-0000004049 00000 n 
-0000004318 00000 n 
-0000004579 00000 n 
-0000004840 00000 n 
-0000005115 00000 n 
-0000005391 00000 n 
-0000005665 00000 n 
-0000005895 00000 n 
-0000006109 00000 n 
-0000006416 00000 n 
-0000006723 00000 n 
-0000006944 00000 n 
-0000007223 00000 n 
-0000007502 00000 n 
-0000007769 00000 n 
-0000007971 00000 n 
-0000008148 00000 n 
-0000008460 00000 n 
-0000008773 00000 n 
-0000009058 00000 n 
-0000009343 00000 n 
-0000009603 00000 n 
-0000009809 00000 n 
-0000010009 00000 n 
-0000010219 00000 n 
-0000010419 00000 n 
-0000010698 00000 n 
-0000010977 00000 n 
-0000011207 00000 n 
-0000011436 00000 n 
-0000011710 00000 n 
-0000012482 00000 n 
-0000031921 00000 n 
-0000032180 00000 n 
-0000033513 00000 n 
-0000034282 00000 n 
-0000052790 00000 n 
-0000053060 00000 n 
-0000054409 00000 n 
-0000054479 00000 n 
-0000054779 00000 n 
-0000054868 00000 n 
-0000058174 00000 n 
-0000060987 00000 n 
-0000063983 00000 n 
-0000067007 00000 n 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000157 00000 n 
+0000000254 00000 n 
+0000000356 00000 n 
+0000006673 00000 n 
+0000006871 00000 n 
+0000007123 00000 n 
+0000007374 00000 n 
+0000007626 00000 n 
+0000007848 00000 n 
+0000008063 00000 n 
+0000008278 00000 n 
+0000008555 00000 n 
+0000008832 00000 n 
+0000009038 00000 n 
+0000016297 00000 n 
+0000016436 00000 n 
+0000023424 00000 n 
+0000023563 00000 n 
+0000026298 00000 n 
+0000026437 00000 n 
+0000033054 00000 n 
+0000033337 00000 n 
+0000033620 00000 n 
+0000033891 00000 n 
+0000034060 00000 n 
+0000035906 00000 n 
 trailer
-<<
-/ID 
-[<66c8d6a1397bfdcc19b5695f7232e87e><66c8d6a1397bfdcc19b5695f7232e87e>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 57 0 R
-/Root 56 0 R
-/Size 64
->>
+<< /Size 29 /Root 1 0 R >>
 startxref
-69928
+36045
 %%EOF
