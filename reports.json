@@ -3593,5 +3593,28 @@
         "text": "Vollständige Faktenstatus, Ereignis-/Publikationsdaten, Risiken, Empfehlungen und Quellen stehen in den verlinkten Word-/PDF-Dokumenten und der Markdown-Fassung."
       }
     ]
+  },
+  {
+    "id": "weekly-security-intelligence-2026-44",
+    "type": "week",
+    "date": "2026-11-01",
+    "start": "2026-10-26",
+    "end": "2026-11-01",
+    "title": "DubraSec Security Intelligence Wochenbericht",
+    "subtitle": "KW 44/2026 | 26.10.–01.11.2026 | mit 7-Tage-Ausblick",
+    "file": "Wochenberichte/2026-11-01_Security_Intelligence.md",
+    "docx": "Wochenberichte/DubraSec_Wochenbericht_KW44_2026.docx",
+    "pdf": "Wochenberichte/DubraSec_Wochenbericht_KW44_2026.pdf",
+    "tags": [
+      "KRITIS",
+      "Physical Security",
+      "Cyber",
+      "Versicherungen",
+      "AXA",
+      "YNCORIS",
+      "DLR",
+      "7-Tage-Ausblick"
+    ],
+    "summary": "Kölner Ausschreitungen, ukrainische Verkehrs- und Energieinfrastruktur, Charité-Datenabfluss, AXA/EIOPA und Frankreich-Streikaufruf."
   }
 ]
